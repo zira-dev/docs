@@ -1,16 +1,16 @@
 # Boxes include navigation
 
 - title: Getting Started
-  desc: Get started fast with installation and theme setup instructions
-  icon: cog
+  desc: Read the docs
+  icon: rocket
   doc: installation
 
-- title: Theme Features
-  desc: Lean about all the theme options, features and how to use them
-  icon: settings
+- title: Video tutorials
+  desc: Watch the vids
+  icon: videos
   doc: hero
 
-- title: Customization
-  desc: Get help or tailor the theme to your specific requirements
-  icon: code
+- title: Zira for enterprize
+  desc: Get the most of zira. Support, customization, integration and BI
+  icon: companies
   doc: customize

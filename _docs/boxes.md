@@ -9,8 +9,8 @@ Home page category boxes are added in `_data/navigation_boxes.yml`, e.g.:
 ```yml
 - title: Getting Started
   desc: Get your account up and running in just few easy steps
-  icon: settings
-  doc: usage
+  icon: rocket
+  doc: usag
 
 - title: Account and Billing
   desc: Managing your account, creating new users and exporting data
