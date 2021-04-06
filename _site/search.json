@@ -4,208 +4,208 @@
       "title"    : "Adding alerts to content",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/alerts/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/alerts/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Google Analytics",
       "category" : "",
       "tags"     : "",
-      "url"      : "/website/docs/analytics/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/analytics/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Category boxes section",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/boxes/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/boxes/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Creating a changelog",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/changelog/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/changelog/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Enabling comments (via Disqus)",
       "category" : "",
       "tags"     : "",
-      "url"      : "/website/docs/comments/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/comments/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Contact form (via FormSpree)",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/contact/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/contact/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Call to action section",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/cta/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/cta/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Customization",
       "category" : "",
       "tags"     : "customize",
-      "url"      : "/website/docs/customize/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/customize/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Development",
       "category" : "",
       "tags"     : "customize",
-      "url"      : "/website/docs/development/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/development/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Creating docs posts",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/docs/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/docs/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Frequently asked questions section",
       "category" : "",
       "tags"     : "features, featured",
-      "url"      : "/website/docs/faq/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/faq/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Fearured docs section",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/featured/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/featured/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Footer options",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/footer/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/footer/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Hero page header",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/hero/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/hero/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Theme installation",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/installation/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/installation/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Adding media to post and doc content",
       "category" : "",
       "tags"     : "features, featured",
-      "url"      : "/website/docs/media/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/media/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Navigation bar",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/navigation/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/navigation/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Updating your billing credit card",
       "category" : "",
       "tags"     : "othertag",
-      "url"      : "/website/docs/pages/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/pages/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Creating your first post in Jekyll",
       "category" : "",
       "tags"     : "featured",
-      "url"      : "/website/docs/posts/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/posts/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Basic theme setup",
       "category" : "",
       "tags"     : "setup",
-      "url"      : "/website/docs/setup/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/setup/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Sources and credits",
       "category" : "",
       "tags"     : "customize",
-      "url"      : "/website/docs/sources/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/sources/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Contacting support",
       "category" : "",
       "tags"     : "help, customize",
-      "url"      : "/website/docs/support/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/support/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Team members section",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/team/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/team/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Adding table of contents to docs",
       "category" : "",
       "tags"     : "features",
-      "url"      : "/website/docs/toc/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/toc/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Translation",
       "category" : "",
       "tags"     : "customize",
-      "url"      : "/website/docs/translation/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/translation/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } ,
   
     {
       "title"    : "Video lightbox boxes section",
       "category" : "",
       "tags"     : "features, featured",
-      "url"      : "/website/docs/videos/",
-      "date"     : "2021-04-06 15:37:52 +0300"
+      "url"      : "/docs/videos/",
+      "date"     : "2021-04-06 16:19:20 +0300"
     } 
   
 ]
