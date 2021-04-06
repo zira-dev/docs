@@ -2,9 +2,9 @@
 layout: page
 width: expand
 hero:
-    title: How can we help you?
-    subtitle: Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development
-    image: knowledge.svg
+    title: Digital transformation made easy
+    subtitle: Create a digital twin of your organization. get full visibility on your data and start automating things
+    image: hero-image.svg
     search: true
 ---
 

@@ -255,10 +255,10 @@ function searchResults(form) {
         <div class="uk-section section-hero uk-position-relative" data-uk-scrollspy="cls: uk-animation-slide-bottom-medium; repeat: true">
             <div class="uk-container uk-container-small">
                 
-                <p class="hero-image uk-text-center"><img src="http://localhost:4000/website/uploads/knowledge.svg" alt="Hero"></p>
+                <p class="hero-image uk-text-center"><img src="http://localhost:4000/website/uploads/hero-image.svg" alt="Hero"></p>
                 
-                <h1 class="uk-heading-primary uk-text-center uk-margin-remove-top">How can we help you?</h1>
-                <p class="uk-text-lead uk-text-center">Search or browse in depth articles and videos on everything on Docs Jekyll theme, from basic theme setup to customisation and development</p>
+                <h1 class="uk-heading-primary uk-text-center uk-margin-remove-top">Digital transformation made easy</h1>
+                <p class="uk-text-lead uk-text-center">Create a digital twin of your organization. get full visibility on your data and start automating things</p>
 
                 
                 <div class="hero-search">
@@ -297,68 +297,90 @@ function searchResults(form) {
 
     
     
+<style>
+    .rocket {
+        background-image: url(/website/uploads/rocket.svg);
+        background-position: 85px -200px;
+        background-size: 120%;
+    }
+
+    .companies {
+        background-image: url(/website/uploads/companies.svg);
+        background-size: cover;
+        background-position: center;
+    }
+
+    .videos {
+        background-image: url(/website/uploads/videos.svg);
+        background-size: 60%;
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: 120px;
+    }
+</style>
+
 <div class="uk-section">
     <div class="uk-container">
 
         
-            <h2 class="uk-h1 uk-text-center">Browse Topics</h2>
+        <h2 class="uk-h1 uk-text-center">Browse Topics</h2>
         
 
         <p class="uk-text-lead uk-text-center">Chose an option that you need help with or search above</p>
 
         <div class="uk-child-width-1-3@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid="">
-        
+            
             
             
             
             <div>
-                <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
+                <div class="rocket uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="/website/docs/installation/"></a>
-                    
-                    <span data-uk-icon="icon: cog; ratio: 3.4" class=""></span>
-                    
+                    <!-- 
+                    <span data-uk-icon="icon: rocket; ratio: 3.4" class=""></span>
+                     -->
                     <h3 class="uk-card-title uk-margin">Getting Started</h3>
                     
-                    <p>Get started fast with installation and theme setup instructions</p>
+                    <p>Read the docs</p>
                     
                 </div>
             </div>
             
-        
+            
             
             
             
             <div>
-                <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
+                <div class="videos uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="/website/docs/hero/"></a>
+                    <!-- 
+                    <span data-uk-icon="icon: videos; ratio: 3.4" class=""></span>
+                     -->
+                    <h3 class="uk-card-title uk-margin">Video tutorials</h3>
                     
-                    <span data-uk-icon="icon: settings; ratio: 3.4" class=""></span>
-                    
-                    <h3 class="uk-card-title uk-margin">Theme Features</h3>
-                    
-                    <p>Lean about all the theme options, features and how to use them</p>
+                    <p>Watch the vids</p>
                     
                 </div>
             </div>
             
-        
+            
             
             
             
             <div>
-                <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
+                <div class="companies uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="/website/docs/customize/"></a>
+                    <!-- 
+                    <span data-uk-icon="icon: companies; ratio: 3.4" class=""></span>
+                     -->
+                    <h3 class="uk-card-title uk-margin">Zira for enterprize</h3>
                     
-                    <span data-uk-icon="icon: code; ratio: 3.4" class=""></span>
-                    
-                    <h3 class="uk-card-title uk-margin">Customization</h3>
-                    
-                    <p>Get help or tailor the theme to your specific requirements</p>
+                    <p>Get the most of zira. Support, customization, integration and BI</p>
                     
                 </div>
             </div>
             
-        
+            
         </div>
 
     </div>
@@ -376,6 +398,8 @@ function searchResults(form) {
         
         
         <ul class="uk-list uk-list-large uk-margin-medium-top">
+        
+            
         
             
         
@@ -710,6 +734,10 @@ Included version updates for all items</p>
         
         <h5 class="uk-margin-top">Getting Started</h5>
         <ul class="uk-nav uk-nav-default doc-nav">
+        
+          
+          
+          <li class=""><a href="/docs/example/">Example</a></li>
         
           
           
