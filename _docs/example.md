@@ -11,7 +11,7 @@ This is a link [Click me](http://my.zira.us/):
 this is code snippet
 ```
 
-{% include image.html img="zira.png" style="wide" lightbox="true" alt="Alt for image" caption="image caption" %}
+{% include image.html img="bigimage.png" style="wide" lightbox="true" alt="Alt for image" caption="image caption" %}
 
 ### With subtitle
 
@@ -19,6 +19,6 @@ Companies risk losing billions of dollars in investor capital if they won’t op
 
 ### Youtube Videos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yBLdQ1a4-JI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kWSfeIj4lHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
