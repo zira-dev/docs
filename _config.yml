@@ -6,7 +6,7 @@
 
 # Site title and description
 title: zira
-description: Holistic platform for digital transformation 
+description: Digital transformation 
 lang: en
 
 # Site subpath, e.g. /blog
@@ -16,7 +16,7 @@ baseurl: ""
 permalink: /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url: "website.zira.us"
+url: "https://website.zira.us"
 
 # Site logo # e.g. logo.png, upload logo image file to /uploads/ folder
 logo: logo.svg
