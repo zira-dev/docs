@@ -14,7 +14,6 @@
 
 <div class="uk-section section-videos">
     <div class="uk-container{{container}}">
-        videos are: {{page.videos}}
 
         {% if include.title %}
             <h2 class="uk-h1 uk-text-center">{{ include.title }}</h2>
@@ -23,7 +22,7 @@
         {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
 
         <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid data-uk-lightbox>
-        {% for item in site.data.videos %}
+        {% for item in page.videos %}
             <div>
                 <div class="uk-card uk-card-default uk-box-shadow-small uk-box-shadow-hover-medium uk-card-body uk-inline border-radius-large border-xlight">
                     <a class="uk-position-cover" href="{{ item.url }}" data-caption="{{ item.title }}"></a>

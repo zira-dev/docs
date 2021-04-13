@@ -1,16 +1,16 @@
 # Boxes include navigation
 
 - title: Getting Started
-  desc: Read the docs
+  desc: Learn to master zira application 
   icon: rocket
   doc: installation
 
 - title: Video tutorials
-  desc: Watch the vids
+  desc: 
   icon: videos
   doc: hero
 
 - title: Zira for enterprize
-  desc: Get the most of zira. Support, customization, integration and BI
+  desc: Get the most of out of zira using our experts
   icon: companies
   doc: customize

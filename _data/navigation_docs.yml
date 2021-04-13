@@ -1,4 +1,43 @@
+
 - title: Getting Started
+  docs:
+  - what-is-zira 
+  - create-an-account
+  - create-company-and-site
+  - Create channels
+- title: Data-sources
+  docs:
+  - Overview 
+  - Forms
+  - Modbus devices
+  - Custom data-source
+- title: Channels
+  docs:
+  - Overview 
+  - Zira Feed
+  - Add people
+  - Communication 
+  - Attach data sources
+  - Charts
+  - Scheduled reports
+  - Triggers & alerts
+  - Benchmarks
+- title: Tasks
+  docs:
+  - Overview 
+  - Manage tasks
+  - Automate tasks using triggers 
+- title: Dashboards
+  docs:
+  - Overview 
+  - Create new dashboard
+  - KPI
+  - Pie chart
+  - Bar/line chart
+  - KPI table
+  - Group-by table
+  - Chart widget
+- title: Examples
   docs:
   - example 
   - installation

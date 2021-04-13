@@ -9,8 +9,8 @@ tags: [setup]
 Add your site and author details in `_config.yml`:
 
 ```yaml
-title:              Docs
-description:        Documentation Jekyll theme.
+title:              zira
+description:        zira website.
 lang:               en
 
 # Site subpath, e.g. /blog
