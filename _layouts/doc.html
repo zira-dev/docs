@@ -11,11 +11,12 @@ layout: default
                     {% for section in site.data.navigation_docs %}
                     <h5>{{ section.title }}</h5>
                     <ul class="uk-nav uk-nav-default doc-nav">
-                    {% for doc in section.docs %}
-                      {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
-                      {% assign p = site.docs | where:"url", doc_url | first %}
-                      <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
-                    {% endfor %}
+                        {% for doc in section.docs %}
+                        {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
+                        {% assign p = site.docs | where:"url", doc_url | first %}
+                        <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a
+                                href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+                        {% endfor %}
                     </ul>
                     {% endfor %}
                 </div>
@@ -35,22 +36,22 @@ layout: default
 
                     <div class="article-content link-primary">
                         {{ content }}
-                        {% if site.share.doc %}
-                            {% include share.html %}
-                        {% endif %}
+
                     </div>
 
                     {% include hook-post-content-doc.html %}
 
-                    <hr class="uk-margin-medium">
 
                     {% include paginate-doc.html %}
-                    
+
                     {% include related-videos.html columns="2" title="Related videos" subtitle="" %}
                     {% include related-docs.html %}
-
+                    <hr class="uk-margin-medium">
+                    {% if site.share.doc %}
+                    {% include share.html %}
+                    {% endif %}
                     {% if site.disqus.shortname %}
-                        {% include disqus_comments.html %}
+                    {% include disqus_comments.html %}
                     {% endif %}
                 </article>
 
@@ -64,5 +65,5 @@ layout: default
 
             </div>
 
+        </div>
     </div>
-</div>

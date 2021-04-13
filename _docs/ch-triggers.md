@@ -1,6 +1,6 @@
 ---
-title: What is zira?
-subtitle: What is zira title
+title: Triggers
+subtitle: Overview title
 # author: sara
 tags: [setup]
 videos: 

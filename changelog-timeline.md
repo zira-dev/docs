@@ -4,14 +4,14 @@ title: 🚀 April Updates
 width: medium
 ---
 
-## zira 2.0 is here
+## Zira 2.0 is here
 April comes with a whole bunch of updates across our platform and documentation
 
 Zira web and mobile application got improved user experience to allows you better navigation and sharp look & feel
 
 
 {% include tag.html tag="added" %}
-- Improved user-interface 🔥
+- Improved user-experience 🔥
 - Custom applications and [public API](https://github.com/zira-dev/zira)
 - Improved [Developer docs](/developers)
 - Global advanced-search will allow you to navigate, search and filter for every zira entity, quickly navigate between posts channels tasks forms and dashboards 
@@ -25,6 +25,6 @@ Zira web and mobile application got improved user experience to allows you bette
 - Better mobile experience
 - Instant messaging stabilization
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+**Please find below changes and timeline for zira application and API:**
 
 {% include changelog.html %}

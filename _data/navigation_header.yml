@@ -1,10 +1,10 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Getting-started
-    url: /docs/getting-started/
+  - title: Getting started
+    url: /docs/gs-what-is-zira/
   - title: Developers
-    url: /docs/developers
+    url: /docs/de-developers-overview/
   - title: Solutions
     dropdown:
       - title: IoT
@@ -26,11 +26,9 @@ left:
 # Navbar right menu navigation links
 
 right:
-
   - title: What's new?
     url: /changelog-timeline/
     button: primary-outline
-
   - title: Login
     url: https://my.zira.us
     button: success

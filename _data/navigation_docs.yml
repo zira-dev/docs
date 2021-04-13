@@ -1,27 +1,41 @@
 
 - title: Getting Started
   docs:
-  - what-is-zira 
-  - create-an-account
-  - create-company-and-site
-  - Create channels
+  - gs-what-is-zira 
+  - gs-create-an-account
+  - gs-available-platforms
+  - gs-edit-profile
+  - gs-create-company-and-site
+  - gs-create-a-channel
 - title: Data-sources
   docs:
-  - Overview 
-  - Forms
-  - Modbus devices
-  - Custom data-source
+  - ds-overview 
+  - ds-forms
+  - ds-modbus-device
+  - ds-analog-device
+  - ds-custom-data-source
+  - ds-triggers
+  - ds-advanced
 - title: Channels
   docs:
-  - Overview 
-  - Zira Feed
-  - Add people
-  - Communication 
-  - Attach data sources
-  - Charts
-  - Scheduled reports
-  - Triggers & alerts
-  - Benchmarks
+  - ch-overview 
+  - ch-feed
+  - ch-add-people
+  - ch-attach-data-sources
+  - ch-data-visualization
+  - ch-scheduled-reports
+  - ch-triggers
+  - ch-benchmarks
+- title: Developers
+  docs:
+  - de-developers-overview 
+  - de-retrieve-api-key
+  - de-add-readings
+  - de-get-real-time-data
+  - de-get-data-aggregations
+  - de-create-edit-task
+  - de-get-data-sources-list
+  - de-create-post-on-channel
 - title: Tasks
   docs:
   - Overview 
