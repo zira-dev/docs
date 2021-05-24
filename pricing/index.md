@@ -1,0 +1,6 @@
+- business model (what customers paying for? integration/customization/ data/ users?)
+- zira is free for private users (private email/single user/ number of devices/meter data/ time limit/ )
+- pricing table for free vs enterprise
+- contact for quote or we publish our pricing
+- Link to enterprize
+- our customers

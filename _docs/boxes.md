@@ -23,7 +23,7 @@ All available icons can be found [here](https://getuikit.com/docs/icon#library).
 Add boxes section to a page using the following include:
 {% raw %}
 ```yaml
-{% include boxes.html columns="3" title="Browse Topics" subtitle="Chose an option that you need help with or search above" %}
+{% include boxes.html columns="3" title="Browse Topics" subtitle="" %}
 ```
 {% endraw %}
 

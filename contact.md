@@ -1,12 +1,15 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: 
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+**For feature request or technical support, please use our [service desk](https://myzira.atlassian.net/servicedesk/customer/portal/2/group/-1)**
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+
+# Got Any Questions?
+##### Feel free to contact us using the form below
+
+{% include formspree.html email="muli.bachar@zira.us" redirect="/thanks/" name="true" subject="true" %}

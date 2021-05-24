@@ -1,90 +1,28 @@
 
 - title: Getting Started
   docs:
-  - gs-what-is-zira 
-  - gs-create-an-account
-  - gs-available-platforms
-  - gs-edit-profile
-  - gs-companies-and-sites
-  - gs-create-a-channel
+  - getting-started/introduction 
+  - getting-started/create-an-account
+  - getting-started/mobile-and-desktop-apps
+  - getting-started/edit-profile
+  - getting-started/companies-and-sites
+  - getting-started/create-a-channel
 - title: Data-sources
   docs:
-  - ds-overview 
-  - ds-forms
-  - ds-modbus-device
-  - ds-analog-device
-  - ds-custom-data-source
-  - ds-triggers
-  - ds-advanced
+  - data-sources/connect-your-first-data-source 
+  - data-sources/forms
+  - data-sources/modbus-device
+  - data-sources/analog-device
+  - data-sources/custom-data-source
+  - data-sources/triggers
+  - data-sources/advanced
 - title: Channels
   docs:
-  - ch-overview 
-  - ch-feed
-  - ch-add-people
-  - ch-attach-data-sources
-  - ch-data-visualization
-  - ch-scheduled-reports
-  - ch-triggers
-  - ch-benchmarks
-- title: Developers
-  docs:
-  - de-developers-overview 
-  - de-retrieve-api-key
-  - de-add-readings
-  - de-get-real-time-data
-  - de-get-data-aggregations
-  - de-create-edit-task
-  - de-get-data-sources-list
-  - de-create-post-on-channel
-- title: Tasks
-  docs:
-  - Overview 
-  - Manage tasks
-  - Automate tasks using triggers 
-- title: Dashboards
-  docs:
-  - Overview 
-  - Create new dashboard
-  - KPI
-  - Pie chart
-  - Bar/line chart
-  - KPI table
-  - Group-by table
-  - Chart widget
-- title: Examples
-  docs:
-  - example 
-  - installation
-  - setup
-  - navigation
-  - footer
-  - posts
-  - docs
-  - comments
-  - analytics
-
-- title: Theme Features
-  docs:
-  - hero
-  - boxes
-  - featured
-  - videos
-  - faq
-  - team
-  - cta
-  - changelog
-  - contact
-  - media
-  - toc
-  - alerts
-
-- title: Customization
-  docs:
-  - translation
-  - customize
-  - development
-  - sources
-
-- title: Help
-  docs:
-  - support
+  - channels/what-is-zira-channel 
+  - channels/feed
+  - channels/add-people
+  - channels/attach-data-sources
+  - channels/data-visualization
+  - channels/scheduled-reports
+  - channels/triggers
+  - channels/benchmarks

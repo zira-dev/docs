@@ -1,0 +1,8 @@
+- Explain what we offer to partners
+- Sell your customers the coolest solution with minimum implementation required
+- Advisors, Software companies can use zira as digital transformation solution to solve the problems of data-visibility, communication and process automation
+- customization/implementation assistant
+- training
+- CTA to pricing
+- CTA to contact sales
+- Nice image

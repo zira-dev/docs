@@ -1,5 +1,5 @@
 ---
-title: Available platforms
+title: Mobile & desktop apps
 subtitle: 
 # author: sara
 tags: [basics]

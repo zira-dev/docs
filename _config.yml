@@ -83,7 +83,7 @@ share:
 
 # Default footer image settings
 footer:
-  copyright: Made by <a href="https://unbound.studio/">Unbound Studio</a> in Cleveland.
+  copyright: Made by <a href="https://zira.us/">zira.us</a> in California.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
@@ -121,6 +121,8 @@ sass:
 collections:
   docs:
     output: true
+  developers:
+    output: true
   faqs:
     output: false
   changelogs:
@@ -140,3 +142,9 @@ defaults:
       type: docs
     values:
       layout: doc
+  # _developers
+  - scope:
+      path: ""
+      type: developers
+    values:
+      layout: dev

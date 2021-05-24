@@ -1,15 +1,10 @@
 # Mobile menu navigation links
-
-- title: Home
-  url: /
-- title: Getting started
-  url: /docs/getting-started/
 - title: Developers
-  url: /docs/developers
+  url: /developers/introduction/
 - title: Solutions
-  url: /docs/solutions
+  url: /solutions/
 - title: Partners
-  url: /docs/partners
+  url: /partners/
 - title: Contact
   url: /contact/
   button: success

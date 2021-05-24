@@ -3,14 +3,15 @@
 - title: Getting Started
   desc: Learn to master zira application 
   icon: rocket
-  doc: installation
+  url: /docs/getting-started/introduction/
 
 - title: Video tutorials
-  desc: 
+  desc: The quickest way to master zira
   icon: videos
-  doc: hero
+  url: https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA
 
-- title: Zira for enterprize
+- title: Zira for enterprise
   desc: Get the most of out of zira using our experts
   icon: companies
-  doc: customize
+  url: /enterprise/
+

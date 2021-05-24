@@ -1,33 +1,25 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Getting started
-    url: /docs/gs-what-is-zira/
+  - title: Resources
+    url: /docs/getting-started/introduction/
   - title: Developers
-    url: /docs/de-developers-overview/
+    url: /developers/getting-started/introduction/
+  - title: Blog
+    url: /blog/
   - title: Solutions
-    dropdown:
-      - title: IoT
-        url: https://pages.zira.us/iot
-      - title: Digital forms
-        url: https://pages.zira.us/forms
-      - title: Energy management
-        url: https://pages.zira.us/energy
-      - title: Monitoring
-        url: https://pages.zira.us/monitoring
-      - title: BI & data-visualization
-        url: https://pages.zira.us/monitoring
-      - title: Process-automation
-        url: https://pages.zira.us/monitoring
+    url: /solutions/
   - title: Partners
-    url: https://pages.zira.us/partners
+    url: /partners/
+  - title: Pricing
+    url: /pricing/
         
 
 # Navbar right menu navigation links
 
 right:
   - title: What's new?
-    url: /changelog-timeline/
+    url: /changelog/
     button: primary-outline
   - title: Login
     url: https://my.zira.us

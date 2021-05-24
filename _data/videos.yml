@@ -1,9 +1,14 @@
 # Video include content
 
-- title: Jekyll Introduction
-  desc: Overview of the most popular static generator
-  url: https://youtu.be/T1itpPvFWHI
-
-- title: Creating a post
-  desc: Lean how to publish your first post in Jekyll
-  url: https://youtu.be/gsYqPL9EFwQ
+- title: Creating a trigger
+  desc: Create trigger rule on real-time data
+  url: https://youtu.be/wZTnRQM43Ts
+- title: Creating a dashboard
+  desc: Create your first dashboard in minutes
+  url: https://youtu.be/3PdgtXKYy7E
+- title: Digital forms
+  desc: Use Digital forms for monitoring and business flows
+  url: https://youtu.be/3uZr34VH7uc
+- title: Creating a dashboard
+  desc: Add new data-source
+  url: https://youtu.be/ys8dQOZwK5I
