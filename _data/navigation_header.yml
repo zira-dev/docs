@@ -1,7 +1,7 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Resources
+  - title: Learn
     url: /docs/getting-started/introduction/
   - title: Developers
     url: /developers/getting-started/introduction/

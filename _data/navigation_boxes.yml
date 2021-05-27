@@ -8,6 +8,7 @@
 - title: Video tutorials
   desc: The quickest way to master zira
   icon: videos
+  target: _blank
   url: https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA
 
 - title: Zira for enterprise
