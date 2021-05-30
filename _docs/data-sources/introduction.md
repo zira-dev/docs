@@ -51,10 +51,6 @@ in additional we can see the data history.
 
 
 ### creation of new data source
-
-1. navigate to the site you want to create the new data source at.
-
-![dataSourcesContext](./siteNavigation.png)
-
-2. 
+the following video explains How to create a new data source:
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ys8dQOZwK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
