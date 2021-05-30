@@ -1,8 +1,8 @@
 ---
 layout: doc
-title: Data-sources introduction
+title: Introduction
 categories: [Data-sources]
-author: evan
+author: Gadi Maizler
 tags: 
 ---
 
