@@ -11,7 +11,7 @@ Zira supports all kinds of data inputs, each type of data input is called a data
 Data sources are located under the Companies->Sites
 
 
-{% include image.html noBorder="true" img="datasourcesContext.png" lightbox="true" alt="Hamburger menu" caption="Hamburger menu" %}
+{% include image.html noBorder="true" img="datasourcesContext.png" lightbox="true" alt="Hamburger menu" caption="data-sources-context" %}
 
 
 after the data source is defined it can be attached to different channels that can reflect the data on graphs and KPIs.
@@ -40,8 +40,9 @@ choosing a collector: ???????
 3.  **Location on site** - textual description of the location of the device.
 
 
+
 clicking on a specific data source opens the following window:
-![dataSourcesContext](./datasourceView.png)
+{% include image.html noBorder="true" img="datasourceView.png" lightbox="true" alt="datasourceView" caption="data-source-view" %}
 
 after the data source is created it receives a unique identifier that can be retrieved by clicking on the button that is circled in red.
 
