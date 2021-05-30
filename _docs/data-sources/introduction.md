@@ -6,11 +6,6 @@ author: Gadi Maizler
 tags: 
 ---
 
-
-# Data sources
-
-## Introduction
-
 Zira supports all kinds of data inputs, each type of data input is called a data source.
 
 Data sources are located under the Companies->Sites
