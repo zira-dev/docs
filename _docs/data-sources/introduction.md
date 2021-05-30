@@ -15,7 +15,7 @@ Zira supports all kinds of data inputs, each type of data input is called a data
 
 Data sources are located under the Companies->Sites
 
-![dataSourcesContext](./datasourcesContext.png)
+![dataSourcesContext](datasourcesContext.png)
 
 after the data source is defined it can be attached to different channels that can reflect the data on graphs and KPIs.
 </br>
