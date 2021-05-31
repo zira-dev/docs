@@ -23,13 +23,14 @@ each data source is defined by a set of configuration parameters.
 
 ##### mandatory configuration parameters: 
 1. **Name** - The name of the data source, must be unique at site level.
-2. **Collector** - this is the collection method, Zira support multiple collection methods, some of them are explicit such as:</br> Modbus protocol, File uploading, Clarity, Ayekka, etc...</br>
-and others are implicit such as: </br>
+2. **Collector** - this is the collection method, Zira support multiple collection methods, some of them are explicit such as:<br>Modbus protocol, File uploading, Clarity, Ayekka, etc...</br>
+<br>and others are implicit such as: </br>
 weather service, Green Button integration.
-3. **Type** - the type of the data source is defined here, after it is chosen the relevant device models will be filtered out at the "Model" field.
-4. **Schema/Model** - each data source has a schema/model that is attached to it, the schema/model defines the structure and the types of the data that is being sent to Zira
 
-5. **Inactive after** - defines the time interval that after it is passed the device is considered to be inactive.
+1. **Type** - the type of the data source is defined here, after it is chosen the relevant device models will be filtered out at the "Model" field.
+2. **Schema/Model** - each data source has a schema/model that is attached to it, the schema/model defines the structure and the types of the data that is being sent to Zira
+
+3. **Inactive after** - defines the time interval that after it is passed the device is considered to be inactive.
 
 
 #####  additional optional configuration parameters:
