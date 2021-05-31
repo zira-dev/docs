@@ -28,3 +28,5 @@
   - channels/scheduled-reports
   - channels/triggers
   - channels/benchmarks
+  - channels/kpis
+  - channels/charts
