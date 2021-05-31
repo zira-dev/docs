@@ -26,10 +26,14 @@ in addition, while this device is attached to a channel, if non of the metric pa
 *this field should be turned on fields that without them the other values has no meaning*
 3. **Metric** - a drop down, the drop down will show a list of the existing metrics defined in Zira, if non of them suits it is possible to create a new metric (at a different screen).  
 for example of metrics: Pressure, flow, AccountId, Accumulated Volume , Volume, etc...
+*each metric can be used only ones per schema.*
 4. **UOM(unit of measurement)** - a drop down, the list contains all relevant unit of measurement dependent on the last field.  
 for example: if the Volume metric was chosen the list of UOMs will be:
 Cubic feet, Cubic meter, Liter, Gallons, etc...  
 this indicates in what units the data is going to be injected to Zira.
 5. **Last Display Factor** - **DEPRECATED** 
-6. **Expression**  - a textual field - this field defines what ma
-7. **Is Calculated** - a boolean toggle
+6. **Expression**  - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira.  
+there are 2 options,
+  1. manipulating the existing value - example: "x*10+5", in this case x will be replaced with the received value
+  2. the new metric is a manipulation on other metrics - example: "$1*10+5" in this the value of the second metric will replace $1 (in this case no value is expected to be received in this specific metric)
+1. **Is Calculated** - a boolean toggle
