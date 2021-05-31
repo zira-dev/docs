@@ -4,6 +4,9 @@ title: Introduction
 categories: [Data-sources]
 author: Gadi Maizler
 tags: 
+videos: 
+    - title: Create new device
+      url: https://www.youtube.com/embed/ys8dQOZwK5I
 ---
 
 Zira supports all kinds of data inputs, each type of data input is called a data source.
@@ -30,9 +33,6 @@ weather service, Green Button integration.
 
 5. **Inactive after** - defines the time interval that after it is passed the device is considered to be inactive.
 
-choosing a collector: ???????
-
-
 
 #####  additional optional configuration parameters:
 1.  **Description** - textual field that describes the data source.
@@ -51,6 +51,6 @@ in additional we can see the data history.
 
 
 ### creation of new data source
-the following video explains How to create a new data source:
-<iframe width="640" height="420" src="https://www.youtube.com/embed/ys8dQOZwK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+check out the tutorial video below
+<!-- <iframe width="640" height="420" src="https://www.youtube.com/embed/ys8dQOZwK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
