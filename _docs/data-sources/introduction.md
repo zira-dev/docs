@@ -18,8 +18,6 @@ Data sources are located under the Companies->Sites
 
 
 after the data source is defined it can be attached to different channels that can reflect the data on graphs and KPIs.
-</br>
-
 
 each data source is defined by a set of configuration parameters.
 
