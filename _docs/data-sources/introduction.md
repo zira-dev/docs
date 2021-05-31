@@ -52,5 +52,5 @@ in additional we can see the data history.
 
 ### creation of new data source
 check out the tutorial video below
-<iframe width="640" height="420" src="https://www.youtube.com/embed/ys8dQOZwK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="640" height="420" src="https://www.youtube.com/embed/ys8dQOZwK5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
