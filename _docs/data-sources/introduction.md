@@ -6,7 +6,7 @@ author: Gadi Maizler
 tags: 
 videos: 
     - title: Create new data-source
-      url: https://www.youtube.com/embed/ys8dQOZwK5I
+      url: https://www.youtube.com/watch?v=ys8dQOZwK5I&ab_channel=Zira
 ---
 
 Zira supports all kinds of data inputs, each type of data input is called a data source.
