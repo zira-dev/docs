@@ -14,7 +14,7 @@ Zira supports all kinds of data inputs, each type of data input is called a data
 Data sources are located under the Companies->Sites
 
 
-{% include image.html noBorder="true" img="datasourcesContext.png" lightbox="true" alt="Hamburger menu" caption="data-sources-context" %}
+{% include image.html noBorder="true" img="datasourcesContext.png" lightbox="true" alt="Hamburger menu" caption="newSchema" %}
 
 
 after the data source is defined it can be attached to different channels that can reflect the data on graphs and KPIs.
@@ -23,8 +23,9 @@ each data source is defined by a set of configuration parameters.
 
 ##### mandatory configuration parameters: 
 1. **Name** - The name of the data source, must be unique at site level.
-2. **Collector** - this is the collection method, Zira support multiple collection methods, some of them are explicit such as:<br>Modbus protocol, File uploading, Clarity, Ayekka, etc...</br>
-<br>and others are implicit such as: </br>
+2. **Collector** - this is the collection method, Zira support multiple collection methods, some of them are explicit such as:  
+Modbus protocol, File uploading, Clarity, Ayekka, etc...  
+others are implicit such as:  
 weather service, Green Button integration.
 
 1. **Type** - the type of the data source is defined here, after it is chosen the relevant device models will be filtered out at the "Model" field.
