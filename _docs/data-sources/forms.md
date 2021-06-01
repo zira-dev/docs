@@ -70,6 +70,6 @@ Mass, Length, Volume, Flow, Area, Speed, etc... .
 parameters:
 * name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
 * Description - the specific description of the field
-* UOM(unit of measurement) - the unit of measurement of the expected input data.[detailed explanation can be found here](./schemas.md)
-* Calculated - indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema[detailed explanation can be found here](./schemas.md)
-* Expression - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira. [detailed explanation can be found here](./schemas.md)
+* UOM(unit of measurement) - the unit of measurement of the expected input data.[detailed explanation can be found here](../schemas.md)
+* Calculated - indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema[detailed explanation can be found here](../schemas.md)
+* Expression - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira. [detailed explanation can be found here](../schemas.md)
