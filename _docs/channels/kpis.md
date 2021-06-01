@@ -10,8 +10,8 @@ tags: [setup]
 KPI stands for Key Performance Indicator - A value that would give meaning to the data sources attached to the channel.  
 KPIs are displayed above the chart and can appear in 2 ways:
 - KPI Widget. This widget contains the following 2 values:
-    - KPI value
-    - % Compared to previous period (Optional)
+  - KPI value
+  - % Compared to previous period (Optional)
 - Pie Widget - multiple values are shown as a PIE.
 
 ## KPI Configuration
