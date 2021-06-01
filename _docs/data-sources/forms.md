@@ -30,8 +30,17 @@ each entry has a "type" field, depended on the type field additional parameters 
 {% include image.html noBorder="true" img="formNewField.png" lightbox="true" alt="form new field" caption="form new field" %}
 
 #### Types
-**"Label"** -  
-**"Text"** -  
+**"Text"** - this is a textual field that allows the user the enter any free text he desires.
+is has several parameters:
+* name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
+   {% include image.html noBorder="true" img="newNameField.png" lightbox="true" alt="new name field" caption="new name field" %}
+* Description - the specific description of the field
+* Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.
+* Regex - the text that the user enters must match the regular expression entered here. 
+* Min length - the minimum number of the characters needs to be filled at this field
+* Max length - the maximum number of the characters needs to be filled at this field
+ 
+**"Label"** - 
 **"Number"** - 
 **"Boolean"** -  
 **"List"** - 
