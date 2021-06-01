@@ -70,6 +70,6 @@ Mass, Length, Volume, Flow, Area, Speed, etc... .
 parameters:
 * name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
 * Description - the specific description of the field
-* UOM(unit of measurement) - the unit of measurement of the expected input data.[detailed explanation can be found here](schemas.md)
-* Calculated - [detailed explanation can be found here](schemas.md)
-* Expression - [detailed explanation can be found here](schemas.md)
+* UOM(unit of measurement) - the unit of measurement of the expected input data.[detailed explanation can be found here](./schemas.md)
+* Calculated - [detailed explanation can be found here](./schemas.md)
+* Expression - [detailed explanation can be found here](./schemas.md)
