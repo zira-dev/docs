@@ -30,7 +30,10 @@ each entry has a "type" field, depended on the type field additional parameters 
 {% include image.html noBorder="true" img="formNewField.png" lightbox="true" alt="form new field" caption="form new field" %}
 
 #### Types
-Label - 
-Text - 
-Number -
-Boolean - 
+**"Label"** -  
+**"Text"** -  
+**"Number"** - 
+**"Boolean"** -  
+**"List"** - 
+**"Image"** -  
+**Other"** - 
