@@ -28,3 +28,9 @@ clicking the "Add form field" button will ad a new entry to the form.
 
 each entry has a "type" field, depended on the type field additional parameters will appear.
 {% include image.html noBorder="true" img="formNewField.png" lightbox="true" alt="form new field" caption="form new field" %}
+
+#### Types
+Label - 
+Text - 
+Number -
+Boolean - 
