@@ -15,10 +15,10 @@ They also allow you to automatically see the gap between the actual data and the
 ## Benchmark Configuration
 - **Name*** - The name of the benchmark. This would appear alongside the benchmark visualization on the graph.
 - **Type*** - The type of the benchmark:
-    - Baseline - This represents the baseline of past data in order to compare it with future data.
-    - Target - This is useful to set a target you want to reach.
-    - Set-Point (High) - Useful for setting an upper limit.
-    - Set-Point (Low) - Useful for setting a lower limit.
+  - Baseline - This represents the baseline of past data in order to compare it with future data.
+  - Target - This is useful to set a target you want to reach.
+  - Set-Point (High) - Useful for setting an upper limit.
+  - Set-Point (Low) - Useful for setting a lower limit.
 - **Charted Series*** - The charted series the benchmark is defined on. The benchmark visibility depends on the visibility of the charted series - When it is visible, so would the benchmark. When it is hidden (through series configuration or clicking the series legend below the graph) the benchmark would be hidden as well.
 - **Color*** - Controls the color of the benchmark visualization on the graph.
 - **From Value*** - The benchmark base value. The gap KPI would be calculated using this value.
@@ -28,8 +28,8 @@ They also allow you to automatically see the gap between the actual data and the
 
 
 Restrictions:
-- You cannot create multiple benchmarks with the same name on the same channel.
-- You cannot create multiple benchmarks with the same Type on the same Charted Series on overlapping date ranges. 
+- It is not possible to create multiple benchmarks with the same name on the same channel.
+- It is not possible to create multiple benchmarks with the same Type on the same Charted Series on overlapping date ranges. 
 
 ## Automatic Benchmark KPI
 When creating a benchmark, a KPI representing the benchmark value is automatically added to the channel.
