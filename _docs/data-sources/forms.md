@@ -31,7 +31,7 @@ each entry has a "type" field, depended on the type field additional parameters 
 
 #### Types
 **"Text"** - this is a textual field that allows the user the enter any free text he desires.
-is has several parameters:
+parameters:
 * name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
    {% include image.html noBorder="true" img="newNameField1.png" lightbox="true" alt="new name field" caption="new name field" %}
 * Description - the specific description of the field
@@ -42,8 +42,14 @@ is has several parameters:
  
 **"Label"** - this field has only a name that can be any text. it can be used to divide the form into several sections or any other usage.
 {% include image.html noBorder="true" img="formLabel.png" lightbox="true" alt="form label" caption="form label" %}  
-**"Number"** - 
-**"Boolean"** -  
-**"List"** - 
-**"Image"** -  
-**Other"** - 
+**"Boolean"** - this field represents a checkbox.
+parameters:
+* name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
+* Description - the specific description of the field
+* Selected by default - if this field is checked, the checkbox will be checked by default when opening the form.
+{% include image.html noBorder="true" img="checkbox.png" lightbox="true" alt="checkbox" caption="checkbox" %}  
+
+
+**"List"** -  
+**"Image"** -   
+**Other"** -  
