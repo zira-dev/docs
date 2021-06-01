@@ -48,7 +48,7 @@ at the above example only "produced" entry was inserted to Zira, the cases was c
 #### Analog schema  
 
 * Analog schema is usually used for meters that their output is an analog current (in most cases it ranges between 4 - 20 milliampere) and they represent some physical value.
-for example: lets take a level meter that measures the height of a substance in a silo, the height of the silo is 30 foot.  the output of the meter is 4-20 mA, so 4 mA will represent 0 feet (height = minimum) and 20 mA will represent 30 feet (height = maximum).*
+for example: lets take a level meter that measures the height of a substance in a silo, the height of the silo is 30 foot.  the output of the meter is 4-20 [ mA ], so 4 [ mA ] will represent 0 feet (height = minimum) and 20 [ mA ] will represent 30 feet (height = maximum).*
 
 when Analog schema is chosen additional parameters are exposed for each metric:
 **Min range** - the minimum value of the output of the meter 
