@@ -1,5 +1,5 @@
-layout: doc
 ---
+layout: doc
 title: Schemas
 categories: [Data-sources]
 author: Gadi Maizler
