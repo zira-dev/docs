@@ -40,7 +40,7 @@ parameters:
 * Min length - the minimum number of the characters needs to be filled at this field
 * Max length - the maximum number of the characters needs to be filled at this field
  
-**"Label"** - this field has only a name that can be any text. it can be used to divide the form into several sections or any other usage.
+**"Label"** - a name that can be any text. it can be used to divide the form into several sections or any other usage.
 {% include image.html noBorder="true" img="formLabel.png" lightbox="true" alt="form label" caption="form label" %}  
 **"Boolean"** - this field represents a checkbox.
 parameters:
@@ -60,5 +60,9 @@ parameters:
 {% include image.html noBorder="true" img="formList1.png" lightbox="true" alt="form list drop down" caption="form list drop down" %}  
 {% include image.html noBorder="true" img="formList2.png" lightbox="true" alt="form list radio button" caption="form list radio button" %}  
 
-**"Image"** -   
+**"Image"** - allows the user to upload image as part of the form data.
+parameters:
+* name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
+* Description - the specific description of the field
+* Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.
 **Other"** -  
