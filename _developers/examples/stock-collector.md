@@ -9,19 +9,26 @@ tags: [setup]
 This example demonstrates how to easily develop a Zira stock price collector and visualize it using a Zira Channel.
 
 ## Sign up to Zira
-
+[Sign up is free and easy](my.zira.us)
 ## Create a Company and Site
+The data from the AlphaVantage API is in Eastern Time, so it is important to create the site with the Eastern Time Timezone  
+(Selecting "United States" as the country and "New York" as the state will limit the possible timezones to the correct ones).
 
 ## Create a Data Source
+In Site Overview, go to the *Data Sources* tab
 Add a Data Source with type "Form" and add/select the following metrics:
 1. "Open"  
     Type: Number
+    Precision: 4
 2. "High":  
    Type: Number
+   Precision: 4
 3. "Low":  
    Type: Number
+   Precision: 4
 4. "Close":  
    Type: Number
+   Precision: 4
 5. "Volume":  
    Type: Number 
 
@@ -172,3 +179,19 @@ pipeline {
     }
 }
 ```
+
+Run the Jenkins Job - data should appear in the Zira device you created shortly.  
+You can also have it run on schedule, i.e once a day through Jenkins Job configuration.
+
+## Create a Stocks channel
+In Site Overview go to the *Channels* tab.  
+Create a new channel of type "Stocks".  
+
+## Create a Stock sub-channel
+Click the ... on the channel you just created and Add Sub-channel of type Stock
+Attach the Data Source you created earlier  
+You should now see the stock data visualized in Zira - cool!
+
+## Next Steps...
+You can create a device per stock (symbol) you want to track. You might have to create multiple Jenkins jobs or modify the existing script to handle more than one symbol (shouldn't be too difficult :) ).  
+If you intend to do so and wish to track each stock separately, create a Stock sub-channel per stock. The Parent channel will display only the "close" value of each of the data sources attached to its subsystems.
