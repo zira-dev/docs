@@ -15,7 +15,7 @@ a schema is a list of metrics, with an additional configuration such as schema t
 
 in our case we will start with the standard schema.
 
-#### Standard-schema  
+#### Standard schema  
 
 each metric holds the following parameters:
 1. **Is main** - a boolean toggle, only a single metric can be marked as main metric, when looking at the data-source list the last reading field will hold the latest value of the main metric.  
@@ -45,7 +45,7 @@ at the above example the value that was inserted was 1.
 at the above example only "produced" entry was inserted to Zira, the cases was calculated from the Produced value. so 300 Liters where produced and each 0.5 Liters are a bottle , each case holds 24 bottles so 25 cases were produced.
 
 
-#### Analog-schema  
+#### Analog schema  
 
 * Analog schema is usually used for meters that their output is an analog current (in most cases it ranges between 4 - 20 milliampere) and they represent some physical value.
 for example: lets take a level meter that measures the height of a substance in a silo, the height of the silo is 30 foot.  the output of the meter is 4-20 [ mA ], so 4 [ mA ] will represent 0 feet (height = minimum) and 20 [ mA ] will represent 30 feet (height = maximum).*
