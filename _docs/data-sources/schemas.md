@@ -6,8 +6,8 @@ author: Gadi Maizler
 tags: 
 ---
 
-Schema is an entity that is attached to a data-source, this entity describes the data that is expected to be received.
-
+Schema is an entity that is attached to a data-source, this entity describes the data that is expected to be received.  
+Schemas can be reused by multiple data-sources.  
 
 a schema is a list of metrics, with an additional configuration such as schema type.
 

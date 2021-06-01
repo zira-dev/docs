@@ -1,25 +1,26 @@
 ---
-title: Digital forms
-subtitle: Digital forms title
-# author: sara
-tags: [setup]
-videos: 
-    - title: Vid1 title
-      url: https://youtu.be/_OhSTyVSCSM
-    - title: Vid2 title
-      url: https://youtu.be/-RYkapHBVs8
+layout: doc
+title: Forms
+categories: [Data-sources]
+author: Gadi Maizler
+tags: 
 ---
 
-This is a link [Click me](http://my.zira.us/):
+Form is a type of data-source that allows clients to enter data manually in a convenient and intuitive way.  
+creation of a new form is done by selecting "Form" collector.
 
-```bash
-this is code snippet
-```
+{% include image.html noBorder="true" img="formCollector.png" lightbox="true" alt="form collector" caption="form collector" %}
 
-{% include image.html img="bigimage.png" style="wide" lightbox="true" alt="Alt for image" caption="image caption" %}
+the creation of a "Form" data-source has a dedicated user interface with the following parameters:
+1. **Name** - textual field, the name of the data-source
+2. **Linked form**(optional) - a drop down list, shows the list of the additional forms at the same site, this defines what form the user should be redirected to after form submission.
+for example : if there is a certain routine that should be done each morning at 3, the user will be moved from one form to another to ease up the process.  
+1. **Publish to**(optional) - a drop down list, shows the list of channels under the same site as the data-source, upon form submission a new post will be created on each of those channel, the post will contain all the data that was filled to the form.  
+*more than one channel can me chosen*
 
-### With subtitle
+2. **Description**(optional) - a short description of what the form is used for.
 
-Companies risk losing billions of dollars in investor capital if they won’t optimize their energy consumption and digitally adapt to a new world where energy makes the difference between profit and loss.  Zira has what it takes to solve energy challenges 100X faster and cheaper by unleashing AI and ML.
+{% include image.html noBorder="true" img="createForm1.png" lightbox="true" alt="create form" caption="create form" %}
 
 
+1. aditional data
