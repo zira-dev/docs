@@ -56,7 +56,6 @@ parameters:
 * Description - the specific description of the field
 * Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.
 * As radio -  effects on the way the list is shown to the user, radio buttons OR drop down
-* 
 {% include image.html noBorder="true" img="formList1.png" lightbox="true" alt="form list drop down" caption="form list drop down" %}  
 {% include image.html noBorder="true" img="formList2.png" lightbox="true" alt="form list radio button" caption="form list radio button" %}  
 
@@ -64,5 +63,13 @@ parameters:
 parameters:
 * name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
 * Description - the specific description of the field
-* Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.
-**Other"** -  
+* Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.  
+
+**"Other"** -  all other metrics types are the same, the type represents the general category of the metric such as:  
+Mass, Length, Volume, Flow, Area, Speed, etc... .  
+parameters:
+* name - the name of the field, it is a dropdown with the existing metric names, start typing the name needed and choose it. if the desired name does not you can add it.
+* Description - the specific description of the field
+* UOM(unit of measurement) - the unit of measurement of the expected input data.[detailed explanation can be found here](schemas.md)
+* Calculated - [detailed explanation can be found here](schemas.md)
+* Expression - [detailed explanation can be found here](schemas.md)
