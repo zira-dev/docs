@@ -41,7 +41,7 @@ Copy the ID of the data sources you just created - you'll need it in the next st
 2. Create a Jenkins Pipeline Job with the following script.  
    **Make sure to change the values of *meterId*, *alphaVantageCredId* and *ziraCredId* in the beginning of the script**
 
-```
+```groovy
 /* ****** CHANGE HERE - BEGIN ******* */
 
 def meterId='4113' //the data source ID we created in Zira to hold Stock Data
