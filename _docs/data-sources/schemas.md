@@ -37,6 +37,6 @@ there are 2 options:
    at the above example only "produced" entry was inserted to Zira, the cases was calculated from the Produced value. so 300 Liters where produced and each 0.5 Liters are a bottle , each case holds 24 bottles so 25 cases were produced.
 7. **Is Calculated** - a boolean toggle, indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema. for example: if "Volume" is chosen with the calculated field on, it is expected that the "Accumulated Volume" will be present as well. the output is the for each entry the Volume field will show the diff between the current "Accumulated volume" and the previews "Accumulated volume".
 
-{% include image.html noBorder="true" img="calculatedFieldExampleWithConf.png" lightbox="true" alt="calculated-example" caption="calculated-example" %}
+{% include image.html noBorder="true" img="calculatedFieldExample.png" lightbox="true" alt="calculated-example" caption="calculated-example" %}
 
 bla bla
