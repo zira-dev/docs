@@ -30,9 +30,9 @@ Cubic feet, Cubic meter, Liter, Gallons, etc...
 this indicates in what units the data is going to be injected to Zira.
 5. **Last Display Factor** - **DEPRECATED**
 6. **Expression**  - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira.  
-there are 2 options:
+there are 2 options:  
    * manipulating the existing value - example: "x*10+5", in this case x will be replaced with the received value{% include image.html noBorder="true" img="valueExpression1.png" lightbox="true" alt="expression-example 1" caption="expression-example 1" %}
    at the above example the value that was inserted was 1.
    * the new metric is a manipulation on other metrics - example: "$1*10+5" in this the value of the second metric will replace $1 (in this case no value is expected to be received in this specific metric){% include image.html noBorder="true" img="valueExpression2.png" lightbox="true" alt="expression-example 2" caption="expression-example 2" %}
-   at the above example only "produced" entry was inserted to Zira, the cases was calculated from the Produced value. so 300 Liters where produced and each 0.5 Liters are a bottle , each case holds 24 bottles so 25 cases were produced.
+   at the above example only "produced" entry was inserted to Zira, the cases was calculated from the Produced value. so 300 Liters where produced and each 0.5 Liters are a bottle , each case holds 24 bottles so 25 cases were produced.  
 7. **Is Calculated** - a boolean toggle, indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema. for example: if "Volume" is chosen with the calculated field on, it is expected that the "Accumulated Volume" will be present as well. the output is the for each entry the Volume field will show the diff between the current "Accumulated volume" and the previews "Accumulated volume".{% include image.html noBorder="true" img="calculatedFieldWithConf.png" lightbox="true" alt="calculated-example" caption="calculated-example" %}
