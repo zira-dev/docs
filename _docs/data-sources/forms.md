@@ -56,8 +56,8 @@ parameters:
 * Description - the specific description of the field
 * Required - whether this field is required, if the required field is checked, the user won't be able to submit the form unless the field is filled.
 * As radio -  effects on the way the list is shown to the user, radio buttons OR drop down
-{% include image.html noBorder="true" img="formList1.png" lightbox="true" alt="form list drop down" caption="form list drop down" %}  
-{% include image.html noBorder="true" img="formList2.png" lightbox="true" alt="form list radio button" caption="form list radio button" %}  
+{% include image.html noBorder="true" img="formList1.png" lightbox="true" alt="form list drop down" caption="form list drop down1" %}  
+{% include image.html noBorder="true" img="formList2.png" lightbox="true" alt="form list radio button" caption="form list radio button1" %}  
 
 **"Image"** - allows the user to upload image as part of the form data.
 parameters:
