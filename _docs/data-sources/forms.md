@@ -20,7 +20,7 @@ for example : if there is a certain routine that should be done each morning at 
 
 4. **Description**(optional) - a short description of what the form is used for.
 
-{% include image.html noBorder="true" img="createForm1.png" lightbox="true" alt="create form" caption="create form" %}
+{% include image.html noBorder="true" img="createForm.png" lightbox="true" alt="create form" caption="create form" %}
 
 -- when create a new form on a right side of the screen a preview will appear to show how the form will look like.
 
