@@ -40,7 +40,8 @@ is has several parameters:
 * Min length - the minimum number of the characters needs to be filled at this field
 * Max length - the maximum number of the characters needs to be filled at this field
  
-**"Label"** - 
+**"Label"** - this field has only a name that can be any text. it can be used to divide the form into several sections or any other usage.
+{% include image.html noBorder="true" img="formLabel.png" lightbox="true" alt="form label" caption="form label" %}  
 **"Number"** - 
 **"Boolean"** -  
 **"List"** - 
