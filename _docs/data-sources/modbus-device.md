@@ -38,4 +38,21 @@ if a model is chosen the schema already fully defined.
 
 there are 2 types of schemas:
 Modbus and Modbus-Analog
-Modbus-Analog has all Modbus parameters and the 4 analog [parameters](../schemas/#analog-schema)
+Modbus-Analog has all Modbus parameters and the 4 analog [parameters](../schemas/#analog-schema).
+
+#### Schema parameters
+* **Name** - textual field, the name of the schema. the name is unique at site level.
+* **Register Offset** - numeric field, defines the offset the register for all metrics in the schema. 
+* **Holding** - boolean toggle, are registers that are read  holding or input registers.
+
+#### Schema metric parameters
+Modbus has all standard schema [parameters](../schemas/#standard-schema ) with additional modbus specific parameters:
+* **Register Type** - a drop down list, defines the type of the data that is being retrieved from the device. 
+  * int16
+  * uint16
+  * int32
+  * uint32
+  * float32
+  * float64
+* **Base Register** -
+* **Endian** - 
