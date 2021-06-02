@@ -5,7 +5,7 @@ categories: [Data-sources]
 author: Gadi Maizler
 tags: 
 ---
-// Trigger introduction
+Trigger introduction
 
 new trigger is added by navigating to data-source->settings->triggers
 {% include image.html noBorder="true" img="datasourceSettings.png" lightbox="true" alt="data source settings" caption="data source settings" %}
