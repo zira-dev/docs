@@ -2,8 +2,8 @@
 - title: Getting Started
   docs:
   - getting-started/introduction 
-  - getting-started/generate-api-key 
-  - getting-started/test-api-using-postman
+  - getting-started/api-keys
+  - getting-started/api-docs
 - title: API Reference
   docs:
   - api-reference/add-post
