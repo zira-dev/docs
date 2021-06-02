@@ -13,7 +13,7 @@
   - data-sources/schemas
   - data-sources/forms
   - data-sources/modbus-device
-  - data-sources/triggers
+  - data-sources/triggers1
   # - data-sources/connect-your-first-data-source 
   # - data-sources/analog-device
   # - data-sources/custom-data-source
