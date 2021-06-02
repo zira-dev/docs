@@ -78,9 +78,9 @@ the content of the notification will be "Water Flow value is 90 which is greater
 
 
 
-the following trigger will be violated when "Account Name" (which is a textual field) starts with "Zira" or ends with "Premium", a neutral post (gray color frame) will be sent to "Monitoring Infra" channel , in addition all the followers of that channel will receive  In-app + Email + Push notification.
+the following trigger will be violated when "Account Name" (which is a textual field) starts with "Zira" or ends with "Premium", a neutral post (gray color frame) will be sent to "Zira group" channel.
 
-the content of the notification will be "Water Flow value is 90 which is greater than 20"
+the content of the notification will be "Account Name is either starts with Zira or ends with Premium - Zira Customer Account "
 
 {% include image.html noBorder="true" img="rule2.png" lightbox="true" alt="trigger 2" caption="trigger 2" %}
 
