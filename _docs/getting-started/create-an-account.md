@@ -13,10 +13,10 @@ videos:
 Zira is free for private users and developers
 If you are an enterprise user and your organization already has a Zira account, you should ask your admin to invite you to Zira. this will allow you to access your organization assets.
 
-1. Browse to [Create-an-account](https://my.zira.us/create-account)
-2. Fill the registration form
-3. Agree to terms & conditions
-4. Click **"Create account"** button 
+  1. Browse to [Create-an-account](https://my.zira.us/create-account)
+  2. Fill the registration form
+  3. Agree to terms & conditions
+  4. Click **"Create account"** button 
 
 {% include image.html noBorder="true" img="signup.png" lightbox="true" alt="Create an account" caption="Create an account" %}
 
