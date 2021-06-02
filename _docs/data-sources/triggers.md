@@ -29,7 +29,28 @@ new trigger is added by navigating to data-source->settings->triggers
 * **Disabled** - a toggle, if it is checked the trigger will be inactive.
 
 ##### Rule definition
-TODO
+this section defines the rule that is going to be checked for each incoming entry for that data-source.  
+a rule can contain multiple expression that and "OR" or "AND" operator between them.
+
+the rules are built by clicking on an operator which will appear at the rul preview row.
+the operators:
+**Metric** - The value of the selected metric
+**Numeric operators**:
+  * \> - Greater than
+  * < - Less than
+  * = - Equals
+  * NUMBER - any number
+
+**Textual Operators**
+  * EQUALS
+  * STARTS WITH
+  * ENDS WITH
+  * CONTAINS
+
+**Logical Operators**:
+  * AND
+  * OR 
+
 
 ##### Message
 TODO
