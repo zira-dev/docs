@@ -33,8 +33,8 @@ this section defines the rule that is going to be checked for each incoming entr
 a rule can contain multiple expression that and "OR" or "AND" operator between them.
 
 the rules are built by clicking on an operator which will appear at the rul preview row.
-the operators:
-**Metric** - The value of the selected metric
+the operators:  
+**Metric** - The value of the selected metric  
 **Numeric operators**:
   * \> - Greater than
   * < - Less than
