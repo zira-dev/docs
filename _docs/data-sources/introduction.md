@@ -21,7 +21,7 @@ after the data source is defined it can be attached to different channels that c
 
 each data source is defined by a set of configuration parameters.
 
-##### mandatory configuration parameters: 
+##### mandatory configuration parameters 
 1. **Name** - The name of the data source, must be unique at site level.
 2. **Collector** - this is the collection method, Zira support multiple collection methods, some of them are explicit such as:  
 Modbus protocol, File uploading, Clarity, Ayekka, etc...  
