@@ -53,8 +53,15 @@ the operators:
 
 
 ##### Message
-TODO
+defines the messages that is going to be sent upon rule violation.
+* **Metric Value**  -  the value of the metric at the entry that caused the violation
+* **Metric Name** - the name of the metric
+
+this is a textual field that the above variables can be injected to.
+
 
 ##### Action
-TODO
+describes what type of notification will be sent.
+
+* **Post to** -  the channel the notification will be posted to, all channel followers will the receive the notification.
 
