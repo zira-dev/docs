@@ -24,6 +24,7 @@ there are additional parameters that are specific to modbus:
 
 if the data-source type has known device models it will allow to choose the model or to use a schema.
 
+### Modbus data-source model
 when a model is chosen the following parameters needs to be chosen:
 
 * **Manufacturer** - the Manufacturer of the device.
@@ -32,3 +33,9 @@ when a model is chosen the following parameters needs to be chosen:
 if a model is chosen the schema already fully defined.
 {% include image.html noBorder="true" img="modbusModel.png" lightbox="true" alt="modbus model" caption="modbus-model" %}
 
+ 
+### Modbus data-source schema
+
+there are 2 types of schemas:
+Modbus and Modbus-Analog
+Modbus-Analog has all Modbus parameters and the 4 analog [parameters](../schemas/#analog-schema)
