@@ -4,6 +4,9 @@ title: Triggers
 categories: [Data-sources]
 author: Gadi Maizler
 tags: 
+videos: 
+    - title: Triggers
+      url: https://www.youtube.com/watch?v=wZTnRQM43Ts&ab_channel=ZiraZira
 ---
 ### Introduction
 Data source triggers in contrast to [channel triggers](../channels/triggers) are working on real time data and not on aggregated data.
