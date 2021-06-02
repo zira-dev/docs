@@ -14,7 +14,7 @@
   - data-sources/forms
   - data-sources/modbus-device
   - data-sources/triggers
-  - data-sources/schemas2
+  # - data-sources/schemas2
   # - data-sources/analog-device
   # - data-sources/custom-data-source
   # - data-sources/advanced
