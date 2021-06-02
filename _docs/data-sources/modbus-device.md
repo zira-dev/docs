@@ -54,5 +54,5 @@ Modbus has all standard schema [parameters](../schemas/#standard-schema ) with a
   * uint32
   * float32
   * float64
-* **Base Register** -
-* **Endian** - 
+* **Base Register** - numeric value, defines the start register of the data.  
+* **Endian** -  drop down list, big or little endian. defines how to interpret the data.
