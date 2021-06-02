@@ -63,5 +63,6 @@ this is a textual field that the above variables can be injected to.
 ##### Action
 describes what type of notification will be sent.
 
-* **Post to** -  the channel the notification will be posted to, all channel followers will the receive the notification.
+* **Post to** -  the channel the notification will be posted to
+- *Note:* all channel followers will the receive the notification.
 
