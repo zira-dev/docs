@@ -56,3 +56,4 @@ Modbus has all standard schema [parameters](../schemas/#standard-schema ) with a
   * float64
 * **Base Register** - numeric value, defines the start register of the data.  
 * **Endian** -  drop down list, big or little endian. defines how to interpret the data.
+{% include image.html noBorder="true" img="modbusSchema.png" lightbox="true" alt="modbus schema" caption="modbus-schema" %}
