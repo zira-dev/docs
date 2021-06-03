@@ -84,8 +84,12 @@ After the form was created, navigation to data-source->Add Reading wil open the 
 
 
 after all required fields where filled,the form is submitted by clicking the Submit button.  
+
 if "change event time" is not checked the form will be submitted with "event time" = now
 {% include image.html noBorder="true" img="fillForm.png" lightbox="true" alt="fill form" caption="fill form" %} 
 
 if one of the field does not pass validation, the error will be shown below it.
 {% include image.html noBorder="true" img="formValidation.png" lightbox="true" alt="form validation" caption="form validation" %}
+
+checking the "change event time" allows to choose the event data of the new entry
+{% include image.html noBorder="true" img="changeDate.png" lightbox="true" alt="change event date" caption="change event date" %}
