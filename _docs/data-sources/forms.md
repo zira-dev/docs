@@ -78,3 +78,14 @@ parameters:
 * Expression - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira. [more details](../schemas#standard-schema)
 
 ### Fill a form
+
+After the form was created, navigation to data-source->Add Reading wil open the form for submission.
+{% include image.html noBorder="true" img="datasource-addReading.png" lightbox="true" alt="add reading" caption="add reading" %}  
+
+
+after all required fields where filled,the form is submitted by clicking the Submit button.  
+if "change event time" is not checked the form will be submitted with "event time" = now
+{% include image.html noBorder="true" img="fill form.png" lightbox="true" alt="fill form" caption="fill form" %} 
+
+if one of the field does not pass validation, the error will be shown below it.
+{% include image.html noBorder="true" img="formValidation.png" lightbox="true" alt="form validation" caption="form validation" %}
