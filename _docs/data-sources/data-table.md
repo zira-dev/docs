@@ -41,7 +41,7 @@ while the device is a Form/Manual device the data-table has additional options:
 
 a value can be changed by double clicking on it, after the modification the whole row is being grayed out. the new entry will be saved after clicking the "Save" button.
 
-{% include image.html noBorder="true" img="dataTableDownload.png" lightbox="true" alt="data-table edit" caption="data-table edit" %}
+{% include image.html noBorder="true" img="dataTableEdit.png" lightbox="true" alt="data-table edit" caption="data-table edit" %}
 
 
 clicking on specific row and then selecting the "trash" button will mark the line in red, after clicking the save button the line we be deleted.
