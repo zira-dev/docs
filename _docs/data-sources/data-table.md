@@ -47,4 +47,4 @@ a value can be changed by double clicking on it, after the modification the whol
 clicking on specific row and then selecting the "trash" button will mark the line in red, after clicking the save button the line we be deleted.
 {% include image.html noBorder="true" img="dataTableDelete.png" lightbox="true" alt="data-table delete" caption="data-table edit" %}
 
-insertion of a new entry is done by clicking "Add Reading", it is explained in more details here
+insertion of a new entry is done by clicking "Add Reading", it is explained in more details -> [here](../forms/#fill-a-form)
