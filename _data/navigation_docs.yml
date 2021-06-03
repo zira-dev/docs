@@ -15,7 +15,7 @@
   - data-sources/modbus-device
   - data-sources/triggers
   - data-sources/data-table
-  # - data-sources/analog-device
+  - - data-sources/data-table-import
   # - data-sources/custom-data-source
   # - data-sources/advanced
 - title: Channels

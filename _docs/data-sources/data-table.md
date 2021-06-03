@@ -48,3 +48,4 @@ clicking on specific row and then selecting the "trash" button will mark the lin
 {% include image.html noBorder="true" img="dataTableDelete.png" lightbox="true" alt="data-table delete" caption="data-table edit" %}
 
 insertion of a new entry is done by clicking "Add Reading", it is explained in more details -> [here](../forms/#fill-a-form)
+
