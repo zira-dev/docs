@@ -5,12 +5,15 @@ categories: [Data-sources]
 author: Gadi Maizler
 tags: 
 ---
+### Introduction
 
 Form is a type of data-source that allows clients to enter data manually in a convenient and intuitive way.  
 creation of a new form is done by selecting "Form" collector.
 
 {% include image.html noBorder="true" img="formCollector.png" lightbox="true" alt="form collector" caption="form collector" %}
 
+
+### New form
 the creation of a "Form" data-source has a dedicated user interface with the following parameters:
 1. **Name** - textual field, the name of the data-source
 2. **Linked form**(optional) - a drop down list, shows the list of the additional forms at the same site, this defines what form the user should be redirected to after form submission.
@@ -73,3 +76,5 @@ parameters:
 * UOM(unit of measurement) - the unit of measurement of the expected input data.[more details](../schemas#standard-schema)
 * Calculated - indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema[more details](../schemas#standard-schema)
 * Expression - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira. [more details](../schemas#standard-schema)
+
+### Fill a form
