@@ -26,7 +26,7 @@ if a specific date range is in interest, the range can be chosen through the dat
 
 it is also possible to download the data in csv format. 
 the data that will be downloaded is the date-range that was chosen or the last 100 entries
-{% include image.html noBorder="true" img="dataTableDownload.png" lightbox="true" alt="download csv" caption="download csv" %}.
+{% include image.html noBorder="true" img="datatableDownload.png" lightbox="true" alt="download csv" caption="download csv" %}.
 
 
 *Note* - in case the data-source is a Form additional 3 fields will be shown at the dataTable:
