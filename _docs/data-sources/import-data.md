@@ -1,6 +1,6 @@
 ---
 layout: doc
-title: Data-table
+title: Import-Data
 categories: [Data-sources]
 author: Gadi Maizler
 tags: 
