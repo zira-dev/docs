@@ -21,4 +21,4 @@ it is also possible to navigate between pages with the arrows at the bottom of t
 
 
 if a specific date range is in interest, the range can be chosen through the date picker 
-{% include image.html noBorder="true" img="dataTableTimePicker.png" lightbox="true" alt="time picker" caption="time picker" %}  
+{% include image.html noBorder="true" img="dataTableTime.png" lightbox="true" alt="time picker" caption="time picker" %}  
