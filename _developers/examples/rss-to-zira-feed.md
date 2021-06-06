@@ -16,7 +16,7 @@ all channel followers will receive notification that a new post was created.
 ## Generation of Application Token
 
 
-
+## example
 ```
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
 const newPostUrl = 'https://integ.api.zira.us/public/post' // this is the url for creation of a new post
