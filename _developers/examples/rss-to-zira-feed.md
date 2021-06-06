@@ -23,9 +23,23 @@ all channel followers will receive notification that a new post was created.
 {% include image.html noBorder="true" img="addNewApplication3.png" lightbox="true" alt="add application3" caption="add application3" %}
 
 
+
+## retrieving a channel id
+???????????????????
+?????????????????? it is impossible to do it from the application1!!!! 
+???????????????????
 ## example
 
-this example is written in javascript with nodejs engine
+this example is written in javascript with nodejs engine.
+it requires the installation of the following node modules:
+https://www.npmjs.com/package/node-fetch
+https://www.npmjs.com/package/rss-parser
+
+
+the result of this execution is a generation of a single post with the latest entry at the rss feed:
+{% include image.html noBorder="true" img="rssPost.png" lightbox="true" alt="rss post" caption="rss post" %}
+
+
 
 ```js
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
