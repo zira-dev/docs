@@ -40,7 +40,7 @@ the result of this execution is a generation of a single post with the latest en
 {% include image.html noBorder="true" img="rssPost.png" lightbox="true" alt="rss post" caption="rss post" %}
 
 
-
+code snippet:
 ```js
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
 const newPostUrl = 'https://api.zira.us/public/post' // this is the url for creation of a new post
