@@ -9,7 +9,7 @@ tags: [setup]
 This example demonstrates how Zira feed can be used to share data.
 
 in this example the application will poll the data from an rss feed (The Daily by The New York Times).
-it will parse the content and the link to the podcast and will create a new post on a pre-defined Zira channel.
+it will parse the content will create a new post on a pre-defined Zira channel.
 all channel followers will receive notification that a new post was created.
 
 
@@ -24,6 +24,9 @@ all channel followers will receive notification that a new post was created.
 
 
 ## example
+
+this example is written in javascript with nodejs engine
+
 ```js
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
 const newPostUrl = 'https://api.zira.us/public/post' // this is the url for creation of a new post
