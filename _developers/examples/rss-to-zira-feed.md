@@ -17,7 +17,7 @@ all channel followers will receive notification that a new post was created.
 
 
 
-```javascript
+```
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
 const newPostUrl = 'https://integ.api.zira.us/public/post' // this is the url for creation of a new post
 const apiKey = '9c3bd0ea-1ada-42b2-859d-c12196c6336e' // this is the application key 
