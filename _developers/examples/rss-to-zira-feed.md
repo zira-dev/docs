@@ -16,7 +16,7 @@ all channel followers will receive notification that a new post was created.
 ## Generation of a new application
 
 * navigate to company->site->Application-> 'Add New Application'
-{% include image.html noBorder="true" img="addNewApplication.png" lightbox="true" alt="add application" caption="add application" %}
+{% include image.html noBorder="true" img="addNewApplication1.png" lightbox="true" alt="add application" caption="add application" %}
 * give the application a unique name and a description and click "Generate API key"
 {% include image.html noBorder="true" img="addNewApplication2.png" lightbox="true" alt="add application2" caption="add application2" %}
 * a new application was created, please save the key it is possible to copy the key to the clipboard by clicking on the copy button.
