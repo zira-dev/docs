@@ -26,7 +26,7 @@ all channel followers will receive notification that a new post was created.
 ## example
 ```js
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
-const newPostUrl = 'https://integ.api.zira.us/public/post' // this is the url for creation of a new post
+const newPostUrl = 'https://api.zira.us/public/post' // this is the url for creation of a new post
 const apiKey = '9c3bd0ea-1ada-42b2-859d-c12196c6336e' // this is the application key 
 
 // npm install -s rss-parser
@@ -40,7 +40,7 @@ async function getLatestItem(){
     const feed = await parser.parseURL(url)
 
 // here we are creating the post content
-    const content = 'Date: ' + feed.items[1].pubDate + '\n' +  feed.items[1].contentSnippet + '\n Link : \n' + feed.items[1].enclosure.url 
+    const content = 'Date: ' + feed.items[0].pubDate + '\n' +  feed.items[0].contentSnippet + '\n Link : \n' + feed.items[0].enclosure.url 
 
     const myBody = {
         content : content,
