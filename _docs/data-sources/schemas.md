@@ -5,7 +5,7 @@ categories: [Data-sources]
 author: Gadi Maizler
 tags: 
 ---
-
+### Introduction
 Schema is an entity that is attached to a data-source, this entity describes the data that is expected to be received.  
 Schemas can be reused by multiple data-sources.  
 

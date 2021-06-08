@@ -5,12 +5,15 @@ categories: [Data-sources]
 author: Gadi Maizler
 tags: 
 ---
+### Introduction
 
 Form is a type of data-source that allows clients to enter data manually in a convenient and intuitive way.  
 creation of a new form is done by selecting "Form" collector.
 
 {% include image.html noBorder="true" img="formCollector.png" lightbox="true" alt="form collector" caption="form collector" %}
 
+
+### New form
 the creation of a "Form" data-source has a dedicated user interface with the following parameters:
 1. **Name** - textual field, the name of the data-source
 2. **Linked form**(optional) - a drop down list, shows the list of the additional forms at the same site, this defines what form the user should be redirected to after form submission.
@@ -73,3 +76,20 @@ parameters:
 * UOM(unit of measurement) - the unit of measurement of the expected input data.[more details](../schemas#standard-schema)
 * Calculated - indicated whether this field is being calculated from the counter. in order for this calculation to work the Accumulated corresponding metric must be preset in the same schema[more details](../schemas#standard-schema)
 * Expression - a textual field - this field defines what mathematical manipulation should be done on that field before it is being written into Zira. [more details](../schemas#standard-schema)
+
+### Fill a form
+
+After the form was created, navigation to data-source->Add Reading wil open the form for submission.
+{% include image.html noBorder="true" img="datasource-addReading.png" lightbox="true" alt="add reading" caption="add reading" %}  
+
+
+after all required fields where filled,the form is submitted by clicking the Submit button.  
+
+if "change event time" is not checked the form will be submitted with "event time" = now
+{% include image.html noBorder="true" img="fillForm.png" lightbox="true" alt="fill form" caption="fill form" %} 
+
+if one of the field does not pass validation, the error will be shown below it.
+{% include image.html noBorder="true" img="formValidation.png" lightbox="true" alt="form validation" caption="form validation" %}
+
+checking the "change event time" allows to choose the event data of the new entry
+{% include image.html noBorder="true" img="changeDate.png" lightbox="true" alt="change event date" caption="change event date" %}

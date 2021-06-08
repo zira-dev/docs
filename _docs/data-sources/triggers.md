@@ -4,6 +4,9 @@ title: Triggers
 categories: [Data-sources]
 author: Gadi Maizler
 tags: 
+videos: 
+    - title: Triggers
+      url: https://www.youtube.com/watch?v=wZTnRQM43Ts&ab_channel=ZiraZira
 ---
 ### Introduction
 Data source triggers in contrast to [channel triggers](../channels/triggers) are working on real time data and not on aggregated data.
@@ -33,8 +36,8 @@ this section defines the rule that is going to be checked for each incoming entr
 a rule can contain multiple expression that and "OR" or "AND" operator between them.
 
 the rules are built by clicking on an operator which will appear at the rul preview row.
-the operators:
-**Metric** - The value of the selected metric
+the operators:  
+**Metric** - The value of the selected metric  
 **Numeric operators**:
   * \> - Greater than
   * < - Less than
@@ -53,8 +56,34 @@ the operators:
 
 
 ##### Message
-TODO
+defines the messages that is going to be sent upon rule violation.
+* **Metric Value**  -  the value of the metric at the entry that caused the violation
+* **Metric Name** - the name of the metric
+
+this is a textual field that the above variables can be injected to.
+
 
 ##### Action
-TODO
+describes what type of notification will be sent.
+
+* **Post to** -  the channel the notification will be posted to
+*Note:* all channel followers will the receive the notification.
+
+
+examples:
+
+the following trigger will be violated when "Water Flow" is bigger than 20, a positive post (green color frame) will be sent to "Monitoring Infra" channel , in addition all the followers of that channel will receive  In-app + Email + Push notification.
+
+the content of the notification will be "Water Flow value is 90 which is greater than 20"
+
+{% include image.html noBorder="true" img="rule1.png" lightbox="true" alt="trigger 1" caption="trigger 1" %}
+
+
+
+
+the following trigger will be violated when "Account Name" (which is a textual field) starts with "Zira" or ends with "Premium", a neutral post (gray color frame) will be sent to "Zira group" channel.
+
+the content of the notification will be "Account Name is either starts with Zira or ends with Premium - Zira Customer Account "
+
+{% include image.html noBorder="true" img="rule2.png" lightbox="true" alt="trigger 2" caption="trigger 2" %}
 

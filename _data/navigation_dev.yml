@@ -15,5 +15,6 @@
   - api-reference/get-channel-analysis
 - title: Examples
   docs:
+  - examples/rss-to-zira-feed
   - examples/stock-collector
   
