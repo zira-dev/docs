@@ -25,8 +25,8 @@ For each Application, an API key generated for authentication purpose
 5. Click **Generate API Key** button. New application with designated API-Key will be created 
 6. Copy the API-Key by clicking the copy icon 
 The API Key should be kept secret, it is highly recommended not to keep it within your code and not share it with unauthorized people
-{% include image.html noBorder="true" img="generate-api-key.png" lightbox="true" alt="SIte Applications tab" caption="SIte Applications tab" %}
-{% include image.html noBorder="true" img="copy-api-key.png" lightbox="true" alt="SIte Applications tab" caption="SIte Applications tab" %}
+{% include image.html noBorder="true" img="generate-api-key.png" lightbox="true" alt="SGenerate API Key" caption="Generate API Key" %}
+{% include image.html noBorder="true" img="copy-api-key.png" lightbox="true" alt="Copy API Key" caption="Copy API Key" %}
 
 
 The `X-API-Key` header will be used to authenticate api requests to zira

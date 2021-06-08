@@ -14,7 +14,7 @@
             include.caption }}</span></figcaption>{% endif %}
 </figure>
 {% else %}
-<figure>
+<figure uk-parallax="x: 20">
     <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
         {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
     {% if include.caption %}<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">{{
