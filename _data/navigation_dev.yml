@@ -7,12 +7,8 @@
 - title: API Reference
   docs:
   - api-reference/add-post
-  - api-reference/add-task
-  - api-reference/edit-task
   - api-reference/add-readings
-  - api-reference/get-readings
-  - api-reference/get-csv-download-url
-  - api-reference/get-channel-analysis
+  - api-reference/download-csv
 - title: Examples
   docs:
   - examples/rss-to-zira-feed
