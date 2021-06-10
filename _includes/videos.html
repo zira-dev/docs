@@ -1,41 +1,41 @@
 {% if include.columns %}
-    {% assign columns = include.columns %}
-    {% if columns == '1' %}
-        {% assign container = ' uk-container-xsmall' %}
-    {% elsif columns == '2' %}
-        {% assign container = ' uk-container-small' %}
-    {% else %}
-        {% assign container = '' %}
-    {% endif %}
+{% assign columns = include.columns %}
+{% if columns == '1' %}
+{% assign container = ' uk-container-xsmall' %}
+{% elsif columns == '2' %}
+{% assign container = ' uk-container-small' %}
 {% else %}
-    {% assign columns = 3 %}
-    {% assign container = '' %}
+{% assign container = '' %}
 {% endif %}
-
-<div class="uk-section section-videos">
-    <div class="uk-container{{container}}">
-        <!-- videos are: {{page.videos}} -->
-
+{% else %}
+{% assign columns = 3 %}
+{% assign container = '' %}
+{% endif %}
+<div class="uk-section">
+    <div class="uk-container uk-container{{container}}">
         {% if include.title %}
-            <h2 class="uk-h1 uk-text-center">{{ include.title }}</h2>
-        {% endif %}
+        <h2 class="uk-padding uk-h1 uk-text-center">{{ include.title }}</h2>
+    {% endif %}
 
-        {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
-
-        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid data-uk-lightbox>
-        {% for item in site.data.videos %}
-            <div>
-                <div class="uk-card uk-card-default uk-box-shadow-small uk-box-shadow-hover-medium uk-card-body uk-inline border-radius-large border-xlight">
-                    <a class="uk-position-cover" href="{{ item.url }}" data-caption="{{ item.title }}"></a>
-                    <img src="{{ item.thumb }}">
-                    <!-- <h3 class="uk-card-title uk-margin">{{ item.title }}</h3> -->
-                    {% if item.desc %}
-                    <!-- <p>{{ item.desc }}</p> -->
-                    {% endif %}
-                </div>
-            </div>
-        {% endfor %}
+    <!-- {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %} -->
+    <div class="uk-slider-container-offset" uk-slider>
+        <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+            <ul class="uk-slider-items uk-child-width-1-{{ columns }}@m uk-grid-match uk-grid">
+                {% for item in site.data.videos %}
+                <li>
+                    <div class="uk-card uk-card-default">
+                        <div class="uk-card-media-top">
+                            <a class="uk-position-cover" href="{{ item.url }}" data-caption="{{ item.title }}"></a>
+                            <img src="{{ item.thumb }}">
+                        </div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+            <a style="color:black"  class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous
+                uk-slider-item="previous"></a>
+            <a style="color:black" class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
+                uk-slider-item="next"></a>
         </div>
-
     </div>
 </div>
