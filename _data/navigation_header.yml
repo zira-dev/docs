@@ -5,12 +5,12 @@ left:
     url: /docs/getting-started/introduction/
   - title: Developers
     url: /developers/getting-started/introduction/
-  - title: Blog
-    url: /blog/
-  - title: Solutions
-    url: /solutions/
   - title: Partners
     url: /partners/
+  - title: Solutions
+    url: /solutions/
+  - title: Blog
+    url: /blog/
   - title: Pricing
     url: /pricing/
         

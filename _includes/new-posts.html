@@ -1,14 +1,26 @@
 {% if include.tag %}
-
-<div class="uk-section {% if include.background %} uk-section-{{include.background}}{% endif %}">
-    <div class="uk-container uk-container-medium">
+{% if include.columns %}
+{% assign columns = include.columns %}
+{% if columns == '1' %}
+{% assign container = ' uk-container-xsmall' %}
+{% elsif columns == '2' %}
+{% assign container = ' uk-container-small' %}
+{% else %}
+{% assign container = '' %}
+{% endif %}
+{% else %}
+{% assign columns = 3 %}
+{% assign container = '' %}
+{% endif %}
+<div class="uk-section">
+    <div class="uk-container{{container}}">
         {% if include.title %}
         <h2 class="uk-h1 uk-text-center">{{ include.title }}</h2>
         {% endif %}
         {% if include.subtitle %}
         <p class="uk-text-center uk-text-lead">{{ include.subtitle | escape }}</p>
         {% endif %}
-        <div uk-grid class="uk-child-width-1-3 uk-margin-medium-top">
+        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
             {% for post in site.posts %}
             {% if post.tags contains include.tag %}
             <div>
