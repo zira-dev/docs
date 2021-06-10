@@ -1,8 +1,11 @@
-- Explain what we offer to partners
-- Sell your customers the coolest solution with minimum implementation required
-- Advisors, Software companies can use zira as digital transformation solution to solve the problems of data-visibility, communication and process automation
-- customization/implementation assistant
-- training
-- CTA to pricing
-- CTA to contact sales
-- Nice image
+---
+layout: page
+width: expand
+---
+{% include cta.html title="Became a partner bla bla" button_text="Contact Us" button_url="/contact/" subtitle="Discover our partners offering click now!" %}
+<!-- Browse Topics -->
+{% include partners-boxes.html columns="3" title="" subtitle="" %}
+<!-- New posts -->
+{% include new-posts.html columns="2" tag="partners" title="Success stories" subtitle="" %}
+<!-- faqs -->
+{% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quick answers to frequent pre-sale questions asked by customers" %}

@@ -1,18 +1,17 @@
 # Boxes include navigation
 
-- title: Getting Started
+- title: Training
   desc: Learn to master zira application 
-  icon: rocket
+  icon: training
   url: /docs/getting-started/introduction/
 
-- title: Video tutorials
+- title: Use cases
   desc: The quickest way to master zira
-  icon: videos
+  icon: use-cases
   target: _blank
   url: https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA
 
-- title: Solutions
+- title: Why zira?
   desc: Get the most of out of zira using our experts
-  icon: companies
+  icon: why-zira
   url: /enterprise/
-

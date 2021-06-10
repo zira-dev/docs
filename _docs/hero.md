@@ -12,8 +12,8 @@ To add a hero header to a page add the following to a YAML Front Matter:
 layout: page
 width: expand
 hero:
-    title: Digital transformation made easy
-    subtitle: Create a digital twin of your organization. get full visibility on your data and start automating things
+    title: Collaborative growth platform
+    subtitle: Get work done faster and enable exponential growth through automation
     image: hero-image.svg
     search: true
 ---
