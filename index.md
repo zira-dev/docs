@@ -4,7 +4,7 @@ width: expand
 hero:
     title: Collaborative growth platform
     subtitle: Get work done faster and enable exponential growth through automation
-    image: hero-image.svg
+    image: hero.svg
     search: true
 ---
 <!-- Browse Topics -->
