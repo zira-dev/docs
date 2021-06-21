@@ -13,4 +13,5 @@
   docs:
   - examples/rss-to-zira-feed
   - examples/stock-collector
+  - examples/collector
   
