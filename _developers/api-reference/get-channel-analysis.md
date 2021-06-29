@@ -19,6 +19,9 @@ Get Channel Analysis allows to retrieve channel calculations via API.
 
 https://api.zira.us/public/system/analysis?systemId=123&interval=1%20days&fromTime=2021-05-01T00:00:00&toTime=2021-05-30T00:00:00
 
+
+* systemId can be retrieved by choosing a channel and clicking the copy id button 
+{% include image.html noBorder="true" img="createForm.png" lightbox="true" alt="create form" caption="create form" %}
 #### Query Params
 
 | Property  | Required | Type   | Example                                               | Description                                                                                                    |
