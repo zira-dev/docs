@@ -21,7 +21,7 @@ https://api.zira.us/public/system/analysis?systemId=123&interval=1%20days&fromTi
 
 
 * systemId can be retrieved by choosing a channel and clicking the copy id button 
-{% include image.html noBorder="true" img="getSystemChannel.png.png" lightbox="true" alt="create form" caption="create form" %}
+{% include image.html noBorder="true" img="getChannelAnalysis.png" lightbox="true" alt="get channel analysis" caption="get channel analysis" %}
 #### Query Params
 
 | Property  | Required | Type   | Example                                               | Description                                                                                                    |
