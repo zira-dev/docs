@@ -291,5 +291,12 @@ properties
 
 *NOTE* - ignore all other fields as they are internal fields
 
-*targets*:
+*targets*: it is an array of system targets
 
+"name": system target name
+"toDate":  the date that the target is valid to ,
+"fromDate": the date that the target is valid from,
+"toValue": the upper boundary of valid values
+"fromValue": the low boundary of valid values
+
+*NOTE* - ignore all other fields as they are internal fields
