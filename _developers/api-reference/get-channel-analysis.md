@@ -262,21 +262,34 @@ we will device the response into 4 sections:
 
 
 *kpis*: this is a list of objects, when each object represents KPI.
-parameters:
+properties:
 
 * "name" - the name of the kpi
 * "unit": the units of the kpi (if it has any),
 * "value": the valueItself,
-* "toDate": requested start date,
-* "fromDate": requested end date,
+* "fromDate": requested start date,
+* "toDate": requested end date,
 * "minDate": first timestamp with data that was found,
 * "maxDate": last timestamp with data that was found,
-* "ordinal": "1",
+* "interval": the interval the data was aggregated at
+* "group": the group by value (if the data is grouped by).
 
-*NOTE* ignore all other fields as they are internal fields
+*NOTE* - ignore all other fields as they are internal fields
 
-*charts*
+*charts* : an array of objects, each of the objects contain a single curve.
 
+properties
+
+* "data": an array of pairs, the first element is timestamp in epoch format, the second element is the value.
+* "name": the name of the curve,
+* "unit": the units of the values,
+* "fromDate": requested start date,
+* "toDate": requested end date,
+* "minDate": first timestamp with data that was found,
+* "maxDate": last timestamp with data that was found,
+* "interval": the interval the data was aggregated at
+
+*NOTE* - ignore all other fields as they are internal fields
 
 *targets*:
 
