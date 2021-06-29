@@ -29,5 +29,5 @@ Get Channel Analysis allows to retrieve channel calculations via API.
 | systemId   | true     | String | `"123"`                                               | System id can be copied from zira UI       |
 | interval | false     | String | `5 minutes" ; "15 minutes" ; "1 hours" ; "1 days`                               | Data aggregation interval          |
 | fromTime    | false     | String | `"2021-05-01T00:00:00"` | 	start timestamp in ISO format  |
-| toTime    | false     | String | `"2021-05-30T00:00:00"` | end timestamp in ISO format  `Get Data-Source`  API |
+| toTime    | false     | String | `"2021-05-30T00:00:00"` | end timestamp in ISO format |
 
