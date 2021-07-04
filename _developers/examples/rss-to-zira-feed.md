@@ -1,46 +1,41 @@
 ---
-title: new post from rss feed
-subtitle: Overview
-author: Gadi Maizler
+title: Create post
+author: Zira training
 tags: [setup]
 ---
+This example shows how to integrate another application with zira feed by demonstrating how to automatically create post on zira channel using data retrieved by RSS feed.
 
-## Introduction
-This example demonstrates how Zira feed can be used to share data.
+Posting on zira channel will notify all channel followers when new post was added.
 
-in this example the application will poll the data from an rss feed (The Daily by The New York Times).
-it will parse the content will create a new post on a pre-defined Zira channel.
-all channel followers will receive notification that a new post was created.
+The example code can be easily modified in order to support data fetching from any API endpoint
 
+#### 1. Create new application and generate API-key
 
-## Generation of a new application
-
-* navigate to company->site->Application-> 'Add New Application'
-{% include image.html noBorder="true" img="addNewApplication1.png" lightbox="true" alt="add application" caption="add application" %}
-* give the application a unique name and a description and click "Generate API key"
-{% include image.html noBorder="true" img="addNewApplication2.png" lightbox="true" alt="add application2" caption="add application2" %}
-* a new application was created, please save the key it is possible to copy the key to the clipboard by clicking on the copy button.
-{% include image.html noBorder="true" img="addNewApplication3.png" lightbox="true" alt="add application3" caption="add application3" %}
+{% include image.html noBorder="true" img="addNewApplication2.png" lightbox="true" alt="add application2" caption="Add New Application" %}
+{% include image.html noBorder="true" img="addNewApplication3.png" lightbox="true" alt="add application3" caption="Generate API Key" %}
+For more details: [Applications & API Keys](/developers/getting-started/api-keys/)
 
 
+#### 2. copy the channel-id 
 
-## retrieving a channel id
-???????????????????  
-?????????????????? it is impossible to do it from the application1!!!!   
-???????????????????
-## example
+As describe in  Add post [API-Reference](/developers/api-reference/add-post/), the expected payload is:
 
-this example is written in javascript with nodejs engine.
-it requires the installation of the following node modules:
-https://www.npmjs.com/package/node-fetch
-https://www.npmjs.com/package/rss-parser
+```json
+{
+    "title":"Post title",
+    "content": "Post content",
+    "toChannelId": "The channel id, where the post will appear"
+}
 
+```
+The channel id can be copied from the address bar as appear in bellow image:
 
-the result of this execution is a generation of a single post with the latest entry at the rss feed:
-{% include image.html noBorder="true" img="rssPost.png" lightbox="true" alt="rss post" caption="rss post" %}
+{% include image.html noBorder="true" img="copy-channel-id.png" lightbox="true" alt="copy channel id" caption="Copy channel id from address bar" %}
 
+#### 3. Code example
 
-code snippet:
+This example is written in javascript.
+
 ```js
 const url  = 'https://feeds.simplecast.com/54nAGcIl' // this is a url for rss feed
 const newPostUrl = 'https://api.zira.us/public/post' // this is the url for creation of a new post
@@ -75,3 +70,8 @@ async function getLatestItem(){
 }
 getLatestItem()
 ```
+
+#### 4. Result
+
+the result of this execution is a generation of a single post with the latest entry at the rss feed:
+{% include image.html noBorder="true" img="rssPost.png" lightbox="true" alt="rss post" caption="News post created by application fetching latest post of rss feed" %}

@@ -6,7 +6,7 @@
   - getting-started/mobile-and-desktop-apps
   - getting-started/edit-profile
   - getting-started/companies-and-sites
-  - getting-started/create-a-channel
+  # - getting-started/create-a-channel
 - title: Data-sources
   docs:
   - data-sources/introduction
@@ -18,15 +18,15 @@
   - data-sources/import-data
   # - data-sources/custom-data-source
   # - data-sources/advanced
-- title: Channels
-  docs:
-  - channels/what-is-zira-channel 
-  - channels/feed
-  - channels/add-people
-  - channels/attach-data-sources
-  - channels/data-visualization
-  - channels/scheduled-reports
-  - channels/triggers
-  - channels/benchmarks
-  - channels/kpis
-  - channels/charts
+# - title: Channels
+#   docs:
+#   - channels/what-is-zira-channel 
+#   - channels/feed
+#   - channels/add-people
+#   - channels/attach-data-sources
+#   - channels/data-visualization
+#   - channels/scheduled-reports
+#   - channels/triggers
+#   - channels/benchmarks
+#   - channels/kpis
+#   - channels/charts

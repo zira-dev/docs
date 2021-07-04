@@ -17,7 +17,9 @@ Get Channel Analysis allows to retrieve channel calculations via API.
 **GET** `https://api.zira.us/public/system/analysis`
 #### Example 
 
-*https://api.zira.us/public/system/analysis?systemId=123&interval=1%20days&fromTime=2021-05-01T00:00:00&toTime=2021-05-30T00:00:00*
+```
+https://api.zira.us/public/system/analysis?systemId=123&interval=1%20days&fromTime=2021-05-01T00:00:00&toTime=2021-05-30T00:00:00
+```
 
 
 * systemId can be retrieved by choosing a channel and clicking the copy id button 
@@ -274,8 +276,6 @@ properties:
 * "interval": the interval the data was aggregated at
 * "group": the group by value (if the data is grouped by).
 
-*NOTE* - ignore all other fields as they are internal fields
-
 *charts* : an array of objects, each of the objects contain a single curve.
 
 properties
@@ -289,8 +289,6 @@ properties
 * "maxDate": last timestamp with data that was found,
 * "interval": the interval the data was aggregated at
 
-*NOTE* - ignore all other fields as they are internal fields
-
 *targets*: it is an array of system targets
 
 * "name": system target name
@@ -298,5 +296,3 @@ properties
 * "fromDate": the date that the target is valid from,
 * "toValue": the upper boundary of valid values
 * "fromValue": the low boundary of valid values
-
-*NOTE* - ignore all other fields as they are internal fields

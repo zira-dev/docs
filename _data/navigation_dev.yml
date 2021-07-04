@@ -8,11 +8,12 @@
   docs:
   - api-reference/add-post
   - api-reference/add-readings
+  - api-reference/get-readings
   - api-reference/download-csv
   - api-reference/get-channel-analysis
 - title: Examples
   docs:
   - examples/rss-to-zira-feed
   - examples/stock-collector
-  - examples/collector
+  # - examples/collector
   
