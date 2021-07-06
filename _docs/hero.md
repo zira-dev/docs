@@ -12,7 +12,7 @@ To add a hero header to a page add the following to a YAML Front Matter:
 layout: page
 width: expand
 hero:
-    title: Collaborative growth platform
+    title: The Collaborative Growth Platform
     subtitle: Get work done faster and enable exponential growth through automation
     image: hero-image.svg
     search: true

@@ -2,7 +2,7 @@
 layout: page
 width: expand
 hero:
-    title: Collaborative growth platform
+    title: The Collaborative Growth Platform
     subtitle: Get work done faster and enable exponential growth through automation
     image: hero.svg
     search: true
