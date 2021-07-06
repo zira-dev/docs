@@ -1,15 +1,13 @@
 ---
 title: Go paperless with digital forms
 subtitle: Use forms to digitize manual operations, use metrics and unit of measures in order to trigger alerts and visualize your data
-tags: [updates]
+tags: [updates, new, featured]
 author: alex
 ---
 
-*****SMALL COLORFUL IMAGE****
-
-
-#### Overview
-
+<div style="text-align:center; background-color:#A2E1DB; padding:20px;border-radius:20px">
+<img width="200" src="/uploads/form.svg"/>
+</div>
 Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
 
 - Eliminate the need of sensors. use digital forms to measure any kind of data
