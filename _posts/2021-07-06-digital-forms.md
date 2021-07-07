@@ -4,11 +4,10 @@ subtitle: Use forms to digitize manual operations, use metrics and unit of measu
 tags: [updates, new, featured]
 author: alex
 ---
-
+Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
 <div style="text-align:center; background-color:#A2E1DB; padding:20px;border-radius:20px">
 <img width="200" src="/uploads/form.svg"/>
 </div>
-Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
 
 - Eliminate the need of sensors. use digital forms to measure any kind of data
 - Rule Triggers can be used to initiate business flows like alerts, reports and even automated tasks 
@@ -28,7 +27,7 @@ Quality parameters will be logged in zira, searchable and available in click. th
 
 Display KPIs by facility, machine, operator or shift. trigger task automatically upon new incident 
 
-{% include image.html noBorder="true" img="bottle-qc.gif" lightbox="true" alt="Using QR code to open QC form" caption="QC Form example" %}
+{% include image.html noBorder="true" img="bottle-qc.gif" lightbox="true" alt="Using QR code to open QC form" caption="Using QR code to open QC form" %}
 
 #### OEE (Overall Equipment Effectiveness) 
 
@@ -60,7 +59,11 @@ Based on the real-time data populated by the form, we can trigger alerts when do
 
 We can easily visualize the data and use it in dashboards
 
-*****SHOW ALL OEE RELATED WIDGETS****
+<figure data-uk-lightbox="animation: slide">
+<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/dashboard.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
+<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">Visualize forms data in dashboard</span></figcaption>
+</figure>
+
 
 #### Pre-shift checklist
 
@@ -69,4 +72,3 @@ Pre-shift checklist is a daily routine done by teams in order to verify list of 
 bellow example shows a checklist that logs mechanical parameters of production line
 
 *****SHOW ALL OEE RELATED WIDGETS****
-
