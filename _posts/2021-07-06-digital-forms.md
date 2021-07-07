@@ -19,18 +19,18 @@ Digitizing pen and paper processes brings instantaneous value and operational be
 
 Unlike other digital forms solutions we not support only textual fields but actually provide a way to log normalized data with readable names and unit of measures and even calculated fields. this will allow later to use the form output as actual data that can be easily visualized and used as a trigger for following business processes
 
-#### Example use cases
+### Example use cases
 
-##### Quality control
+#### Quality control
 Quality parameters that are logged using digital forms will allow to notify in real time about important incidents, moreover, the communication about the incident will happen within zira channel and enable QC persons, operators and supervisors to immediately act on the subject
 
 Quality parameters will be logged in zira, searchable and available in click. the quality parameters can later visualized as quality KPIs or charts that show the quality parameters over time. 
 
 Display KPIs by facility, machine, operator or shift. trigger task automatically upon new incident 
 
-*****SHOW QC SIMPLE FORM EXAMPLE****
+{% include image.html noBorder="true" img="bottle-qc.gif" lightbox="true" alt="Using QR code to open QC form" caption="QC Form example" %}
 
-##### OEE (Overall Equipment Effectiveness) 
+#### OEE (Overall Equipment Effectiveness) 
 
 OEE is simple KPI that takes into account three parameters:
 - Availability: 
@@ -46,19 +46,23 @@ OEE is simple KPI that takes into account three parameters:
 
 bellow example shows simple OEE tracking implementation that log stop time and reason by machine operator. 
 
-
-*****CREATE FORM + VIEW DATA ****
-
+<figure data-uk-lightbox="animation: slide">
+<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/create-form.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
+<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">OEE form example</span></figcaption>
+</figure>
 Based on the real-time data populated by the form, we can trigger alerts when downtime accrued 
 
 
-*****CREATE TRIGGER, SHOW ALERT, SHOW TASK CREATION****
+<figure data-uk-lightbox="animation: slide">
+<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/create-trigger.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
+<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">Create a trigger in order to alert on important data</span></figcaption>
+</figure>
 
 We can easily visualize the data and use it in dashboards
 
 *****SHOW ALL OEE RELATED WIDGETS****
 
-##### Pre-shift checklist
+#### Pre-shift checklist
 
 Pre-shift checklist is a daily routine done by teams in order to verify list of parameters related to specific work station for all kind of reasons (Safety, mechanical inspection, working procedures, etc.) 
 
