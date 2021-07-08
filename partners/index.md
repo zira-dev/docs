@@ -63,4 +63,4 @@ width: expand
 <!-- New posts -->
 {% include new-posts.html columns="3" tag="partners" title="Success stories" subtitle="" %}
 <!-- faqs -->
-{% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quick answers to frequent pre-sale questions asked by customers" %}
+{% include faqs.html multiple="true" title="Frequently asked questions" category="partners" subtitle="Find quick answers to frequent pre-sale questions asked by customers" %}
