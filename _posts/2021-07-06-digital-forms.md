@@ -6,7 +6,7 @@ author: alex
 ---
 Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
 <div style="text-align:center; background-color:#A2E1DB; padding:20px;border-radius:20px">
-<img width="200" src="/uploads/form.svg"/>
+<img width="120px" src="/uploads/form.svg"/>
 </div>
 
 - Eliminate the need of sensors. use digital forms to measure any kind of data
