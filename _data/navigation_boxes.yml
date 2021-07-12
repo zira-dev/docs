@@ -3,7 +3,7 @@
 - title: Getting Started
   # desc: Learn to master zira application 
   icon: rocket
-  url: /docs/getting-started/introduction/
+  url: getting-started/
 
 - title: Video tutorials
   # desc: The quickest way to master zira
