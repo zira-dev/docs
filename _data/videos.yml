@@ -12,19 +12,11 @@
   desc: Use Digital forms for monitoring and business flows
   url: https://youtu.be/3uZr34VH7uc
   thumb: /uploads/youtube/forms.png
-- title: Creating a dashboard
-  desc: App Walkthrough
+- title: Adding data-sources
+  desc: Learn how to add data-source to a channel
   url: https://youtu.be/ys8dQOZwK5I
-  thumb: /uploads/youtube/walkthrough.png
-- title: Creating a dashboard
-  desc: App Walkthrough
-  url: https://youtu.be/ys8dQOZwK5I
-  thumb: /uploads/youtube/walkthrough.png
-- title: Creating a dashboard
-  desc: App Walkthrough
-  url: https://youtu.be/ys8dQOZwK5I
-  thumb: /uploads/youtube/walkthrough.png
-- title: Creating a dashboard
-  desc: App Walkthrough
-  url: https://youtu.be/ys8dQOZwK5I
-  thumb: /uploads/youtube/walkthrough.png
+  thumb: /uploads/youtube/data-source.png
+- title: Exploring channels
+  desc: Learn about channels and how to browse channels
+  url: https://youtu.be/jnD-e2b5CAg
+  thumb: /uploads/youtube/channels.png
