@@ -23,7 +23,7 @@ width: expand
                 </p>
             </article>
             <div style="padding-top:40px" class="uk-column-span">
-                <a class="uk-button uk-button-default" href="/training">Became a partner</a>
+                <a class="uk-button uk-button-default" href="/contact.md">Became a partner</a>
             </div>
         </div>
     </div>

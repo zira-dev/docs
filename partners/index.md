@@ -22,7 +22,7 @@ partnership that powers mutual, long term growth." %}
                 </p>
             </article>
             <div style="padding-top:40px" class="uk-column-span">
-                <a class="uk-button uk-button-default" href="/training">Became a partner</a>
+                <a class="uk-button uk-button-default" href="/contact">Became a partner</a>
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@ partnership that powers mutual, long term growth." %}
                     </div>
                 </div>
                 <div style="padding-top:40px" class="uk-column-span uk-text-center">
-                    <a class="uk-button uk-button-default" href="/training">READ MORE</a>
+                    <a class="uk-button uk-button-default" href="/contact">READ MORE</a>
                 </div>
             </div>
         </div>
