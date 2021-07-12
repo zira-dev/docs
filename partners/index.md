@@ -1,19 +1,23 @@
 ---
 layout: page
 width: expand
+hero:
+    title: Zira Consulting partners
+    subtitle: A partnership that powers mutual, long term growth.
+    image: partnerspic.svg
+    search: false
 ---
-
-<!-- Hero -->
-{% include cta.html title="Zira Consulting partners" button_text="Contact Us" button_url="/contact/" subtitle="A
-partnership that powers mutual, long term growth." %}
+<div class="uk-text-center uk-column-span">
+    <a class="uk-button uk-button-default" href="/contact">Became a partner</a>
+</div>
 <div class="uk-container uk-container-medium">
     <!-- Hero -->
-    <div class="black uk-padding-large uk-background-primary uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-top"
-        style="background-image: url(/uploads/e1.jpg);
-    background-size: 200%; border-radius:20px;">
-        <div class="uk-container uk-container-xsmall">
+    <div class="black uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-top"
+        style="background-size: 200%; border-radius:20px;">
+        <div class="uk-text-center">
             <article class="uk-article .uk-text-emphasis">
-                <h3 class="white">Communication lays the foundation for success.</h3>
+                <!-- <h1>Zira Consulting partners</h1> -->
+                <!-- <h3>A partnership that powers mutual, long term growth.</h3> -->
                 <p class="white"></p>
                 <p>Zira Partner Specialists with business and engineering backgrounds are always available to assist our
                     partners. From onboarding to customer strategy discussions and beyond, they are available to work
@@ -21,14 +25,11 @@ partnership that powers mutual, long term growth." %}
                 <P>Open communication is the key to make sure Zira, Zira Partners, and customers are successful.
                 </p>
             </article>
-            <div style="padding-top:40px" class="uk-column-span">
-                <a class="uk-button uk-button-default" href="/contact">Became a partner</a>
-            </div>
         </div>
     </div>
     <!-- hero -->
     <div class="uk-margin-large uk-container uk-container-medium">
-        <div class="uk-padding-large uk-background-secondary uk-height-large uk-background-cover uk-overflow-hidden uk-light uk-flex uk-flex-top"
+        <div class="uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-top"
             style="border-radius:20px; background-image: url('');">
             <div class="uk-margin-auto uk-margin-auto-vertical">
                 <div class="uk-margin-medium  uk-text-center uk-margin-small">
@@ -41,7 +42,7 @@ partnership that powers mutual, long term growth." %}
                     </p>
                 </div>
                 <!-- class="uk-margin-medium uk-column-1-2 uk-column-divider"  -->
-                <div class="uk-child-width-expand@s uk-column-divider" uk-grid>
+                <div class="uk-margin-medium uk-child-width-expand@s uk-column-divider" uk-grid>
                     <div>
                         <h2 style="margin-top:10px;margin-bottom:10px">Expand your opportunities</h2>
                         <h5 style="margin-top:10px;margin-bottom:10px">
@@ -85,8 +86,8 @@ partnership that powers mutual, long term growth." %}
                         </ul>
                     </div>
                 </div>
-                <div style="padding-top:40px" class="uk-column-span uk-text-center">
-                    <a class="uk-button uk-button-default" href="/contact">READ MORE</a>
+                <div class="uk-column-span uk-text-center">
+                    <a class="uk-button uk-button-default" href="/contact">Contact Us</a>
                 </div>
             </div>
         </div>
