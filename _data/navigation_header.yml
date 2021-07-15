@@ -1,25 +1,20 @@
 # Navbar left menu navigation links
 
 left:
+  - title: Home
+    url: /
   - title: Learn
     url: /docs/getting-started/introduction/
   - title: Developers
     url: /developers/getting-started/introduction/
   - title: Partners
     url: /partners/
-  - title: Solutions
-    url: /solutions/
   - title: Blog
     url: /blog/
-  - title: Pricing
-    url: /pricing/
-        
 
 # Navbar right menu navigation links
 
 right:
-  - title: What's new?
-    url: /changelog/
     button: primary-outline
   - title: Login
     url: https://my.zira.us
