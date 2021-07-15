@@ -1,18 +1,18 @@
 # Boxes include navigation
 
 - title: Getting Started
-  # desc: Learn to master zira application 
-  icon: rocket
+  desc: Manage teams and machines using an instant messaging interface 
+  icon: cog
   url: getting-started/
 
-- title: Video tutorials
-  # desc: The quickest way to master zira
-  icon: videos
+- title: Using channels
+  desc: Use Channels to reflect assets, teams, machines, and processes.
+  icon: settings
   target: _blank
-  url: https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA
+  url: /channels
 
-- title: Solutions
-  # desc: Get the most of out of zira using our experts
-  icon: companies
-  url: /solutions/
+- title: Going paperless
+  desc: Bring instantaneous value by Digitizing pen and paper processes 
+  icon: code
+  url: /digital-forms/
 
