@@ -3,16 +3,16 @@
 - title: Getting Started
   desc: Manage teams and machines using an instant messaging interface 
   icon: cog
-  url: getting-started/
+  doc: getting-started
 
 - title: Using channels
   desc: Use Channels to reflect assets, teams, machines, and processes.
   icon: settings
   target: _blank
-  url: /channels
+  doc: channels
 
 - title: Going paperless
   desc: Bring instantaneous value by Digitizing pen and paper processes 
   icon: code
-  url: /digital-forms/
+  doc: digital-forms
 

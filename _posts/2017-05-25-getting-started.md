@@ -1,8 +1,8 @@
 ---
-title: Partner story 1
+title: Getting started
 author: alex
 tags: [partners]
-categories: [updates]
+categories: [updates, new, featured]
 ---
 
 
@@ -33,3 +33,21 @@ Zira integrates and digests data from sensors, meters, things, transactional sys
 - Escalate on issues
 - Create custom workflows within the channel
 - Create amazing dashboards Based on data from multiple channels
+
+## It’s all about Automation
+Data-driven channels mean you can leverage streaming data to automate things and processes!
+
+<p class="uk-text-small"><b>Low inventory? </b> Generate a PO and automatically track fulfillment.</p>
+<p class="uk-text-small"><b>Machines are down? </b> Notify the problem in real-time and enable taking
+    actions</p>
+<p class="uk-text-small"><b>Maintenance required? </b> Automatically create and track tasks and team members
+</p>
+<p class="uk-text-small"><b>BI and Data-analytics? </b> Generate automated reports directly to your channel
+</p>
+
+Get involved and Track what’s happening right now.
+Follow channels that are important for you and don’t waste time on writing emails, updating gantt
+charts, or staring at dashboards. 
+
+Everything that is happening appears on your channel and you can take
+    action directly from it.

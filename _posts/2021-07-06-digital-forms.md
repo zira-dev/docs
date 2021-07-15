@@ -4,10 +4,9 @@ subtitle: Use forms to digitize manual operations, use metrics and unit of measu
 tags: [updates, new, featured]
 author: alex
 ---
+
+## Digital forms use cases
 Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
-<div style="text-align:center; background-color:#A2E1DB; padding:20px;border-radius:20px">
-<img width="120px" src="/uploads/form.svg"/>
-</div>
 
 - Eliminate the need of sensors. use digital forms to measure any kind of data
 - Rule Triggers can be used to initiate business flows like alerts, reports and even automated tasks 
@@ -70,5 +69,3 @@ We can easily visualize the data and use it in dashboards
 Pre-shift checklist is a daily routine done by teams in order to verify list of parameters related to specific work station for all kind of reasons (Safety, mechanical inspection, working procedures, etc.) 
 
 bellow example shows a checklist that logs mechanical parameters of production line
-
-*****SHOW ALL OEE RELATED WIDGETS****
