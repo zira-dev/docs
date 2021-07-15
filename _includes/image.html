@@ -3,19 +3,19 @@
     <a class="uk-inline"
         href="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
         {% if include.caption %} caption="{{ include.caption }}" {% endif %}>
-        <img {% if include.noBorder%} style="border-radius:20px; box-shadow: none;border:none;"{% endif %}
+        <img {% if include.noBorder%} style="width:100%; border-radius:20px; box-shadow: none;border:none;"{% endif %}
             src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
             {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
         <div class="uk-position-center">
             <span data-uk-overlay-icon></span>
-        </div>
+        </div>          
     </a>
     {% if include.caption %}<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">{{
             include.caption }}</span></figcaption>{% endif %}
 </figure>
 {% else %}
 <figure uk-parallax="x: 20">
-    <img src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
+    <img style="width:100%;" src="{% if include.img contains 'http' %}{{ include.img }}{% else %}{{ site.uploads | absolute_url }}{{ include.img }}{% endif %}"
         {% if include.alt %} alt="{{ include.alt }}" {% endif %}>
     {% if include.caption %}<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">{{
             include.caption }}</span></figcaption>{% endif %}

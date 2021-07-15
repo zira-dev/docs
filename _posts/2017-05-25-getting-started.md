@@ -13,7 +13,7 @@ Manage teams and organizations using an instant messaging interface, while provi
 
 Channels reflect your company’s assets, teams, machines, and business processes. Any topic that has people engaging with live data should have a channel.
 
-{% include image.html style="wide" img="channels-post2.svg" lightbox="false" alt="" caption="" %}
+{% include image.html img="getting-started.png" %}
 
 ## Zira is the digital twin of your organization
 Get involved and Track what’s happening right now. Follow channels that are important for you and don’t waste time on writing emails, updating gantt charts, or staring at dashboards.

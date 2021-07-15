@@ -11,11 +11,11 @@ left:
     url: /partners/
   - title: Blog
     url: /blog/
+        
 
 # Navbar right menu navigation links
 
 right:
-    button: primary-outline
   - title: Login
     url: https://my.zira.us
     button: success
