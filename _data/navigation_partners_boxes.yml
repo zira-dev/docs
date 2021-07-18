@@ -1,17 +1,18 @@
 # Boxes include navigation
 
-- title: Training
-  # desc: Learn to master zira application 
-  icon: training
-  url: /training/
+- title: Expand Your Opportunities
+  desc: Partnering with Zira provides multiple avenues of opportunity beyond your initial engagement with a customer. 
+  icon: expand
+  doc: 
 
-- title: Use cases
-  # desc: The quickest way to master zira
-  icon: use-cases
+- title: Dedicated partner contacts
+  desc: Our partners are never alone. Learn from specialists related to your specific product or industry focus.
+  icon: users
   target: _blank
-  url: https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA
+  doc: 
 
-- title: Why zira?
-  # desc: Get the most of out of zira using our experts
-  icon: why-zira
-  url: /enterprise/
+- title: The Zira Partners Program
+  desc: Our partners Help customers to get cutting edge working experience
+  icon: happy
+  doc: 
+

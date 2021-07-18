@@ -4,94 +4,15 @@ width: expand
 hero:
     title: Zira Consulting partners
     subtitle: A partnership that powers mutual, long term growth.
-    image: partnerspic.svg
+    image: partners.svg
     search: false
 ---
-<div class="uk-text-center uk-column-span">
-    <a class="uk-button uk-button-default" href="/contact">Became a partner</a>
+<div class="uk-section uk-text-center">
+    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Became a Partner</a>
 </div>
+<!-- Browse Topics -->
+{% include partners-boxes.html columns="3" title="Browse Topics" subtitle="Zira Specialists with business and engineering backgrounds are always available to assist our partners. From onboarding to customer strategy discussions and beyond." %}
 <div class="uk-container uk-container-medium">
-    <!-- Hero -->
-    <div class="black uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-top"
-        style="background-size: 200%; border-radius:20px;">
-        <div class="uk-text-center">
-            <article class="uk-article .uk-text-emphasis">
-                <!-- <h1>Zira Consulting partners</h1> -->
-                <!-- <h3>A partnership that powers mutual, long term growth.</h3> -->
-                <p class="white"></p>
-                <p>Zira Partner Specialists with business and engineering backgrounds are always available to assist our
-                    partners. From onboarding to customer strategy discussions and beyond, they are available to work
-                    with you by phone, email, web, and in person meetings. </P>
-                <P>Open communication is the key to make sure Zira, Zira Partners, and customers are successful.
-                </p>
-            </article>
-        </div>
-    </div>
-    <!-- hero -->
-    <div class="uk-margin-large uk-container uk-container-medium">
-        <div class="uk-height-large uk-background-cover uk-overflow-hidden uk-flex uk-flex-top"
-            style="border-radius:20px; background-image: url('');">
-            <div class="uk-margin-auto uk-margin-auto-vertical">
-                <div class="uk-margin-medium  uk-text-center uk-margin-small">
-                    <h1>The Zira Partners Program</h1>
-                    <p>
-                        Our partners offer a broad range of tools, services, and solutions to help customers set up,
-                        configure, and maximize Zira’s value based on their specific needs.
-                        This ranges from the general deployment of Zira’s platform to integrating with existing data and
-                        IT resources.
-                    </p>
-                </div>
-                <!-- class="uk-margin-medium uk-column-1-2 uk-column-divider"  -->
-                <div class="uk-margin-medium uk-child-width-expand@s uk-column-divider" uk-grid>
-                    <div>
-                        <h2 style="margin-top:10px;margin-bottom:10px">Expand your opportunities</h2>
-                        <h5 style="margin-top:10px;margin-bottom:10px">
-                            Partnering with Zira provides multiple avenues of opportunity beyond your initial engagement
-                            with a customer.
-                        </h5>
-                        <ul>
-                            <li>
-                                Zira connects you to hundreds of qualified business opportunities, helping you expand
-                                your reach and profitability.
-                            </li>
-                            <li>
-                                Provide modern solutions. enhance the value you deliver to help customers grow their
-                                business.
-                            </li>
-                            <li>
-                                Scale your business by including interconnection services, leading to recurring revenue
-                                and higher profit margins.
-                            </li>
-                        </ul>
-                    </div>
-                    <div>
-                        <h2 style="margin-top:10px;margin-bottom:10px">Dedicated partner contacts</h2>
-                        <h5 style="margin-top:10px;margin-bottom:10px">
-                            Our partners are never alone. Learn from specialists related to your specific product or
-                            industry focus.
-                        </h5>
-                        <ul>
-                            <li>
-                                Partner contacts work with your team to make sure the partnership is successful and
-                                profitable.
-                            </li>
-                            <li>
-                                Technical resources are available to assist with software integration or custom
-                                application development.
-                            </li>
-                            <li>
-                                You will be provided with the sales assets, content, and media needed to effectively
-                                market Zira to new customers.
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="uk-column-span uk-text-center">
-                    <a class="uk-button uk-button-default" href="/contact">Contact Us</a>
-                </div>
-            </div>
-        </div>
-    </div>
     <!-- paragraphs -->
     <h2 class="uk-text-center">
         We support consulating partners regardless of their industry experience or product focus

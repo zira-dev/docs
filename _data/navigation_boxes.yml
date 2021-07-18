@@ -5,13 +5,13 @@
   icon: cog
   doc: getting-started
 
-- title: Using channels
+- title: Using Channels
   desc: Use Channels to reflect assets, teams, machines, and processes.
   icon: settings
   target: _blank
   doc: channels
 
-- title: Going paperless
+- title: Going Paperless
   desc: Bring instantaneous value by Digitizing pen and paper processes 
   icon: code
   doc: digital-forms
