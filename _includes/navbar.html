@@ -6,7 +6,7 @@
                     <a class="uk-navbar-item uk-logo uk-visible@m" href="{{ "/" | relative_url }}">{% if site.logo %}<img width="80px" src="{{ site.uploads | absolute_url }}{{ site.logo }}" alt="{{ site.title | escape }}">{% else %}{{ site.title | escape }}{% endif %}</a>
                     {% if site.data.translation[site.lang].mobile_nav_docs %}
                         <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-toggle><span style="padding-top:5px;" data-uk-navbar-toggle-icon></span></a>
-                        <a class="uk-margin-small-left" href="/"><img data-src="/uploads/logo.svg" width="60" height="" alt="" uk-img></a>
+                        <a class="uk-hidden@m uk-margin-small-left" href="/"><img data-src="/uploads/logo.svg" width="60" height="" alt="" uk-img></a>
                     {% else %}
                         <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas-docs" data-uk-navbar-toggle-icon data-uk-toggle></a>
                     {% endif %}
