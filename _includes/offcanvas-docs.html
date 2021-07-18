@@ -1,18 +1,33 @@
 <div id="offcanvas-docs" data-uk-offcanvas="overlay: true">
-    <div class="uk-offcanvas-bar">
+  <div class="uk-offcanvas-bar">
+    <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+    <img data-src="/uploads/logo.svg" width="60" height="" alt="" uk-img>
+    <ul class="uk-margin-large-top uk-nav uk-nav-default doc-nav">
 
-        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+      {% for link in site.data.navigation_header.left %}
+      {% if link.url contains 'http' %}
+      {% assign domain = '' %}
+      {% else %}
+      {% assign domain = '' | relative_url %}
+      {% endif %}
+      {% if link.url == page.url %}
+      {% assign current = ' class="uk-active"' %}
+      {% else %}
+      {% assign current = null %}
+      {% endif %}
 
-        {% for section in site.data.navigation_docs %}
-        <h5 class="uk-margin-top">{{ section.title }}</h5>
-        <ul class="uk-nav uk-nav-default doc-nav">
-        {% for doc in section.docs %}
-          {% assign doc_url = doc | prepend:"/docs/" | append:"/" %}
-          {% assign p = site.docs | where:"url", doc_url | first %}
-          <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a href="{{ p.url }}">{{ p.title }}</a></li>
+      <li{{ current }}>
+        <a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank" {% endif %}>
+          {{ link.title }}
+        </a>
+        </li>
+
         {% endfor %}
-        </ul>
-        {% endfor %}
-
+    </ul>
+    <div class="uk-margin-top uk-text-center">
+      <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+        {% include social-networks.html %}
+      </div>
     </div>
+  </div>
 </div>
