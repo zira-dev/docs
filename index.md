@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 <div class="uk-section uk-text-center">
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Request For Demo</a>
+    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Request a Demo</a>
 </div>
 <!-- Browse Topics -->
 {% include boxes.html columns="3" title="Browse Topics" subtitle="" %}

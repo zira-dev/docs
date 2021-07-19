@@ -8,7 +8,7 @@ hero:
     search: false
 ---
 <div class="uk-section uk-text-center">
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Became a Partner</a>
+    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Become a Partner</a>
 </div>
 <!-- Browse Topics -->
 {% include partners-boxes.html columns="3" title="Browse Topics" subtitle="Zira Specialists with business and engineering backgrounds are always available to assist our partners. From onboarding to customer strategy discussions and beyond." %}
