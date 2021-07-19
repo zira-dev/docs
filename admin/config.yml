@@ -13,6 +13,7 @@ site_url: https://website.zira.us
 logo_url: https://website.zira.us/uploads/logo.svg
 collections:
   - name: 'blog'
+    create: true
     label: 'Blog'
     folder: '_posts/'
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
