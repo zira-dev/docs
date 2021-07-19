@@ -1,7 +1,7 @@
-# admin things
 backend:
   name: git-gateway
   branch: master
+  repo: zira-dev/website
   identity_url: "https://website.zira.us/.netlify/identity"
   gateway_url: "https://website.zira.us/.netlify/git"
   squash_merges: true
