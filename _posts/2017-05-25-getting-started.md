@@ -1,10 +1,15 @@
 ---
 title: Getting started
+subtitle: The quick guide for zira app
 author: alex
 tags: [partners]
 categories: [updates, new, featured]
+hero:
+    title: How can we help you?
+    subtitle: Search or browse in depth articles and videos
+    image: automation.svg
+    search: false
 ---
-
 
 ## Zira is Channel based, Data-driven Workspace
 Manage teams using an instant messaging interface, while providing full visibility on performance and trends
