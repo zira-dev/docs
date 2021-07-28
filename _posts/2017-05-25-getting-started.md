@@ -15,7 +15,7 @@ hero:
   search: false
 
 ---
-## Zira is Channel based, Data-driven Workspace edit
+## Zira is Channel based, Data-driven Workspace
 
 Manage teams using an instant messaging interface, while providing full visibility on performance and trends
 
