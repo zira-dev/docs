@@ -6,8 +6,8 @@ tags:
 videos:
 - title: Platform Overview
   url: https://www.youtube.com/watch?v=i97_8cKWORg&t=87s
-- title: Vid2 title
-  url: https://youtu.be/-RYkapHBVs8
+- title: App Walkthrough
+  url: https://www.youtube.com/watch?v=nLALfwdFVnc&t=12s
 
 ---
 Zira is a holistic platform for digital transformation. 
