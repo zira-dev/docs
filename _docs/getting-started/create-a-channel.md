@@ -10,9 +10,7 @@ videos:
   url: https://www.youtube.com/watch?v=X-IoGbvmmCA&t=7s
 
 ---
-### Exploring Channels
-
-Zira is a channel-based, instant-messaging app, in this article we will learn how to use channels to automate processes and get full visibility on important insights in real-time
+Zira is a channel-based, instant-messaging app, in this article, we will learn how to use channels to automate processes and get full visibility on important insights in real-time
 
 ![](https://zira.us/uploads/channels4.svg)
 
