@@ -6,8 +6,8 @@ tags:
 videos:
 - title: Exploring Channels
   url: https://www.youtube.com/watch?v=jnD-e2b5CAg
-- title: Vid2 title
-  url: https://youtu.be/-RYkapHBVs8
+- title: Post to channels
+  url: https://www.youtube.com/watch?v=X-IoGbvmmCA&t=7s
 
 ---
 This is a link [Click me](http://my.zira.us/):
