@@ -26,7 +26,7 @@ Zira channels allow teams to manage every aspect of their working routines:
 
 Zira is designed as a digital workspace that simulates your actual workspace. you can think of it as the virtual twin of an organization.
 
-* **Companies**: Resemble your higher organization hierarchy (like Coca-cola or Mac-Donald)
+* **Companies**: Resemble your higher organization hierarchy (like Coca-cola or Mac-Donalds)
 * **Sites**: Every company usually have one or more sites (for example factories, buildings, stores)
 * **Channels**: Channels can be any subject within a site (for example, teams, work centers, utility, sales)
 
