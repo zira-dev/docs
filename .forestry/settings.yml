@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: "/forestry"
 webhook_url: ''
 sections:
-- type: document
-  path: _config.yml
-  label: Authors
-  match: "**/*"
 - type: directory
   path: _docs
   label: Docs
