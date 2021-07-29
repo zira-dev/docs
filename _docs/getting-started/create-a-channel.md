@@ -12,4 +12,30 @@ videos:
 ---
 ### Exploring Channels
 
-Companies risk losing billions of dollars in investor capital if they won’t optimize their energy consumption and digitally adapt to a new world where energy makes the difference between profit and loss.  Zira has what it takes to solve energy challenges 100X faster and cheaper by unleashing AI and ML.
+Zira is a channel-based, instant-messaging app, in this article we will learn how to use channels to automate processes and get full visibility on important insights in real-time
+
+![](https://zira.us/uploads/channels4.svg)
+
+Zira channels allow teams to manage every aspect of their working routines:
+
+* Communication
+* Tasks management
+* Scheduled reports
+* Data-driven alerts
+* Real-time and historic Data-visualization
+
+#### Zira channels hierarchy
+
+Zira is designed as a digital workspace that simulates your actual workspace. you can think of it as the virtual twin of an organization.
+
+* **Companies**: Resemble your higher organization hierarchy (like Coca-cola or Mac-Donald)
+* **Sites**: Every company usually have one or more sites (for example factories, buildings, stores)
+* **Channels**: Channels can be any subject within a site (for example, teams, work centers, utility, sales)
+
+Channels can be arranged with a hierarchy in order to reflect your actual organization structure
+
+SITE OVERVIEW > OPEN SUB CHANNEL > OPEN A CHANNEL > GO OVER FEW POSTS
+
+Zira is all about data visibility and data-driven actions. it may sound complicated but the actual experience is like chatting in your preferred IM application.
+
+Most of the communication happens automatically and triggered by data
