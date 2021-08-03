@@ -36,6 +36,8 @@ Data is what you do with it. Having key insights and operational metrics pushed 
 
 So what does more time in the day, visibility and accessibility to data, and enhanced resource allocation mean for your business? Higher productivity and profitability stemming from reduced downtime, increased production throughput, fewer quality control failures, reduced maintenance costs, and faster problem resolution.
 
+![](/uploads/screen-shot-2021-08-02-at-2-15-40-pm.png)
+
 **Ready to Get Started?**
 
 You can begin digitizing paper-driven processes in minutes with Zira.
