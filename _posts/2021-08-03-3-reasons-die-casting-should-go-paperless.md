@@ -12,8 +12,6 @@ author: jake
 
 Die casting is an age-old process that supplies components to traditional and new industries ranging from automotive and housing to renewable energy and robotics. Over time, new technology has been introduced that has enabled machines to produce faster, higher-quality goods, but many of the processes running around those machines are still being driven by pencil and paper.
 
-
-
 The benefits that digitizing paper processes can bring to the Die Casting industry are clear, easy to implement, and should be considered essential by any caster hoping to remain competitive in an increasingly data-driven world.
 
 Interviewing maintenance, operations, and general managers revealed the following benefits that switching to paperless processes enables for die casting businesses:
