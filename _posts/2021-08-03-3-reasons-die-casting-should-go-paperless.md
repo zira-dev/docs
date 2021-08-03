@@ -24,6 +24,8 @@ Imagine no more scrambling to find a fresh copy of a form used to record shots, 
 
 A timestamp, the form submitter, and any required calculations are automatically applied to form data and available for anyone the moment an operator presses submit. Instant visualizations and trends can be accessed by phone, tablet, or computer, and automated reports and triggers make sure the most important data and insights are pushed to key decision-makers and problem solvers.
 
+![](/uploads/screen-shot-2021-08-02-at-2-18-21-pm.png)
+
 **Reason 3 - Enhanced Resource Allocation**
 
 Data is what you do with it. Having key insights and operational metrics pushed the moment they become relevant allow plant leaders to make optimal decisions on where manpower should be expended and how money should be spent. Prioritize training for the machine operator with the lowest average throughput, maintenance for the CNC machine with the highest downtime, and upgrade or add a machine where you can’t keep up with demand.
