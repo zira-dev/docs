@@ -9,67 +9,52 @@ tags:
 author: alex
 
 ---
-## Digital forms use cases
-Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
+![](/uploads/ziravsfiix.png)
+Zira is built for every member of your facility team to collaborate with machines and increase productivity.  See how it stacks up against Fiix by Rockwell Automation.
 
-- Eliminate the need of sensors. use digital forms to measure any kind of data
-- Rule Triggers can be used to initiate business flows like alerts, reports and even automated tasks 
-- Form data will be available and searchable 
-- Data visualization and dashboards are supported like any other data-source
-- Can be attached to a channel and used as part of teams daily routine
-- Use QR code in the work station to instantly open the form using mobile device or tablet
+Fiix is a traditional computerized maintenance management system (cmms) and a condition-based monitoring solution that enables plant personnel to manage maintenance operations by pulling data, creating reports, and identifying problems.
 
-Unlike other digital forms solutions we not support only textual fields but actually provide a way to log normalized data with readable names and unit of measures and even calculated fields. this will allow later to use the form output as actual data that can be easily visualized and used as a trigger for following business processes
+Fiix can also assist with parts ordering, scheduling of manpower, and planning repairs and downtime.
 
-### Example use cases
+Unlike Fiix, Zira is a collaborative platform that connects people and machines to business processes such as maintenance, quality control, safety, and production.
 
-#### Quality control
-Quality parameters that are logged using digital forms will allow to notify in real time about important incidents, moreover, the communication about the incident will happen within zira channel and enable QC persons, operators and supervisors to immediately act on the subject
+Zira leverages artificial intelligence to automate and drive actions through dedicated business process-focused channels. Equipped with a powerful toolset that gets users up and running quickly, Zira ensures that teams keep your machines well-oiled and are continuously working to accelerate business growth.
 
-Quality parameters will be logged in zira, searchable and available in click. the quality parameters can later visualized as quality KPIs or charts that show the quality parameters over time. 
+#### Zira is not just another business software suite. It is designed as a digital virtual workspace, augmenting real-world business interactions and resources. Think of it as a virtual twin of your organization and processes.
 
-Display KPIs by facility, machine, operator or shift. trigger task automatically upon new incident 
+### **Why choose Zira over Fiix?**
 
-{% include image.html noBorder="true" img="bottle-qc.gif" lightbox="true" alt="Using QR code to open QC form" caption="Using QR code to open QC form" %}
+See what makes Zira’s collaborative growth platform the better choice over condition-based monitoring solutions and computerized maintenance management software.
 
-#### OEE (Overall Equipment Effectiveness) 
+![](/uploads/screen-shot-2021-08-03-at-10-45-55-am.png)
 
-OEE is simple KPI that takes into account three parameters:
-- Availability: 
-  Availability defined as `Planned production time - Stop time /Planned production time`
+### **Zira Channels**
 
-- Performance:
-  The ratio between optimal run time to actual run-time `(Optimal Time per part × Total parts Count) / Actual total Run Time`
+You can use Zira channels to automate processes, enable holistic visibility, and collaborate with your teams and third-party contractors in real-time.
 
-- Quality:
-    the quality defined as `Good parts Count / Total parts Count`
+Channels can represent anything; create channels that are resource-specific (machines or production line), process-specific (i.e. production or procurement), and even team or customer-specific (maintenance team/customer account/customer order…).
 
-**`OEE = Availability × Performance × Quality`**
+Attaching real-time or manual data sources to channels lets you run analytics and visualizations, create and post scheduled reports, set channel-specific alerts that are triggered by attached data, and set and drive tasks.
 
-bellow example shows simple OEE tracking implementation that log stop time and reason by machine operator. 
+Most importantly, channels on Zira allow you to collaborate with your peers or with attached machines by simply ‘following’ a channel and interacting over channel items (posts).
 
-<figure data-uk-lightbox="animation: slide">
-<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/create-form.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
-<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">OEE form example</span></figcaption>
-</figure>
-Based on the real-time data populated by the form, we can trigger alerts when downtime accrued 
+### **Zira Feed**
 
+The Zira feed is where you get updates from all the channels you are following. For example, if you are a maintenance manager, you might follow the maintenance team channel, channels for critical assets you care for, and the procurement channel so you can get updates about spare parts.
 
-<figure data-uk-lightbox="animation: slide">
-<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/create-trigger.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
-<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">Create a trigger in order to alert on important data</span></figcaption>
-</figure>
+From time to time, the feed will suggest updates from channels you might not be following but are important for you or for overall plant productivity. For example, you might not follow the forklift inspections channel, but if there is a safety issue with a forklift that might impact production, it will be pushed straight to your feed so you can take action or participate in resolving the problem.
 
-We can easily visualize the data and use it in dashboards
+### **Data Sources**
 
-<figure data-uk-lightbox="animation: slide">
-<video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/dashboard.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
-<figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">Visualize forms data in dashboard</span></figcaption>
-</figure>
+Connecting your data and applications to channels enables the full automation of business processes and will make your teams unstoppable. Zira supports four types of data sources as follows:
 
+1. Streaming data from sensors, controllers, and devices - connect using built-in drivers for Modbus and many other industrial protocols.
+2. Forms - easily design, create and deploy digital forms that allow team members to capture field operational data in real-time. Data acquired by forms is consistent with streaming data and all functionalities, including task and workflow triggers, can be applied to form data. Many teams start acquiring data manually through forms and upgrade to streaming data as they grow.
+3. Applications and services - use existing drivers or build your own with the Zira development toolkit to hook your data pipes to business applications and streaming services.
+4. ERP, CRM, MES, and many more - two-way connectors to your business applications for a truly automated ‘zero’ maintenance data and execution platform.
 
-#### Pre-shift checklist
+### **Task and Workflow Triggers**
 
-Pre-shift checklist is a daily routine done by teams in order to verify list of parameters related to specific work station for all kind of reasons (Safety, mechanical inspection, working procedures, etc.) 
+Take action immediately, from the feed itself or from any channel. Zira’s integrated tasks and workflows help you automate and track business processes such as maintenance, quality control, safety, and production. Workflow triggers and tasks can be automatically generated based on real-time streaming data, data events, and even channel activity.
 
-bellow example shows a checklist that logs mechanical parameters of production line
+Used in conjunction with any type of business or operational data, task and workflow triggers are powerful tools that play a key role in business automation and value realization from data and technology investments.
