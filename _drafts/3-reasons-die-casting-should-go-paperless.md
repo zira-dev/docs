@@ -1,63 +1,43 @@
 ---
 title: 3 Reasons Die Casting Should Go Paperless
-subtitle: Zira is built for every member of your facility team to collaborate with
-  machines and increase productivity.  See how it stacks up against Fiix by Rockwell
-  Automation.
+subtitle: "."
 tags:
 - updates
 - new
 - featured
-author: alex
+author: jake
 
 ---
-![](/uploads/ziravsfiix.png)
+Die casting is an age-old process that supplies components to traditional and new industries ranging from automotive and housing to renewable energy and robotics. Over time, new technology has been introduced that has enabled machines to produce faster, higher-quality goods, but many of the processes running around those machines are still being driven by pencil and paper.
 
+The benefits that digitizing paper processes can bring to the Die Casting industry are clear, easy to implement, and should be considered essential by any caster hoping to remain competitive in an increasingly data-driven world.
 
-Zira is built for every member of your facility team to collaborate with machines and increase productivity.  See how it stacks up against Fiix by Rockwell Automation.
+Interviewing maintenance, operations, and general managers revealed the following benefits that switching to paperless processes enables for die casting businesses:**![](https://lh6.googleusercontent.com/Y3EIsaYS7ghaKpfZmRmb2vGpQ8aJPnMTHkkgY-fl5c_bC_T87eDUOnBBGVv01LEEn4RnDOkG0m6aQUjaeo-miUYpOJHF5MI0Pt8mYQJFwoy4ByMLwdVLEYi0fbexnluAIEhg6Hjw =120x176)**
 
-Fiix is a traditional computerized maintenance management system (cmms) and a condition-based monitoring solution that enables plant personnel to manage maintenance operations by pulling data, creating reports, and identifying problems.
+1. **Time Savings**
 
-Fiix can also assist with parts ordering, scheduling of manpower, and planning repairs and downtime.
+Imagine no more scrambling to find a fresh copy of a form used to record shots, perform a safety inspection, or run a quality audit. Simply search or scan a QR code to pull up the correct form, submit the information required, and move on to your next task. No more lost forms, dropping off paper copies to management, or tedious transcription of data into excel (if that is even done).
 
-Unlike Fiix, Zira is a collaborative platform that connects people and machines to business processes such as maintenance, quality control, safety, and production.
+1. 
 
-Zira leverages artificial intelligence to automate and drive actions through dedicated business process-focused channels. Equipped with a powerful toolset that gets users up and running quickly, Zira ensures that teams keep your machines well-oiled and are continuously working to accelerate business growth.
+![](https://lh6.googleusercontent.com/_52Djw8X9fdqbJ5O7GIham6F3g4QtKzu9HWSiy4J4eFGI6jAz0DKScKavmuS1BOHd49-M22zH05PoH4g6PX-Jl0kqu4YOZnCdOFVs1jgTmLaZ7xq-Mh2it4kKxIOBhmpHJ_W9UIN =615x290)
 
-#### Zira is not just another business software suite. It is designed as a digital virtual workspace, augmenting real-world business interactions and resources. Think of it as a virtual twin of your organization and processes.
+2. **Visibility and Accessibility**
 
-### **Why choose Zira over Fiix?**
+A time stamp, the form submitter, and any required calculations are automatically applied to form data and available for anyone the moment an operator presses submit. Instant visualizations and trends can be accessed by phone, tablet, or computer, and automated reports and triggers make sure the most important data and insights are pushed to key decision makers and problem solvers.
 
-See what makes Zira’s collaborative growth platform the better choice over condition-based monitoring solutions and computerized maintenance management software.
+![](https://lh4.googleusercontent.com/r9P4PQ6JHnYKwspFm11H6SbM3NrE9PwqZPd3PSEbJYwFgz_CSom_eriNopGyde595N6DzOIi8lsXCOrDt-I-c8ltbFD-9rZXisfVb_nVa4gAX-Qm84fdkhfzlG7ybAdBIG5TMNJf =624x272)
 
-![](/uploads/screen-shot-2021-08-03-at-10-45-55-am.png)
+3. **Enhanced Resource Allocation**
 
-### **Zira Channels**
+Data is what you do with it. Having key insights and operational metrics pushed the moment they become relevant allow plant leaders to make optimal decisions on where manpower should be expended and how money should be spent. Prioritize training for the machine operator with the lowest average throughput, maintenance for the CNC machine with the highest downtime, and upgrade or add a machine where you can’t keep up with demand.
 
-You can use Zira channels to automate processes, enable holistic visibility, and collaborate with your teams and third-party contractors in real-time.
+**1, 2, and 3 Bring the Business Benefits**
 
-Channels can represent anything; create channels that are resource-specific (machines or production line), process-specific (i.e. production or procurement), and even team or customer-specific (maintenance team/customer account/customer order…).
+So what does more time in the day, visibility and accessibility to data, and enhanced resource allocation mean for your business? Higher productivity and profitability stemming from reduced downtime, increased production throughput, fewer quality control failures, reduced maintenance costs, and faster problem resolution.
 
-Attaching real-time or manual data sources to channels lets you run analytics and visualizations, create and post scheduled reports, set channel-specific alerts that are triggered by attached data, and set and drive tasks.
+**Ready to Get Started?**
 
-Most importantly, channels on Zira allow you to collaborate with your peers or with attached machines by simply ‘following’ a channel and interacting over channel items (posts).
+You can begin digitizing paper driven processes in minutes with Zira.
 
-### **Zira Feed**
-
-The Zira feed is where you get updates from all the channels you are following. For example, if you are a maintenance manager, you might follow the maintenance team channel, channels for critical assets you care for, and the procurement channel so you can get updates about spare parts.
-
-From time to time, the feed will suggest updates from channels you might not be following but are important for you or for overall plant productivity. For example, you might not follow the forklift inspections channel, but if there is a safety issue with a forklift that might impact production, it will be pushed straight to your feed so you can take action or participate in resolving the problem.
-
-### **Data Sources**
-
-Connecting your data and applications to channels enables the full automation of business processes and will make your teams unstoppable. Zira supports four types of data sources as follows:
-
-1. Streaming data from sensors, controllers, and devices - connect using built-in drivers for Modbus and many other industrial protocols.
-2. Forms - easily design, create and deploy digital forms that allow team members to capture field operational data in real-time. Data acquired by forms is consistent with streaming data and all functionalities, including task and workflow triggers, can be applied to form data. Many teams start acquiring data manually through forms and upgrade to streaming data as they grow.
-3. Applications and services - use existing drivers or build your own with the Zira development toolkit to hook your data pipes to business applications and streaming services.
-4. ERP, CRM, MES, and many more - two-way connectors to your business applications for a truly automated ‘zero’ maintenance data and execution platform.
-
-### **Task and Workflow Triggers**
-
-Take action immediately, from the feed itself or from any channel. Zira’s integrated tasks and workflows help you automate and track business processes such as maintenance, quality control, safety, and production. Workflow triggers and tasks can be automatically generated based on real-time streaming data, data events, and even channel activity.
-
-Used in conjunction with any type of business or operational data, task and workflow triggers are powerful tools that play a key role in business automation and value realization from data and technology investments.
+If you aren’t sure where to start, check out the top 5 forms being digitized by manufacturers or contact a Zira team member for a personalized conversation and trial setup.
