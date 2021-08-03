@@ -16,6 +16,8 @@ The benefits that digitizing paper processes can bring to the Die Casting indust
 
 Interviewing maintenance, operations, and general managers revealed the following benefits that switching to paperless processes enables for die casting businesses:
 
+![](/uploads/diecasters_qrcode.png)
+
 **Reason 1 - Time Savings**
 
 Imagine no more scrambling to find a fresh copy of a form used to record shots, perform a safety inspection, or run a quality audit. Simply search or scan a QR code to pull up the correct form, submit the information required, and move on to your next task. No more lost forms, dropping off paper copies to management, or tedious transcription of data into excel (if that is even done).
@@ -35,8 +37,6 @@ Data is what you do with it. Having key insights and operational metrics pushed 
 **1, 2, and 3 Bring the Business Benefits**
 
 So what does more time in the day, visibility and accessibility to data, and enhanced resource allocation mean for your business? Higher productivity and profitability stemming from reduced downtime, increased production throughput, fewer quality control failures, reduced maintenance costs, and faster problem resolution.
-
-![](/uploads/screen-shot-2021-08-02-at-2-15-40-pm.png)
 
 **Ready to Get Started?**
 
