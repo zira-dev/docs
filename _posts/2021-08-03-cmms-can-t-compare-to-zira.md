@@ -1,6 +1,8 @@
 ---
 title: CMMS can't compare to Zira
-subtitle: ''
+subtitle: Zira is built for every member of your facility team to collaborate with
+  machines and increase productivity.  See how it stacks up against Fiix by Rockwell
+  Automation.
 tags:
 - updates
 - new
