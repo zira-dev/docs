@@ -22,6 +22,8 @@ Imagine no more scrambling to find a fresh copy of a form used to record shots, 
 
 ![](/uploads/screen-shot-2021-08-02-at-2-14-50-pm.png)
 
+![](/uploads/diecastersform.png)
+
 **Reason 2 - Visibility and Accessibility**
 
 A timestamp, the form submitter, and any required calculations are automatically applied to form data and available for anyone the moment an operator presses submit. Instant visualizations and trends can be accessed by phone, tablet, or computer, and automated reports and triggers make sure the most important data and insights are pushed to key decision-makers and problem solvers.
