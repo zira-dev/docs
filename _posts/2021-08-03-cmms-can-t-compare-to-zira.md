@@ -1,5 +1,5 @@
 ---
-title: CMMS can't compare to Zira1
+title: CMMS can't compare to Zira
 subtitle: Use forms to digitize manual operations, use metrics and unit of measures
   in order to trigger alerts and visualize your data
 tags:
