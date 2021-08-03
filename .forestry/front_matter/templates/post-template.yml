@@ -33,3 +33,5 @@ fields:
   - type: boolean
     name: search
     label: search
+pages:
+- _posts/zira-vs.fiix-by-rockwell-automation.md
