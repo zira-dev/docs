@@ -1,7 +1,6 @@
 ---
 title: CMMS can't compare to Zira
-subtitle: Use forms to digitize manual operations, use metrics and unit of measures
-  in order to trigger alerts and visualize your data
+subtitle: ''
 tags:
 - updates
 - new
@@ -10,6 +9,7 @@ author: alex
 
 ---
 ![](/uploads/ziravsfiix.png)
+
 Zira is built for every member of your facility team to collaborate with machines and increase productivity.  See how it stacks up against Fiix by Rockwell Automation.
 
 Fiix is a traditional computerized maintenance management system (cmms) and a condition-based monitoring solution that enables plant personnel to manage maintenance operations by pulling data, creating reports, and identifying problems.
