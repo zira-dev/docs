@@ -1,7 +1,7 @@
 ---
 title: Getting started
 subtitle: The quick guide for zira app
-author: alex
+author: muli
 tags:
 - partners
 categories:
