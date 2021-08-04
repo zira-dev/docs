@@ -1,10 +1,14 @@
 ---
 title: Go paperless with digital forms
-subtitle: Use forms to digitize manual operations, use metrics and unit of measures in order to trigger alerts and visualize your data
-tags: [updates, new, featured]
-author: alex
----
+subtitle: Use forms to digitize manual operations, use metrics and unit of measures
+  in order to trigger alerts and visualize your data
+tags:
+- updates
+- new
+- featured
+author: jake
 
+---
 ## Digital forms use cases
 Digitizing pen and paper processes brings instantaneous value and operational benefits to an organization.
 
