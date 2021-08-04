@@ -9,13 +9,13 @@ tags:
 author: jake
 
 ---
-## Quality Control, Inspections and OEE with Digital Forms
+## Quality Control, Inspections, and OEE with Digital Forms
 
 #### Quality control
 
-Quality parameters that are logged using digital forms will allow to notify in real time about important incidents, moreover, the communication about the incident will happen within zira channel and enable QC persons, operators and supervisors to immediately act on the subject
+Quality parameters that are logged using digital forms will allow notifying in real-time about important incidents, moreover, the communication about the incident will happen within the Zira channel and enable QC persons, operators, and supervisors to immediately act on the subject
 
-Quality parameters will be logged in zira, searchable and available in click. the quality parameters can later visualized as quality KPIs or charts that show the quality parameters over time.
+Quality parameters will be logged in Zira, searchable, and available in a click. the quality parameters can later be visualized as quality KPIs or charts that show the quality parameters over time.
 
 Display KPIs by facility, machine, operator or shift. trigger task automatically upon new incident
 
@@ -25,8 +25,8 @@ Display KPIs by facility, machine, operator or shift. trigger task automatically
 
 OEE is a KPI that takes into account three parameters:
 
-* Availability: Availability defined as `Planned production time - Stop time /Planned production time`
-* Performance: The ratio between optimal run time to actual run-time `(Optimal Time per part × Total parts Count) / Actual total Run Time`
+* Availability: Availability is defined as `Planned production time - Stop time /Planned production time`
+* Performance: The ratio between optimal run time to the actual run-time `(Optimal Time per part × Total parts Count) / Actual total Run Time`
 * Quality: the quality defined as `Good parts Count / Total parts Count`
 
 **`OEE = Availability × Performance × Quality`**
@@ -43,6 +43,6 @@ We can easily visualize the data and use it in dashboards
 
 #### Pre-shift checklist
 
-The pre-shift checklist is a daily routine done by teams in order to verify list of parameters related to a specific workstation for all kinds of reasons (Safety, mechanical inspection, working procedures, etc.)
+The pre-shift checklist is a daily routine done by teams in order to verify a list of parameters related to a specific workstation for all kinds of reasons (Safety, mechanical inspection, working procedures, etc.)
 
-bellow example shows a checklist that logs mechanical parameters of production line
+bellow example shows a checklist that logs mechanical parameters of the production line
