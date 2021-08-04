@@ -9,6 +9,8 @@ tags:
 author: jake
 
 ---
+<figure data-uk-lightbox="animation: slide"> <video style="border-radius:20px;padding-bottom:1px;border:1px solid" src="/uploads/create-form.mp4" loop muted playsinline uk-video="autoplay: inview"></video> <figcaption data-uk-grid class="uk-flex-right"><span class="uk-width-auto">OEE form example</span></figcaption> </figure> Based on the real-time data populated by the form, we can trigger alerts when downtime accrued
+
 ## Quality Control, Inspections, and OEE with Digital Forms
 
 #### Quality control
