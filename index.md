@@ -2,8 +2,9 @@
 layout: page
 width: expand
 hero:
-  title: Collaborative Growth Platform
-  subtitle: Get work done faster and enable exponential growth through automation
+  title: Grow your business with our collaboration toolset.
+  subtitle: Get more done faster by giving your employees the tools they need to collaborate
+    and automate business processes.
   image: headerpic.svg
   search: false
 
