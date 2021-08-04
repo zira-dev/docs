@@ -9,8 +9,14 @@ hero:
   search: false
 
 ---
+Call to get set up by a Zira CGP specialist
+
+[__1-650-701-7026*__](tel:1-650-701-7026)
+
+\*Mon-Fri, 9am-9pm ET
+
 <div class="uk-section uk-text-center">
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Request a Demo</a>
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Request a Demo</a>
 </div>
 <!-- Browse Topics -->
 {% include boxes.html columns="3" title="Browse Topics" subtitle="" %}
@@ -20,14 +26,12 @@ hero:
 <!-- Featured Articles -->
 {% include featured_posts.html tag="featured" title="Popular Use cases" %}
 
-
 {% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with
 Jekyll" %}
 
 <!-- {% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %} -->
 
 <!-- {% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %} -->
-
 
 {% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in
 touch with us for details on setup and additional custom services pricing" %}
@@ -36,9 +40,9 @@ touch with us for details on setup and additional custom services pricing" %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23863461-5">
 </script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+window.dataLayer = window.dataLayer || \[\];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-  gtag('config', 'UA-23863461-5');
+gtag('config', 'UA-23863461-5');
 </script>
