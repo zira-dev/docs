@@ -9,19 +9,7 @@ hero:
   search: false
 
 ---
-<div class="uk-section uk-text-center">
-<div class="row">
-  <div class="column">
-    Call to get set up by a Zira CGP specialist
-    [__1-650-701-7026*__](tel:1-650-701-7026)
-    *Mon-Fri, 9am-9pm ET
-  </div>
-  <div class="column">
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a> </div> <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
-  </div>
-</div>
-
-<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Start now</a> </div> <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a> </div>
+<div class="uk-section uk-text-center"> <div class="row"> <div class="column"> Call to get set up by a Zira CGP specialist<br> [__1-650-701-7026*__](tel:1-650-701-7026)<br> *Mon-Fri, 9am-9pm ET </div> <div class="column"> <a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a><a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a> </div> </div>
 
 <!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
