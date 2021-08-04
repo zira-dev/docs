@@ -57,6 +57,14 @@ authors:
     name: Tom Farrell
     title: Developer
     avatar: avatar-tom.png
+  elhay:
+    name: Elhay Farkash
+    title: CEO
+    avatar: avatar-elhay.png
+  jake:
+    name: Jake Ness
+    title: Jake of all trades
+    avatar: avatar-jake.png
 
 # Social icons displayed in footer
 social:
