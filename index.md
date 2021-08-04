@@ -2,9 +2,9 @@
 layout: page
 width: expand
 hero:
-  title: Grow your business with our collaboration toolset.
-  subtitle: Get more done faster by giving your employees the tools they need to collaborate
-    and automate business processes.
+  title: Connect your business and grow.
+  subtitle: Get more work done faster by giving your employees a collaboration toolset
+    to connect and collaborate with machines and business processes.
   image: headerpic.svg
   search: false
 
