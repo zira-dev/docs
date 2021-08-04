@@ -19,8 +19,6 @@ Call to get set up by a Zira CGP specialist
 
 <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Start now</a> </div> <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a> </div>
 
-<!-- Call Now --> {% include boxes.html columns="3" title="test" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
-
 <!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
 <!-- Featured Articles -->
