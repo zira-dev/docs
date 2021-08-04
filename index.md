@@ -16,12 +16,16 @@ Call to get set up by a Zira CGP specialist
 \*Mon-Fri, 9am-9pm ET
 
 <div class="uk-section uk-text-center">
-<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Request a Demo</a>
-</div>
-<!-- Browse Topics -->
-{% include boxes.html columns="3" title="Browse Topics" subtitle="" %}
-<!-- New posts -->
-<!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
+
+Call to get set up by a Zira CGP specialist
+
+[__1-650-701-7026*__](tel:1-650-701-7026)
+
+\*Mon-Fri, 9am-9pm ET 
+
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Start now</a> </div> <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a> </div> 
+
+<!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
 <!-- Featured Articles -->
 {% include featured_posts.html tag="featured" title="Popular Use cases" %}
