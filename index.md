@@ -9,8 +9,9 @@ hero:
   search: false
 
 ---
-Get set up by a Zira CGP specialist. Call 650-701-7026. *Mon-Fri, 9am-9pm ET
-
+<div class="uk-flex uk-flex-center uk-flex-wrap">
+Get set up by a Zira CGP specialist.<br> Call 650-701-7026.<br> *Mon-Fri, 9am-9pm ET
+</div>
 <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="https://my.zira.us">Start now</a>
 
 <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
