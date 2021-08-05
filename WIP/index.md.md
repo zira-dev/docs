@@ -5,7 +5,7 @@ author: ''
 tags: []
 categories: []
 hero:
-  title: ''
+  title: index.md
   subtitle: ''
   image: ''
   search: false
