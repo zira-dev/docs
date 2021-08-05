@@ -9,48 +9,12 @@ hero:
   search: false
 
 ---
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-.columns {
-width: 33.3%;
-padding: 8px;
-}
-.button {
-background-color: #46c777;
-border: none;
-color: white !important;
-padding: 10px 25px;
-text-align: center;
-text-decoration: none;
-font-size: 18px;
-}
-.text {
-width: 66.6%;
-margin: 0 auto;
-}
-@media only screen and (max-width: 600px) {
-.columns {
-width: 100%;
-}
-.text {
-width: 100%;
-}
-
-}
-</style>
-</head>
-<body>
-<div class="text">
 <div class="uk-flex uk-flex-center uk-flex-wrap"> 
-<div class="columns"> 
-<ul style="list-style-type:none;"> 
-<li>Get set up by a Zira CGP specialist</li> 
-<li><a href="tel:650-701-7026">
-<font color="46c777" size="4em" font-weight="bold" text-decoration="underline">Call 650-701-7026 *</font></a></li> <li>*Mon-Fri, 9am-9pm ET</li> </ul> </div> 
-<div class="columns"> <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="https://my.zira.us">Start now</a></div><div class="columns">
-<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a></div> </div> </div> </body> </html>
+Get set up by a Zira CGP specialist
+Call 650-701-7026 
+*Mon-Fri, 9am-9pm ET
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="https://my.zira.us">Start now</a>
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
 
 <!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
