@@ -12,8 +12,10 @@ hero:
 <div class="uk-section uk-text-center">
   <div class="row">
     <div class="column">
-      Call to get set up by a Zira CGP specialist<br>
-      [__1-650-701-7026*__](tel:1-650-701-7026)<br> 
+      Call to get set up by a Zira CGP specialist
+      <br>
+      [__1-650-701-7026*__](tel:1-650-701-7026)
+      <br> 
       *Mon-Fri, 9am-9pm ET 
     </div> 
     <div class="column"> 
