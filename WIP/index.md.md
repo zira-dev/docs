@@ -1,5 +1,5 @@
 ---
-title: index.md
+title: wip index
 subtitle: ''
 author: ''
 tags: []
