@@ -40,14 +40,14 @@ hero:
 <body>
   <div class="uk-flex uk-flex-center uk-flex-wrap">
     <div class="columns">
-      <ul>
+      <ul style="list-style-type:none;">
         <li>Call to get set up by a Zira CGP specialist</li>
         <li><a href="tel:650-701-7026">650-701-7026*</a></li>
         <li>*Mon-Fri, 9am-9pm ET</li>
       </ul>
     </div>
     <div class="columns">
-      <ul>
+      <ul style="list-style-type:none;">
         <li><a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a></li>
         <li><a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a></li>
       </ul>
