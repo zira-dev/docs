@@ -17,7 +17,7 @@ hero:
       *Mon-Fri, 9am-9pm ET 
     </div> 
     <div class="column"> 
-      <a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a>
+      <a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a><br>
       <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
     </div>
   </div>
