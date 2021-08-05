@@ -34,6 +34,10 @@ margin: 0 auto;
 .columns {
 width: 100%;
 }
+.text {
+width: 100%;
+}
+
 }
 </style>
 </head>
