@@ -9,21 +9,69 @@ hero:
   search: false
 
 ---
-<div class="uk-section uk-text-center">
-  <div class="row">
-    <div class="column">
-      Call to get set up by a Zira CGP specialist
-      <br>
-      [__1-650-701-7026*__](tel:1-650-701-7026)
-      <br>
-      <br>
-      *Mon-Fri, 9am-9pm ET 
-    </div> 
-    <div class="column"> 
-      <a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a><br>
-      <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
+<section class="features">
+
+  <div class="grid">
+
+    <div class="unit one-third">
+
+      <h2>Simple</h2>
+
+      <p>
+
+        No more databases, comment moderation, or pesky updates to install—just <em>your content</em>.
+
+      </p>
+
+      <a href="/docs/usage/">How Jekyll works →</a>
+
     </div>
+
+    <div class="unit one-third">
+
+      <h2>Static</h2>
+
+      <p><a href="[https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/ "https://daringfireball.net/projects/markdown/")">Markdown</a>, <a href="[https://github.com/Shopify/liquid/wiki](https://github.com/Shopify/liquid/wiki "https://github.com/Shopify/liquid/wiki")">Liquid</a>, HTML <span class="amp">&amp;</span> CSS go in. Static sites come out ready for deployment.</p>
+
+      <a href="/docs/templates/">Jekyll template guide →</a>
+
+    </div>
+
+    <div class="unit one-third">
+
+      <h2>Blog-aware</h2>
+
+      <p>
+
+        Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.
+
+      </p>
+
+      <a href="[http://import.jekyllrb.com](http://import.jekyllrb.com "http://import.jekyllrb.com")">Migrate your blog →</a>
+
+    </div>
+
+    <div class="clear"></div>
+
   </div>
+
+</section>
+
+<div class="uk-section uk-text-center">
+<div class="row">
+<div class="column">
+Call to get set up by a Zira CGP specialist
+<br>
+[__1-650-701-7026*__](tel:1-650-701-7026)
+<br>
+<br>
+\*Mon-Fri, 9am-9pm ET
+</div>
+<div class="column">
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a><br>
+<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
+</div>
+</div>
 </div>
 
 <!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
