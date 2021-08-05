@@ -27,7 +27,9 @@ Jekyll" %}
 <!-- {% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %} -->
 
 {% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in
-touch with us for details on setup and additional custom services pricing" %}
+touch with us for details on 
+
+setup and additional custom services pricing" %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23863461-5">
