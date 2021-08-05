@@ -1,5 +1,5 @@
 ---
-title: wip index
+title: index.md
 subtitle: ''
 author: ''
 tags: []
@@ -11,70 +11,63 @@ hero:
   search: false
 
 ---
-<div class="uk-section uk-text-center">
+<html>
 
-<div class="row">
+<head> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <style> .columns { width: 33.3%; padding: 8px; }
 
-<div class="column">
+    .price {
+      list-style-type: none;
+      border: 1px solid #eee;
+      margin: 0;
+      padding: 0;
+      -webkit-transition: 0.3s;
+      transition: 0.3s;
+    }
+    
+    .price:hover {
+      box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2)
+    }
+    
+    .price .header {
+      background-color: #111;
+      color: white;
+      font-size: 25px;
+    }
+    
+    .price li {
+      border-bottom: 1px solid #eee;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    .price .grey {
+      background-color: #eee;
+      font-size: 20px;
+    }
+    
+    .button {
+      background-color: #46c777;
+      border: none;
+      color: white !important;
+      padding: 10px 25px;
+      text-align: center;
+      text-decoration: none;
+      font-size: 18px;
+    }
+    
+    .text {
+      width: 66.6%;
+      margin: 0 auto;
+    }
+    
+    @media only screen and (max-width: 600px) {
+      .columns {
+        width: 100%;
+      }
+    }
 
-Call to get set up by a Zira CGP specialist
+</style> </head>
 
-<br>
+<body> <div class="text"> <h1>Pricing</h1> <p> Zira is free for community users. 😎 </p> <p>Enjoy all features. Get things done faster. All in one place.</p> <ul> <li>Instant messaging</li> <li>Process automation</li> <li>Data visualization</li> <li>Digital forms</li> <li>Tasks</li> <li>Multiple companies and sites</li> </ul> </div> <div class="uk-flex uk-flex-center uk-flex-wrap"> <div class="columns"> <ul class="price"> <li class="header">Community</li> <li class="grey">Free</li> <li>Multiple companies</li> <li>Multiple sites</li> <li>Single user</li> <li>Unlimited data</li> <li>1 year history</li> <li>Access to all features</li> <li>Up to 5 data-sources</li> <li>Community support</li> <li class="grey"><a href="[https://my.zira.us/create-account](https://my.zira.us/create-account "https://my.zira.us/create-account")" class="button">Create an account</a></li> </ul> </div> <div class="columns"> <ul class="price"> <li class="header" style="background-color:#46c777">Enterprize</li> <li class="grey">$ 1000 / month / Site</li> <li>Multiple companies</li> <li>Multiple sites</li> <li>Unlimited users per site</li> <li>Unlimited data</li> <li>Unlimited history</li> <li>Access to all features</li> <li>$ 10 / month per data-source</li> <li>Optional support: 18% of subscription cost</li> <li class="grey"><a href="/contact" class="button">Contact sales</a></li> </ul> </div> </div> </body>
 
-\[__1-650-701-7026*__\](tel:1-650-701-7026)
-
-<br>
-
-<br>
-
-\\*Mon-Fri, 9am-9pm ET
-
-</div>
-
-<div class="column">
-
-<a style="color:white" class="uk-button uk-button-primary uk-button-large" 	href="/contact">Start now</a><br>
-
-<a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a>
-
-</div>
-
-</div>
-
-</div>
-
-<!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %} <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
-
-<!-- Featured Articles -->
-
-{% include featured_posts.html tag="featured" title="Popular Use cases" %}
-
-{% include videos.html columns="2" title="Video Tutorials" subtitle="Watch screencasts to get you started fast with
-
-Jekyll" %}
-
-<!-- {% include faqs.html multiple="true" title="Frequently asked questions" category="presale" subtitle="Find quicke answers to frequent pre-sale questions asked by customers" %} -->
-
-<!-- {% include team.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %} -->
-
-{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in
-
-touch with us for details on setup and additional custom services pricing" %}
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-
-<script async src="[https://www.googletagmanager.com/gtag/js?id=UA-23863461-5](https://www.googletagmanager.com/gtag/js?id=UA-23863461-5 "https://www.googletagmanager.com/gtag/js?id=UA-23863461-5")">
-
-</script>
-
-<script>
-
-window.dataLayer = window.dataLayer || \\\[\\\];
-
-function gtag(){dataLayer.push(arguments);}
-
-gtag('js', new Date());
-
-gtag('config', 'UA-23863461-5');
-
-</script>
+</html>
