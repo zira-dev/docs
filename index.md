@@ -9,7 +9,7 @@ hero:
   search: false
 
 ---
-{% include cta.html title="Didn't find an answer?" button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
+{% include cta.html button_text="Contact Us" button_url="/contact/" subtitle="Get in touch with us for details on setup and additional custom services pricing" %}
 
 
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
