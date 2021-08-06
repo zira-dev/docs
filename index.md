@@ -9,8 +9,6 @@ hero:
   search: false
 
 ---
-{% include cta.html title="" button_text="Start now" button_url="[https://my.zira.us](https://my.zira.us "https://my.zira.us")" subtitle="" %}
-
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
 
 <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
