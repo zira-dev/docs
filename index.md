@@ -9,14 +9,12 @@ hero:
   search: false
 
 ---
+<div class="uk-flex uk-flex-center uk-flex-wrap"><a style="color:white" class="uk-button uk-button-primary uk-button-large" href="[https://my.zira.us](https://my.zira.us "https://my.zira.us")">Start now</a></div>
+
 <div class="uk-flex uk-flex-center uk-flex-wrap">
 Get set up by a Zira CGP specialist.<br> Call 650-701-7026.<br> *Mon-Fri, 9am-9pm ET<br>[650-701-7026](tel:6507017026)</div>
 
-<div class="uk-flex uk-flex-center uk-flex-wrap"><a style="color:white" class="uk-button uk-button-primary uk-button-large" href="https://my.zira.us">Start now</a></div>
-
-<div class="uk-flex uk-flex-center uk-flex-wrap"><a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/docs/getting-started/introduction/">Learn more</a> </div>
-
-<!-- Browse Topics --> {% include boxes.html columns="3" title="Browse Topics" subtitle="" %}
+<!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
 
 <!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
