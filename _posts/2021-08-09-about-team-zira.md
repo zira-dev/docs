@@ -1,5 +1,5 @@
 ---
-title: About Team Zira
+title: About Zira.team
 subtitle: Collaborating and winning races
 tags:
 - updates
