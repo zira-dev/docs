@@ -1,10 +1,7 @@
 ---
 title: About Team Zira
 subtitle: Collaborating and winning races
-tags:
-- updates
-- new
-- featured
+tags: []
 author: elhay
 
 ---
