@@ -1,5 +1,5 @@
 ---
-title: Uri Nitzan, Swimmer, Team Zira
+title: Uri Nitzan - Swimmer - Team Zira
 subtitle: Uri Nitzan AKA Sharkman
 tags:
 - updates
