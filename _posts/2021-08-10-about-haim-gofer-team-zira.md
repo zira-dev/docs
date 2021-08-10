@@ -1,5 +1,5 @@
 ---
-title: About Haim Gofer (Team Zira)
+title: Haim Gofer, Runner, Team Zira
 subtitle: Haim Gofer the Running Engineer
 tags:
 - updates
