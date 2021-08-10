@@ -15,6 +15,8 @@ hero:
   search: false
 
 ---
+{% include image.html img="getting-started5.svg" %}
+
 ## Zira is Channel based, Data-driven Workspace
 
 Manage teams using an instant messaging interface, while providing full visibility on performance and trends
@@ -22,8 +24,6 @@ Manage teams using an instant messaging interface, while providing full visibili
 ## Use channels to drive processes
 
 Channels reflect your company’s assets, teams, machines, and business processes
-
-{% include image.html img="getting-started5.svg" %}
 
 ## Zira is digital twin of your organization
 
