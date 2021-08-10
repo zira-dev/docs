@@ -14,7 +14,7 @@ hero:
 
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
 
-<!-- New posts --> <!-- {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
+<!-- New posts {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
 <!-- Featured Articles -->
 {% include featured_posts.html tag="featured" title="Popular Use cases" %}
