@@ -10,7 +10,7 @@ hero:
 
 ---
 {% include cta.html button_text="Start now" button_url="https://my.zira.us" %}
-<!-- Browse Topics --> {% include boxes.html columns="4" title="" subtitle="" %}
+<!-- Browse Topics --> {% include boxes.html columns="2" title="" subtitle="" %}
 
 <!-- New posts {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
