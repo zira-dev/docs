@@ -1,4 +1,4 @@
----
+<!-----
 layout: page
 width: expand
 hero:
@@ -6,7 +6,8 @@ hero:
     subtitle: A partnership that powers mutual, long term growth.
     image: partners.svg
     search: false
----
+--- 
+-->
 <div class="uk-section uk-text-center">
     <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Become a Partner</a>
 </div>
