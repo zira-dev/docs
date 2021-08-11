@@ -10,8 +10,6 @@ hero:
 
 ---
 {% include cta.html button_text="Start now" button_url="https://my.zira.us" %}
-
-
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
 
 <!-- New posts {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
@@ -32,12 +30,11 @@ touch with us for details on
 setup and additional custom services pricing" %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-23863461-5">
-</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148324738-1"></script>
 <script>
-window.dataLayer = window.dataLayer || \[\];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-gtag('config', 'UA-23863461-5');
+  gtag('config', 'UA-148324738-1');
 </script>
