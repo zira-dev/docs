@@ -1,7 +1,7 @@
 <div class="uk-container uk-container-medium">
     <!-- paragraphs -->
     <h1 class="uk-text-center">
-        Get more work done faster by giving your employees tools to connect and collaborate with machines and business processes.
+        Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
     </h1>
 </div>
 {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
