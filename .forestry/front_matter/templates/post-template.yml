@@ -35,4 +35,5 @@ fields:
     label: search
 pages:
 - _docs/energy-management.md
+- _docs/production-tracking.md
 - _docs/quality-control-management.md
