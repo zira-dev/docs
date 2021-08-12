@@ -4,12 +4,14 @@
 <div class="uk-container uk-container-medium">
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="">
 <div class="uk-first-column">
-<h1>
-Get more work done faster.
-</h1>
-<h2>
-Give your employees the tools they need to connect and collaborate with machines and business processes.
-</h2>
+  <div class="uk-text-left">
+    <h1>
+    Get more work done faster.
+    </h1>
+    <h2>
+    Give your employees the tools they need to connect and collaborate with machines and business processes.
+    </h2>
+    </dive>
 </div>
 <div class>
   <img src="/uploads/zira-mobile-demo.png">
