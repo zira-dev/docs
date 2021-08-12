@@ -1,9 +1,8 @@
 <div class="uk-container uk-container-medium">
-<!--div class="uk-container uk-container-medium">
-<div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" -->
+<div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="">
 <div class="uk-first-column">
   <div class="uk-text-left">
-    <h1>
+    <h1 style="vertical-align: bottom;">
     Get more work done faster.
     </h1>
     <h2>
@@ -13,7 +12,7 @@
 </div>
 <div class>
   <img src="/uploads/zira-mobile-demo.png">
-<!-- /div -->
+</div>
 </div>
 </div>
 
