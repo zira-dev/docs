@@ -11,7 +11,7 @@
     <h2>
     Give your employees the tools they need to connect and collaborate with machines and business processes.
     </h2>
-    </dive>
+    </div>
 </div>
 <div class>
   <img src="/uploads/zira-mobile-demo.png">
