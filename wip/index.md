@@ -4,6 +4,13 @@
         Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
     </h1>
 </div>
+<div class="uk-margin-large uk-panel">
+    <h1 class="white">
+        Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
+    </h1>
+    <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/target-audience.png" width="500px" height="1500" alt="Zira mobile demo">
+</div>
+
 {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
