@@ -5,12 +5,12 @@
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-top uk-grid" data-uk-grid="">
 <div class="uk-first-column">
 <!-- paragraphs -->
-<h1 class="uk-text-center">
+<h1 class="uk-text-left">
 Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
 </h1>
 </div>
 <div class>
-![](/uploads/zira-mobile-demo.png)
+  <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/zira-mobile-demo.png">
 </div>
 </div>
 </div>
