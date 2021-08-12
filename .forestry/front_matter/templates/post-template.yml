@@ -33,5 +33,3 @@ fields:
   - type: boolean
     name: search
     label: search
-pages:
-- WIP/index.md.md
