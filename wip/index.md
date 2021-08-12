@@ -2,13 +2,12 @@
 
 ---
 <div class="uk-container uk-container-medium">
-<div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-top uk-grid" data-uk-grid="">
+<div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="">
 <div class="uk-first-column">
-<!-- paragraphs -->
-<h1 class="uk-text-left">
+<h1>
 Get more work done faster.
 </h1>
-<h2 class="uk-text-left">
+<h2>
 Give your employees the tools they need to connect and collaborate with machines and business processes.
 </h2>
 </div>
