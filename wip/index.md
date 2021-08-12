@@ -1,30 +1,15 @@
-<div class="row">
-    <div class="col-md-6">
-        **some code block here**
-        **another code block here**
-    </div>
-    <div class="col-md-6">
-        **some text here**
-        ##some header here
-        ###something else here
-    </div>
-</div>
 <div class="uk-container uk-container-medium">
-    <!-- paragraphs -->
-    <h1 class="uk-text-center">
-        Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
-    </h1>
-  <div class="float-container">
-
-    <div class="float-child">
-      <div class="green">Float Column 1</div>
+    <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-top uk-grid" data-uk-grid="">
+        <div class="uk-first-column">
+            <!-- paragraphs -->
+            <h1 class="uk-text-center">
+                Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
+            </h1>
+        </div>
+        <div class>
+            tester
+        </div>
     </div>
-  
-    <div class="float-child">
-      <div class="blue">Float Column 2</div>
-    </div>
-  </div>
-    
 </div>
 
 
