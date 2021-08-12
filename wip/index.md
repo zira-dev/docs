@@ -8,7 +8,7 @@
     <h1 class="white">
         Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
     </h1>
-    <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/target-audience.png" width="500px" height="1500" alt="Zira mobile demo">
+    <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/target-audience.png" width="50%" alt="Zira mobile demo">
 </div>
 
 {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
