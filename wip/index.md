@@ -1,15 +1,34 @@
+<style>
+    .float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}  
+</style>
 <div class="uk-container uk-container-medium">
     <!-- paragraphs -->
     <h1 class="uk-text-center">
         Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
     </h1>
+  <div class="float-container">
+
+    <div class="float-child">
+      <div class="green">Float Column 1</div>
+    </div>
+  
+    <div class="float-child">
+      <div class="blue">Float Column 2</div>
+    </div>
+  </div>
+    
 </div>
-<div class="uk-margin-large uk-panel">
-    <h1 class="white">
-        Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
-    </h1>
-    <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/target-audience.png" width="50%" alt="Zira mobile demo">
-</div>
+
 
 {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
 <!-- Browse Topics. Connect your business and grow. -->
