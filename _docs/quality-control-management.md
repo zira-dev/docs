@@ -1,6 +1,6 @@
 ---
 title: Quality Control Management
-subtitle: ''
+subtitle: Cloud based quality management made easy.
 author: ''
 tags: []
 categories: []
