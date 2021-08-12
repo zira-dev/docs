@@ -1,5 +1,5 @@
 <!-- Browse Topics -->
-{% include partners-boxes.html columns="3" title="Get more work done faster by giving your employees a collaboration toolset to connect and collaborate with machines and business processes." subtitle="Connect your business and grow." %}
+{% include partners-boxes.html columns="3" title="Get more work done faster by giving your employees tools to connect and collaborate with machines and business processes." subtitle="Connect your business and grow." %}
 <div class="uk-container uk-container-medium">
     <!-- paragraphs -->
     <h2 class="uk-text-center">
