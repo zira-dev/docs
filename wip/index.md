@@ -6,8 +6,11 @@
 <div class="uk-first-column">
 <!-- paragraphs -->
 <h1 class="uk-text-left">
-Get more work done faster by giving your employees the tools they need to connect and collaborate with machines and business processes.
+Get more work done faster.
 </h1>
+<h2 class="uk-test-left">
+Give your employees the tools they need to connect and collaborate with machines and business processes.
+</h2>
 </div>
 <div class>
   <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/zira-mobile-demo.png">
