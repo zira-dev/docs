@@ -1,7 +1,7 @@
 <div class="uk-container uk-container-medium">
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="">
 <div class="uk-first-column">
-  <div class="uk-text-left" style="vertical-align: bottom;">
+  <div class="uk-text-left" style="vertical-align: middle;">
     <h1>
     Get more work done faster.
     </h1>
