@@ -1,18 +1,5 @@
-<!-----
-layout: page
-width: expand
-hero:
-    title: Zira Consulting partners
-    subtitle: A partnership that powers mutual, long term growth.
-    image: partners.svg
-    search: false
---- 
--->
-<div class="uk-section uk-text-center">
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="/contact">Become a Partner</a>
-</div>
 <!-- Browse Topics -->
-{% include partners-boxes.html columns="3" title="Browse Topics" subtitle="Zira Specialists with business and engineering backgrounds are always available to assist our partners. From onboarding to customer strategy discussions and beyond." %}
+{% include partners-boxes.html columns="3" title="Get more work done faster by giving your employees a collaboration toolset to connect and collaborate with machines and business processes." subtitle="Connect your business and grow." %}
 <div class="uk-container uk-container-medium">
     <!-- paragraphs -->
     <h2 class="uk-text-center">
