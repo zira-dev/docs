@@ -12,7 +12,7 @@ Give your employees the tools they need to connect and collaborate with machines
 </h2>
 </div>
 <div class>
-  <img class="uk-align-left uk-margin-remove-adjacent" src="/uploads/zira-mobile-demo.png">
+  <img src="/uploads/zira-mobile-demo.png">
 </div>
 </div>
 </div>
