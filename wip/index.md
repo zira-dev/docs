@@ -5,7 +5,6 @@
             border: 3px solid #fff;
             padding: 20px;
             }
-
             .float-child {
             width: 50%;
             float: left;
