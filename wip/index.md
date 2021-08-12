@@ -1,6 +1,12 @@
+<div class="uk-container uk-container-medium">
+    <!-- paragraphs -->
+    <h1 class="uk-text-center">
+        Get more work done faster by giving your employees tools to connect and collaborate with machines and business processes.
+    </h1>
+</div>
 {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
-<!-- Browse Topics -->
-{% include get_connected_boxes.html columns="3" title="Get more work done faster by giving your employees tools to connect and collaborate with machines and business processes." subtitle="Connect your business and grow." %}
+<!-- Browse Topics. Connect your business and grow. -->
+{% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
     <!-- paragraphs -->
     <h2 class="uk-text-center">
