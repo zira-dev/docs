@@ -1,6 +1,6 @@
 ---
 title: Energy Management
-subtitle: ''
+subtitle: More important than ever for profitability and growth
 author: ''
 tags: []
 categories: []
