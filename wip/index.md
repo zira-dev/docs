@@ -12,7 +12,7 @@
     Give your employees the tools they need to connect and collaborate with machines and business processes.
     </h3>
     <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Get connected</a>
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
+    <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
     </div>
 </div>
 <div class>
