@@ -13,7 +13,7 @@
     </h3>
     <a class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Get connected</a>
     <a class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
-    Call to get set up by a Zira specialist
+    <p>Call to get set up by a Zira specialist</p>
     <h3 style="color:#46c777">Tel 650-701-7026</h3>
     <h5>*Mon-Fri, 9am-9pm ET</h5>
     </div>
