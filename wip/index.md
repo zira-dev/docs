@@ -27,9 +27,7 @@
 </div>
 </div>
 </div>
-\
 {% include customers_section.html title="Trusted by" subtitle="" %}
-
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
