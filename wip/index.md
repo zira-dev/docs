@@ -12,6 +12,7 @@
     Give your employees the tools they need to connect and collaborate with machines and business processes.
     </h3>
     <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Get connected</a>
+    <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
     </div>
 </div>
 <div class>
@@ -20,7 +21,7 @@
 </div>
 </div>
 
-{% include cta.html button_text="Get connected" button_url="https://my.zira.us" %}
+<!-- {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %} -->
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
