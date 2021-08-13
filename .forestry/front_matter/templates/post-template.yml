@@ -34,6 +34,7 @@ fields:
     name: search
     label: search
 pages:
+- _docs/compressed-air-management.md
 - _docs/digital-operator-panel.md
 - _docs/downtime-tracking.md
 - _docs/energy-management.md
