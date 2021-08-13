@@ -27,7 +27,8 @@
 </div>
 </div>
 
-<!-- {% include cta.html button_text="Get connected" button_url="https://my.zira.us" %} -->
+{% include customers_section.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
+
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
