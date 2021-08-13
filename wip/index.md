@@ -16,7 +16,7 @@
     <UL style="list-style-type:none;">
       <li>Call to get set up by a Zira specialist</li>
       <li><h3 style="color:#46c777">Tel 650-701-7026</h3></li>
-      <li><h5>*Mon-Fri, 9am-9pm ET</h5></li>
+      <li>*Mon-Fri, 9am-9pm ET</li>
     </ul>
     </div>
 </div>
