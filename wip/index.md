@@ -8,7 +8,9 @@
     <h1>
     Get more work done faster.
     </h1>
+    <h3>
     Give your employees the tools they need to connect and collaborate with machines and business processes.
+    </h3>
     </div>
 </div>
 <div class>
