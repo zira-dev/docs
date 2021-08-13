@@ -28,7 +28,7 @@
 </div>
 </div>
 
-{% include customers_section.html authors="evan, john, sara, alex, tom, daniel" title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
+{% include customers_section.html title="We are here to help" subtitle="Our team is just an email away ready to answer your questions" %}
 
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
