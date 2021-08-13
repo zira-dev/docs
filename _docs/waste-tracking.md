@@ -14,7 +14,7 @@ published: false
 ---
 Top performing lean businesses work day in and day out to improve operational procedures that reduce waste. Optimizing process steps to eliminate waste makes sure that real value is being added during each phase of the production cycle, and translates directly to controlling direct and indirect costs.
 
-##### **The top 3 waste costs Zira customers reduce**
+##### **The Top 3 Waste Costs Customers Reduce with Zira**
 
 1. **Raw Materials:** Scraps and defective products are wasted raw material that cannot be sold or generate revenue
 2. **Direct Labor:** Time spent by employees operating machines generating waste is not time well spent.
