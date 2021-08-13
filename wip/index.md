@@ -28,7 +28,6 @@
 </div>
 </div>
 \
-\
 {% include customers_section.html title="Trusted by" subtitle="" %}
 
 <!-- Browse Topics. Connect your business and grow. -->
