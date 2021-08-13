@@ -33,3 +33,11 @@ fields:
   - type: boolean
     name: search
     label: search
+pages:
+- _docs/digital-operator-panel.md
+- _docs/downtime-tracking.md
+- _docs/energy-management.md
+- _docs/production-tracking.md
+- _docs/quality-control-management.md
+- _docs/waste-tracking.md
+- _docs/water-management.md
