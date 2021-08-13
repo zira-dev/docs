@@ -11,7 +11,7 @@
     </div>
 </div>
 <div class>
-  <img src="/uploads/zira-mobile-demo.png">
+  <img src="/uploads/zira_demo_example.png">
 </div>
 </div>
 </div>
