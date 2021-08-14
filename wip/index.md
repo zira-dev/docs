@@ -28,7 +28,7 @@
 </div>
 </div>
 {% include customers_section.html title="Trusted by" subtitle="" %}
-{% include slideshow.html folder="slideshow-1" %}
+{% include slideshow.html image="logos_0011_layer-1.png" %}
 <!-- Browse Topics. Connect your business and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
