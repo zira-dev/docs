@@ -23,7 +23,7 @@
     </div>
 </div>
 <div class>
-  <img src="/uploads/zira_demo_example.png">
+  <img src="/uploads/mobile_phone_for_front_page_update.png">
 </div>
 </div>
 </div>
