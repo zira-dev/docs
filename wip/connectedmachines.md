@@ -10,7 +10,7 @@ title: ''
 <div class="uk-first-column">
 <img src="/uploads/connected_machines.svg" style="display: block; margin-left: auto; margin-right: auto; width: 55px;">
 </div> 
-<div>
+<div class="uk-text-left">
 <h5>COLLECTORS</h5>
 <h1> Gather (real)time-series data from any source 
 </h1> 
