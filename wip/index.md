@@ -28,9 +28,9 @@ Give your employees the tools they need to connect and collaborate with machines
 </div>
  <h2 style="text-align: center; width: 100%; 
    text-align: center; 
-   border-bottom: 1px solid #000; 
+   border-bottom: 1px solid #46c777; 
    line-height: 0.1em;
-   margin: 10px 0 20px; "><span style="background:#fff; 
+   margin: 60px 0 20px; "><span style="background:#fff; 
     padding:0 10px; ">
 Trusted by</span></h2>
 <table>
