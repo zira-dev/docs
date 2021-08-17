@@ -1,1 +1,17 @@
+# Boxes include navigation
 
+- title: Connected machines
+  desc: Data aquisition, analytics and dashboards
+  icon: cog
+  doc: 
+
+- title: Connected Workforce
+  desc: Digital forms and workflows.
+  icon: users
+  target: _blank
+  doc: 
+
+- title: Connected processes
+  desc: Integration and automation.
+  icon: code
+  doc: 
