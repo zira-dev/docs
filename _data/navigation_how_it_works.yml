@@ -1,1 +1,17 @@
+# "how it works" include navigation
 
+- title: Connect
+  desc: Machine, people, and process data via machine integrations and manual forms.
+  icon: cog
+  doc: 
+
+- title: Engage
+  desc: Insights and problems in real time, and what can be done to fix it.
+  icon: users
+  target: _blank
+  doc: 
+
+- title: Automate
+  desc: AI generated corrective actions solve problems faster and increase productivity.
+  icon: code
+  doc: 
