@@ -20,7 +20,7 @@ Give your employees the tools they need to connect and collaborate with machines
 </ul>
 </div>
 </div>
-<div class>
+<div class="uk-text-center">
 <img src="/uploads/connected_machines.svg">
 </div>
 </div>
