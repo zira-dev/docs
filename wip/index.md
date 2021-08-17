@@ -26,8 +26,8 @@ Give your employees the tools they need to connect and collaborate with machines
 <img src="/uploads/mobile_phone_for_front_page_updated_right.png">
 </div>
 </div>
- <h1 style="text-align: center;">
-Trusted by</h1>
+ <h2 style="text-align: center;">
+Trusted by</h2>
 <table>
   <tr>
     <td><img src="/uploads/logos_0011_layer-1.png"></td>
