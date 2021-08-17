@@ -30,19 +30,19 @@ Zira brings together data across your organization into a single view so you can
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
 <div class="uk-first-column">
 <div class="uk-text-left">
- <h5>COLLECTORS</h5>
+<img src="/uploads/connected_machines.svg" style="display: block;
+  margin-left: auto;
+  margin-right: auto;">
+</div>
+</div>
+<div>
+   <h5>COLLECTORS</h5>
 <h1>
 Gather (real)time-series data from any source
 </h1>
 <p>
 Harness data from a machine's embedded sensors and PLC, or from external sensors that are installed separately. Ready-to-go collectors are available for the most common protocols (Modbus, 4-20mA, BACnet, etc) and brands (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).
 </p>
-</div>
-</div>
-<div>
-<img src="/uploads/connected_machines.svg" style="display: block;
-  margin-left: auto;
-  margin-right: auto;">
 </div>
 </div>
 
