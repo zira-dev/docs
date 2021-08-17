@@ -20,12 +20,6 @@ title: ''
 </div>
 </div>
 
-##### COLLECTORS
-
-# Gather (real)time-series data from any source
-
-Harness data from a machine's embedded sensors and PLC, or from external sensors that are installed separately. Ready-to-go collectors are available for the most common protocols (Modbus, 4-20mA, BACnet, etc) and brands (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).
-
 ##### ANALYTICS
 
 # Visualize data and generate insights on demand
