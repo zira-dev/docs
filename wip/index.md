@@ -43,8 +43,11 @@ Trusted by</span></h2>
 </tr>
 </table>
 </div>
-
+<!-- Because teams can use AI to do their jobs better. -->
 {% include get_connected_boxes.html columns="3" title="How can Zira help you?" subtitle="" %}
+{% include Why_does_it_work.html title="Why does it work?" subtitle="Because it's what plants crave!" %}
+
+
 
 <!-- faqs -->
 {% include faqs.html multiple="true" title="Frequently asked questions" category="partners" subtitle="Find answers to
