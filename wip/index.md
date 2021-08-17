@@ -34,11 +34,6 @@ Give your employees the tools they need to connect and collaborate with machines
 Trusted by</h1>
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
-  </tr>
-  <tr>
     <td><img src="/uploads/logos_0011_layer-1.png" width=12%></td>
    <td><img src="/uploads/logos_0010_layer-2.png" width=12%></td>
    <td><img src="/uploads/logos_0005_layer-8.png" width=12%></td>
@@ -51,8 +46,8 @@ Trusted by</h1>
  </table>
  </div>
 
-{% include customers_section.html tit_e="Trusted by" subtitle="" %}
-{% include slideshow.html image="logos_0011_layer-1.png" %}
+<!--{% include customers_section.html tit_e="Trusted by" subtitle="" %} 
+{% include slideshow.html image="logos_0011_layer-1.png" %} -->
 _<!-- Browse Topics. Connect your bu_iness and grow. -->
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 <div class="uk-container uk-container-medium">
