@@ -17,7 +17,7 @@ Give your employees the tools they need to connect and collaborate with machines
 <br><br>
 <UL style="list-style-type:none;">
 <li>Call to get set up by a Zira specialist</li>
-<li><h3 style="color:#46c777">Tel 1-650-701-7026</h3></li>
+<li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
 <li>*Mon-Fri, 9am-9pm ET</li>
 </ul>
 </div>
@@ -31,7 +31,7 @@ Give your employees the tools they need to connect and collaborate with machines
    border-bottom: 1px solid #000; 
    line-height: 0.1em;
    margin: 10px 0 20px; "><span style="background:#fff; 
-    padding:0 10px; "
+    padding:0 10px; ">
 Trusted by</span></h2>
 <table>
   <tr>
