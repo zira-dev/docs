@@ -1,5 +1,5 @@
 ---
-title: ConnectedMachines.md
+title: ''
 
 ---
 <div class="uk-container uk-container-medium">
