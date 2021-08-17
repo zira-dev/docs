@@ -17,7 +17,7 @@ Zira brings together data across your organization into a single view so you can
 <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
 </div>
 </div>
-<div class>
+<div>
 <img src="/uploads/connected_machines.svg">
 </div>
 </div>
