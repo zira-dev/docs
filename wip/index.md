@@ -30,14 +30,14 @@ Give your employees the tools they need to connect and collaborate with machines
 Trusted by</h1>
 <table>
   <tr>
-    <td><img src="/uploads/logos_0011_layer-1.png" width=12%></td>
-   <td><img src="/uploads/logos_0010_layer-2.png" width=12%></td>
-   <td><img src="/uploads/logos_0005_layer-8.png" width=12%></td>
-   <td><img src="/uploads/logos_0006_layer-7.png" width=12%></td>
-   <td><img src="/uploads/logos_0002_layer-11.png" width=12%></td>
-   <td><img src="/uploads/logos_0007_layer-6.png" width=12%></td>
-   <td><img src="/uploads/logos_0001_layer-12.png" width=12%></td>
-   <td><img src="/uploads/logos_0004_layer-10.png" width=12%></td>
+    <td><img src="/uploads/logos_0011_layer-1.png"></td>
+   <td><img src="/uploads/logos_0010_layer-2.png"></td>
+   <td><img src="/uploads/logos_0005_layer-8.png"></td>
+   <td><img src="/uploads/logos_0006_layer-7.png"></td>
+   <td><img src="/uploads/logos_0002_layer-11.png"></td>
+   <td><img src="/uploads/logos_0007_layer-6.png"></td>
+   <td><img src="/uploads/logos_0001_layer-12.png"></td>
+   <td><img src="/uploads/logos_0004_layer-10.png"></td>
   </tr>
  </table> 
 </div>
