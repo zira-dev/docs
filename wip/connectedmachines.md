@@ -21,25 +21,6 @@ Zira brings together data across your organization into a single view so you can
 <img src="/uploads/connected_machines.svg">
 </div>
 </div>
-<h2 style="text-align: center; width: 100%; 
-   text-align: center; 
-   border-bottom: 1px solid #46c777; 
-   line-height: 0.1em;
-   margin: 60px 0 20px; "><span style="background:#fff; 
-    padding:0 10px; ">
-Trusted by</span></h2>
-<table>
-  <tr>
-    <td><img src="/uploads/logos_0011_layer-1.png"></td>
-   <td><img src="/uploads/logos_0010_layer-2.png"></td>
-   <td><img src="/uploads/logos_0005_layer-8.png"></td>
-   <td><img src="/uploads/logos_0006_layer-7.png"></td>
-   <td><img src="/uploads/logos_0002_layer-11.png"></td>
-   <td><img src="/uploads/logos_0007_layer-6.png"></td>
-   <td><img src="/uploads/logos_0001_layer-12.png"></td>
-   <td><img src="/uploads/logos_0004_layer-10.png"></td>
-  </tr>
- </table> 
 </div>
 
 ##### COLLECTORS
