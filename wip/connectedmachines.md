@@ -18,7 +18,7 @@ Zira brings together data across your organization into a single view so you can
 </div>
 </div>
 <div>
-<img src="/uploads/connected_machines.svg">
+<img src="/uploads/connected_machines.svg" class="center">
 </div>
 </div>
 </div>
