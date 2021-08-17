@@ -26,8 +26,7 @@ Zira brings together data across your organization into a single view so you can
 </div>
 
 <div class="uk-container uk-container-medium">
-  <h1>Here’s How a Connected Machine Helps You</h1>
-  
+  <h1>Here’s How a Connected Machines Help You</h1>
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
 <div class="uk-first-column">
 <div class="uk-text-left">
