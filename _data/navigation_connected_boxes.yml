@@ -1,12 +1,12 @@
 # Boxes include navigation
 
 - title: Connected machines
-  desc: Data aquisition, analytics and dashboards
+  desc: Understand real-time and historic machine status. Discover risks and identify downtime signals before it’s too late. Adjust your machines for success and make every minute count.
   icon: cog
   doc: 
 
 - title: Connected Workforce
-  desc: Digital forms and workflows.
+  desc: Share, communicate, and collaborate with ease.  Triggers and AI engage relevant team members and launch your operations into the productivity stratosphere..
   icon: users
   target: _blank
   doc: 
