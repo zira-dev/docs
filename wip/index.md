@@ -41,9 +41,7 @@ Trusted by</h2>
   </tr>
  </table> 
 </div>
-<!--{% include customers_section.html tit_e="Trusted by" subtitle="" %} 
-{% include slideshow.html image="logos_0011_layer-1.png" %} -->
-_<!-- Browse Topics. Connect your bu_iness and grow. -->
+
 {% include get_connected_boxes.html columns="3" title="" subtitle="" %}
 
 
