@@ -25,7 +25,6 @@ Give your employees the tools they need to connect and collaborate with machines
 </div>
 </div>
 <h2 style="text-align: center; width: 100%;
-text-align: center;
 border-bottom: 1px solid #46c777;
 line-height: 0.1em;
 margin: 0px 0 20px; "><span style="background:#fff;
