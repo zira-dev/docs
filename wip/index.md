@@ -26,10 +26,6 @@ Give your employees the tools they need to connect and collaborate with machines
 <img src="/uploads/mobile_phone_for_front_page_updated_right.png">
 </div>
 </div>
-</div>
-
-# Trusted by
-<div class="uk-container uk-container-medium">
  <h1>
 Trusted by</h1>
 <table>
@@ -43,8 +39,8 @@ Trusted by</h1>
    <td><img src="/uploads/logos_0001_layer-12.png" width=12%></td>
    <td><img src="/uploads/logos_0004_layer-10.png" width=12%></td>
   </tr>
- </table>
- </div>
+ </table> 
+</div>
 
 <!--{% include customers_section.html tit_e="Trusted by" subtitle="" %} 
 {% include slideshow.html image="logos_0011_layer-1.png" %} -->
