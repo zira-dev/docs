@@ -8,6 +8,12 @@ tags:
 author: jake
 
 ---
+![](/uploads/connected_machines.svg)
+
+# **Machine and Operational Visibility. Anytime. Anywhere.**
+
+### Zira brings together data across your organization into a single view so you can quickly understand machine operational health and stop productivity from going south.
+
 ##### COLLECTORS
 
 # Gather (real)time-series data from any source
