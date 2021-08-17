@@ -8,7 +8,7 @@ title: ''
 <h1><center>Here’s How Connected Machines Help You</center></h1>
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
 <div class="uk-first-column">
-<img src="/uploads/connected_machines.svg" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="/uploads/connected_machines.svg" style="display: block; margin-left: auto; margin-right: auto; width: 55px;">
 </div> 
 <div>
 <h5>COLLECTORS</h5>
