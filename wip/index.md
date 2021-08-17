@@ -23,7 +23,7 @@ Give your employees the tools they need to connect and collaborate with machines
 </div>
 </div>
 <div class>
-<img src="/uploads/mobile_phone_for_front_page_updated_right.png">
+<img src="/uploads/connectedmachines.svg">
 </div>
 </div>
  <h2 style="text-align: center; width: 100%; 
