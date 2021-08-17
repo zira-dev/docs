@@ -30,6 +30,8 @@ Give your employees the tools they need to connect and collaborate with machines
 
 Trusted by!
 
+![](/uploads/logos_0011_layer-1.png)![](/uploads/logos_0010_layer-2.png)![](/uploads/logos_0005_layer-8.png)
+
  {% include customers_section.html tit_e="Trusted by" subtitle="" %}
 {% include slideshow.html image="logos_0011_layer-1.png" %}
 _<!-- Browse Topics. Connect your bu_iness and grow. -->
