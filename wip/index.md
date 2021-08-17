@@ -44,7 +44,7 @@ Trusted by</span></h2>
 </table>
 </div>
 
-{% include get_connected_boxes.html columns="3" title="" subtitle="" %}
+{% include get_connected_boxes.html columns="3" title="How can Zira help you?" subtitle="" %}
 
 <!-- faqs -->
 {% include faqs.html multiple="true" title="Frequently asked questions" category="partners" subtitle="Find answers to
