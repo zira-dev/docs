@@ -138,6 +138,8 @@ collections:
     output: false
   changelogs:
     output: false
+  connectedmachines:
+    output: true
 
 # Defaults
 defaults:
@@ -159,3 +161,9 @@ defaults:
       type: developers
     values:
       layout: dev
+  # _connectedmachines
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: doc
