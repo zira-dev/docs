@@ -1,1 +1,34 @@
+- title: Engineer
+  desc: You are time constrained and monitor countless process variables to make sure production is running as smoothly as possible without variation.  Zira will help you detect bottlenecks and keep the machines and processes you are responsible for humming.
+  icon: cog
+  doc: 
 
+- title: Plant Manager
+  desc: You have complete responsibility for the plants P&L, so your day-to-day is focused on deploying resources that enable your teams to run the plant at optimal efficiency, as safely as possible. Zira will help you identify and improve inefficiencies in machines and processes. You will confidently make decisions and proactively tackle issues with up to the minute machine status and production data.
+  icon: users
+  target: _blank
+  doc: 
+
+- title: Quality Manager
+  desc: You safeguard the reputation of your plant and happiness of your customers. Meticulously following production output, you make sure standards are upheld and run root cause analysis when problems arise. Zira will allow you to respond in the moment, proactively addressing issues and defects based on the most up to data data and trends, not customer complaints.
+  icon: code
+  doc: 
+  
+- title: Operations Manager
+  desc: You need to know how and why production is constrained so that you can work to increase throughput, reduce downtime, and lower costs that will keep you competitive.  Zira will ensure that you can help your plant meet production and efficiency goals. Providing real time access to downtime, throughput, and process data gives you visibility into the problems and solutions that will substantially increase and maintain OEE.
+  icon: users
+  target: _blank
+  doc: 
+  
+- title: Saftey Manager
+  desc: You are responsible for the well being of everyone at the plant, training new employees on proper procedures, documenting near misses and good catches, and providing re-training when necessary.  Zira will allow you to shift your time from chasing sheets and transcribing data to analyzing trends and addressing issues and processes that will enhance safety.
+  icon: users
+  target: _blank
+  doc: 
+  
+- title: Plant Manager
+  desc: Share, communicate, and collaborate with ease.  Triggers and AI engage relevant team members and launch your operations into the productivity stratosphere..
+  icon: users
+  target: _blank
+  doc: 
+  
