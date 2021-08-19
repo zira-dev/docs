@@ -1,12 +1,6 @@
 ---
 layout: page
 width: expand
-hero:
-  title: ''
-  subtitle: ''
-  image: ''
-  search: false
-
 ---
 <div class="uk-container uk-container-medium">
 
