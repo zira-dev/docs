@@ -1,50 +1,29 @@
 ---
 
 ---
+
 <div class="uk-container uk-container-medium">
-
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-
 <div class="uk-first-column">
-
 <div class="uk-text-left">
-
 <h1>
-
 Smarter, faster,  better industrial manufacturing processes with Zira.
-
 </h1>
-
 <h3>
-
 Leverage real-time data and artificial intelligence to run your production, quality, safety , energy and maintenance processes.
-
 </h3>
-
 <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact/">Get connected</a>
-
 <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
-
 <UL style="list-style-type:none;">
-
 <li>Call to get set up by a Zira specialist</li>
-
 <li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
-
 <li>*Mon-Fri, 9am-9pm ET</li>
-
 </UL>
-
 </div>
-
 </div>
-
 <div class="uk-text-center">
-
 <img src="/uploads/zira_frontpage_image.svg">
-
 </div>
-
 </div>
 
 <!--h2 style="text-align: center; width: 100%;
