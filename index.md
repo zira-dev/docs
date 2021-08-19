@@ -21,7 +21,7 @@ Leverage real-time data and artificial intelligence to run your production, qual
 
 </h3>
 
-<a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="[https://my.zira.us](https://my.zira.us "https://my.zira.us")">Get connected</a>
+<a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="[https://my.zira.us](https://my.zira.us "https://zira.us/contact/")">Get connected</a>
 
 <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="[https://my.zira.us](https://my.zira.us "https://zira.us/docs/getting-started/introduction/")">Learn more</a>
 
