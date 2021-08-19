@@ -2,13 +2,96 @@
 layout: page
 width: expand
 hero:
-  title: Connect your business and grow.
-  subtitle: Get more work done faster by giving your employees a collaboration toolset
-    to connect and collaborate with machines and business processes.
-  image: headerpic.svg
+  title: ''
+  subtitle: ''
+  image: ''
   search: false
 
 ---
+<div class="uk-container uk-container-medium">
+
+<div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
+
+<div class="uk-first-column">
+
+<div class="uk-text-left">
+
+<h1>
+
+Smarter, faster,  better industrial manufacturing processes with Zira.
+
+</h1>
+
+<h3>
+
+Leverage real-time data and artificial intelligence to run your production, quality, safety , energy and maintenance processes.
+
+</h3>
+
+<a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="[https://my.zira.us](https://my.zira.us "https://my.zira.us")">Get connected</a>
+
+<a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="[https://my.zira.us](https://my.zira.us "https://my.zira.us")">Learn more</a>
+
+<UL style="list-style-type:none;">
+
+<li>Call to get set up by a Zira specialist</li>
+
+<li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
+
+<li>*Mon-Fri, 9am-9pm ET</li>
+
+</UL>
+
+</div>
+
+</div>
+
+<div class="uk-text-center">
+
+<img src="/uploads/zira_frontpage_image.svg">
+
+</div>
+
+</div>
+
+<h2 style="text-align: center; width: 100%;
+
+border-bottom: 1px solid #46c777;
+
+line-height: 0.1em;
+
+margin:60px 0 20px; "><span style="background:#fff;
+
+padding:0 10px; ">
+
+Trusted by</span></h2>
+
+<table>
+
+<tr>
+
+<td><img src="/uploads/logos_0011_layer-1.png"></td>
+
+<td><img src="/uploads/logos_0010_layer-2.png"></td>
+
+<td><img src="/uploads/logos_0005_layer-8.png"></td>
+
+<td><img src="/uploads/logos_0006_layer-7.png"></td>
+
+<td><img src="/uploads/logos_0002_layer-11.png"></td>
+
+<td><img src="/uploads/logos_0007_layer-6.png"></td>
+
+<td><img src="/uploads/logos_0001_layer-12.png"></td>
+
+<td><img src="/uploads/logos_0004_layer-10.png"></td>
+
+</tr>
+
+</table>
+
+</div>
+
 {% include cta.html button_text="Start now" button_url="https://my.zira.us" %}
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
 
@@ -32,9 +115,9 @@ setup and additional custom services pricing" %}
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148324738-1"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+window.dataLayer = window.dataLayer || \[\];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-  gtag('config', 'UA-148324738-1');
+gtag('config', 'UA-148324738-1');
 </script>
