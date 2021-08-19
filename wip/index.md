@@ -21,7 +21,7 @@ Give your employees the tools they need to connect and collaborate with machines
 </div>
 </div>
 <div class="uk-text-center">
-<img src="/uploads/connected_machines.svg">
+<img src="/uploads/zira_frontpage_image.svg">
 </div>
 </div>
 <h2 style="text-align: center; width: 100%;
