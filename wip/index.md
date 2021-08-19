@@ -9,7 +9,7 @@
 Smarter, faster,  better industrial manufacturing processes with Zira.
 </h1>
 <h3>
-Give your employees the tools they need to connect and collaborate with machines and business processes.
+Leverage real-time data and artificial intelligence to run your procuction, quality, saftey , energy and maintenece processes.
 </h3>
 <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Get connected</a>
 <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://my.zira.us">Learn more</a>
