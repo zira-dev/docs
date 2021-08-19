@@ -1,6 +1,5 @@
 ---
-layout: page
-width: expand
+
 ---
 <div class="uk-container uk-container-medium">
 
