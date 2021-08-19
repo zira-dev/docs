@@ -24,6 +24,9 @@ Leverage real-time data and artificial intelligence to run your production, qual
 <img src="/uploads/zira_frontpage_image.svg">
 </div>
 </div>
+<div class="darkout-section">
+{% include do-carousel-logo.html tag="default" %}
+</div>
 <h2 style="text-align: center; width: 100%;
 border-bottom: 1px solid #46c777;
 line-height: 0.1em;
