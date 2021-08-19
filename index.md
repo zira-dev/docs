@@ -54,7 +54,7 @@ Leverage real-time data and artificial intelligence to run your production, qual
 
 </div>
 
-<h2 style="text-align: center; width: 100%;
+<!--h2 style="text-align: center; width: 100%;
 
 border-bottom: 1px solid #46c777;
 
@@ -90,7 +90,7 @@ Trusted by</span></h2>
 
 </table>
 
-</div>
+</div-->
 
 {% include cta.html button_text="Start now" button_url="https://my.zira.us" %}
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
