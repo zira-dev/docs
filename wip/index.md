@@ -6,7 +6,7 @@
 <div class="uk-first-column">
 <div class="uk-text-left"><br><br>
 <h1>
-Get more work done faster.
+Smarter, faster,  better industrial manufacturing processes with Zira.
 </h1>
 <h3>
 Give your employees the tools they need to connect and collaborate with machines and business processes.
