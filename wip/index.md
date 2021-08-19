@@ -17,7 +17,7 @@ Leverage real-time data and artificial intelligence to run your production, qual
 <li>Call to get set up by a Zira specialist</li>
 <li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
 <li>*Mon-Fri, 9am-9pm ET</li>
-</ul>
+</UL>
 </div>
 </div>
 <div class="uk-text-center">
@@ -30,6 +30,7 @@ line-height: 0.1em;
 margin:60px 0 20px; "><span style="background:#fff;
 padding:0 10px; ">
 Trusted by</span></h2>
+{% include carousel.html height="50" unit="%" duration="7" %}
 <table>
 <tr>
 <td><img src="/uploads/logos_0011_layer-1.png"></td>
