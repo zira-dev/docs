@@ -30,7 +30,7 @@ line-height: 0.1em;
 margin:60px 0 20px; "><span style="background:#fff;
 padding:0 10px; ">
 Trusted by</span></h2>
-{% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="100" unit="px" duration="7" %}
 <table>
 <tr>
 <td><img src="/uploads/logos_0011_layer-1.png"></td>
