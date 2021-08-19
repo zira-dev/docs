@@ -88,9 +88,9 @@ Trusted by</span></h2>
 
 </tr>
 
-</table>
+</table-->
 
-</div-->
+</div>
 
 {% include cta.html button_text="Start now" button_url="https://my.zira.us" %}
 <!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
