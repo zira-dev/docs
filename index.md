@@ -7,10 +7,10 @@
 <div class="uk-first-column">
 <div class="uk-text-left">
 <h1>
-Smarter, better, faster manufacturing with Zira.
+Manufacture smarter with Zira.
 </h1>
 <h3>
-Leverage AI to streamline processes for your production, quality, safety, and maintenance teams.</h3>
+Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</h3>
 <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact/">Get connected</a>
 <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
 <UL style="list-style-type:none;">
