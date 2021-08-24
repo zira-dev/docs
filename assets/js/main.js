@@ -56,7 +56,7 @@
     function findIndex(array, predicate) {
         return findIndexFn.call(array, predicate);
     }
-    function(){
+    function customer-logos(){
   $('.customer-logos').slick({
     slidesToShow: 6,
     slidesToScroll: 1,
