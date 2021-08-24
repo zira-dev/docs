@@ -29,18 +29,6 @@ Trouble meeting demand or operational goals? Leverage AI to streamline processes
 <!-- Browse Topics --> 
 {% include boxes.html columns="3" title="" subtitle="" %}
 
-<!--
-<h2 style="text-align: center; width: 100%;
-border-bottom: 1px solid #46c777;
-line-height: 0.1em;
-margin:60px 0 20px; "><span style="background:#fff;
-padding:0 10px; ">
-Trusted by</span></h2>
-
-{% include clientlogos.html %}
-
--->
-
 <!-- New posts {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
 <!-- Featured Articles -->
