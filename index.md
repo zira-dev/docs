@@ -27,7 +27,9 @@ Trouble meeting demand or operational goals? Leverage AI to streamline processes
 </div>
 
 <!--{% include cta.html button_text="Start now" button_url="https://my.zira.us" %}-->
-<!-- Browse Topics --> {% include boxes.html columns="3" title="" subtitle="" %}
+
+<!-- Browse Topics --> 
+{% include boxes.html columns="3" title="" subtitle="" %}
 
 <!--h2 style="text-align: center; width: 100%;
 border-bottom: 1px solid #46c777;
