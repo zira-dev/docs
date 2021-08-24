@@ -38,7 +38,7 @@ margin:60px 0 20px; "><span style="background:#fff;
 padding:0 10px; ">
 Trusted by</span></h2>
 
-<{% include clientlogos.html %}-->
+<!--{% include clientlogos.html %}-->
 
 <!-- New posts {% include new-posts.html columns="3" tag="new" title="New posts" subtitle="" %} -->
 
