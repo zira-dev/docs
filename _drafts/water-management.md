@@ -11,6 +11,7 @@ hero:
   search: false
 
 ---
+
 Water is a key resource used by manufacturers from almost every industry. Whether it is used as a primary ingredient by a beverage producer, for heating and cooling processes at a machinery manufacturer, or driving the cleaning process at a paper production plant, water is a critical and increasingly costly resource that can have ripple effects on the productivity of teams across the factory floor.
 
 Zira’s water management solution is end-to-end and you can start with no upfront costs by gathering water data with digital forms or connecting an existing water meter to Zira. Once water data is on Zira, teams will have all of the familiar Zira tools that allow them to access data, generate insights, communicate, and drive, and reinforce the highest impact actions.
