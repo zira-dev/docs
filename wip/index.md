@@ -25,7 +25,7 @@ Leverage real-time data and artificial intelligence to run your production, qual
 </div>
 </div>
 <h2 style="text-align: center; width: 100%;
-border-bottom: 1px solid #46c777;
+border-bottom: 1px solid #DCDCDC;
 line-height: 0.1em;
 margin:60px 0 20px; "><span style="background:#fff;
 padding:0 10px; ">
