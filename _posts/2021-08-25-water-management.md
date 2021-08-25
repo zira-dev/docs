@@ -11,6 +11,7 @@ hero:
   search: false
 
 ---
+![](/uploads/water_management.png)
 
 Water is a key resource used by manufacturers from almost every industry. Whether it is used as a primary ingredient by a beverage producer, for heating and cooling processes at a machinery manufacturer, or driving the cleaning process at a paper production plant, water is a critical and increasingly costly resource that can have ripple effects on the productivity of teams across the factory floor.
 
