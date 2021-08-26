@@ -1,16 +1,16 @@
 # "how it works" include navigation
 
-- title: <span class="uk-badge">1</span> Connect
+- title: Connect
   desc: Machine data, people interactions, and process data.
   icon: cloud-upload
   doc: 
 
-- title: 2.Engage
+- title: Engage
   desc: Insights and problems in real time, and what can be done to fix it.
   icon: move
   doc: 
 
-- title: 3.Automate
+- title: Automate
   desc: AI generated corrective actions solve problems faster and increase productivity.
   icon: server
   doc: 
