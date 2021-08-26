@@ -32,7 +32,7 @@ line-height: 3em;
 margin:80px 0 0px; "><span style="background:#fff;
 padding:10px 0px; ">
 Trusted by</span></h2>
-
+</div>
 {% include clientlogos.html %}
 
 {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
