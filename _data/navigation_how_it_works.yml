@@ -1,6 +1,6 @@
 # "how it works" include navigation
 
-- title: 1.Connect
+- title: <span class="uk-badge">1</span> Connect
   desc: Machine data, people interactions, and process data.
   icon: cloud-upload
   doc: 
