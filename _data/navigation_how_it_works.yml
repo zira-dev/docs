@@ -2,16 +2,15 @@
 
 - title: 1.Connect
   desc: Machine, people, and process data.
-  icon: /uploads/number1.svg
+  icon: cloud-upload
   doc: 
 
 - title: 2.Engage
   desc: Insights and problems in real time, and what can be done to fix it.
-  icon: users
-  target: _blank
+  icon: move
   doc: 
 
 - title: 3.Automate
   desc: AI generated corrective actions solve problems faster and increase productivity.
-  icon: code
+  icon: chevron-double-right
   doc: 
