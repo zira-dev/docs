@@ -26,14 +26,12 @@ Trouble meeting demand or operational goals? <br> Leverage AI to streamline proc
 </div>
 </div>
 
-<div class="uk-section">
 <h2 style="color: #000000; text-align: center; width: 100%;
 border-bottom: 1px solid #ffffff;
 line-height: 3em;
 margin:0px 0 0px; "><span style="background:#fff;
-padding:0 0px; ">
+padding:60px 0px; ">
 Trusted by</span></h2>
-</div>
 
 {% include clientlogos.html %}
 
