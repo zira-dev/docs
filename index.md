@@ -26,8 +26,8 @@ Trouble meeting demand or operational goals? <br> Leverage AI to streamline proc
 </div>
 </div>
 
-<h2 style="color: DCDCDC; text-align: center; width: 100%;
-border-bottom: 1px solid #DCDCDC;
+<h2 style="color: #C0C0C0; text-align: center; width: 100%;
+border-bottom: 1px solid #C0C0C0;
 line-height: 0.1em;
 margin:60px 0 20px; "><span style="background:#fff;
 padding:0 10px; ">
