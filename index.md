@@ -24,8 +24,6 @@ Trouble meeting demand or operational goals? <br> Leverage AI to streamline proc
 <img src="/uploads/zira_frontpage_image.svg">
 </div>
 </div>
-</div>
-
 <h2 style="color: #000000; text-align: center; width: 100%;
 border-bottom: 1px solid #ffffff;
 line-height: 3em;
