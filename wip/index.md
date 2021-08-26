@@ -45,7 +45,7 @@ Trusted by</span></h2>
 </div>
 {% include clientlogos.html %}
 
-{% include This_is_how_it_works.html %}
+{% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
 
 <!-- Because teams can use AI to do their jobs better. -->
