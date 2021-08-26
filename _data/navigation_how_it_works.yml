@@ -1,7 +1,7 @@
 # "how it works" include navigation
 
 - title: 1.Connect
-  desc: Machine, people, and process data.
+  desc: Machine data, people interactions, and process data.
   icon: cloud-upload
   doc: 
 
@@ -12,5 +12,5 @@
 
 - title: 3.Automate
   desc: AI generated corrective actions solve problems faster and increase productivity.
-  icon: chevron-double-right
+  icon: server
   doc: 
