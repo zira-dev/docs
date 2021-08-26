@@ -34,6 +34,9 @@ padding:0 10px; ">
 Trusted by</span></h2>
 
 {% include clientlogos.html %}
+
+{% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
+
 <!-- Browse Topics --> 
 {% include boxes.html columns="3" title="" subtitle="" %}
 
