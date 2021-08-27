@@ -42,7 +42,7 @@ Trusted by</span></h2>
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
     <h2 class="uk-h1 uk-text-center">Ready to get started?</h2>
-    <a style="color:white" class="uk-button uk-align-center" href="https://my.zira.us/contact">Get connected</a>
+    <a class="uk-button uk-align-center" href="https://zira.us/contact">Get connected</a>
   </div>
 </div>
 
