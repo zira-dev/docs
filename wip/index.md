@@ -42,17 +42,3 @@ Trusted by</span></h2>
 {% include ready_to_get_started.html %}
 
 {% include Why_does_it_work.html title="Why does it work?" subtitle="Because teams can actually use data to do their jobs better." %}
-
-<!-- Because teams can use AI to do their jobs better. -->
-<!--{% include get_connected_boxes.html columns="3" title="How can Zira help you?" subtitle="" %}-->
-<!--{% include Why_does_it_work.html title="Why does it work?" subtitle="Because it's what plants crave!" %}-->
-<!--{% include This_is_how_it_works.html columns="3" title="This is how it works:" subtitle="3 steps and you are done" %}-->
-<!--{% include made_for_manufacturing_pros.html columns="6" title="Made for manufacturing pros" subtitle="" %}-->
-
-
-
-
-<!-- faqs -->
-<!--{% include faqs.html multiple="true" title="Frequently asked questions" category="partners" subtitle="Find answers to
-frequent questions asked by partners" %}-->
-
