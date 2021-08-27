@@ -39,7 +39,7 @@ Trusted by</span></h2>
 
 {% include bottom_line_value_update.html %}
 
-{% include cta_what_are_you_waiting_for.html %}
+<h1><span class="uk-badge">Ready to let machines and teams collaborate?</span></h1>
 
 
 <!-- Because teams can use AI to do their jobs better. -->
