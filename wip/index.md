@@ -38,28 +38,7 @@ Trusted by</span></h2>
 {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
 {% include bottom_line_value_update.html %}
-
-<div class="uk-container uk-container-medium">
-  <div class="uk-child-width-1-3@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-    <div class="uk-first-column">
-      <div class="uk-text-center">
-        <h1>10%</h1>
-      </div>
-    </div>
-    <div>
-      <div class="uk-text-center">
-        <h1>18%</h1>
-      </div>
-    </div>
-    <div>
-      <div class="uk-text-center">
-        <h1>20%</h1>
-      </div>
-    </div>
-  </div>
-</div>
   
-
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
     <h2 class="uk-h1 uk-text-center">Ready to let machines and teams collaborate?</h2>
