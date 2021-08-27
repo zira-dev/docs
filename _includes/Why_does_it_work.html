@@ -8,13 +8,20 @@
         {% endif %}
         {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
     </div>
-    <div class="uk-column-1-2">
-        <div class="uk-first-column">
-            <h5>FEED</h5>
-            <h1>Bring your business together</h1>
-            <p>People can collaborate over data from machines and human operations that are posted live in one central feed.</p>
+    <div class="uk-grid-small uk-child-width-expand@s uk-text-center" uk-grid>
+        <div>
+            <div class="uk-card uk-card-default uk-card-body">
+                <h5>FEED</h5>
+                <h1>Bring your business together</h1>
+                <p>People can collaborate over data from machines and human operations that are posted live in one central feed.</p>
+            </div>
         </div>
         <div>
+            <div class="uk-card uk-card-default uk-card-body"><span uk-icon="icon: social"></span></div>
+        </div>
+    </div>
+</div>
+<!--
             <span uk-icon="icon: social"></span>
         </div>
     </div>
@@ -37,3 +44,4 @@
         </div>
     </div>
 </div>
+-->
