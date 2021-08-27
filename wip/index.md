@@ -41,7 +41,7 @@ Trusted by</span></h2>
 
 <div class="section">
   <div class="uk-container uk-container-medium">
-    <h1>Ready to let machines and teams collaborate?</h1>
+    <h2 class="uk-h1 uk-text-center">Ready to let machines and teams collaborate?</h2>
     <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us/contact">Get connected</a>
   </div>
 </div>
