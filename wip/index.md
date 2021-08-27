@@ -39,10 +39,10 @@ Trusted by</span></h2>
 
 {% include bottom_line_value_update.html %}
 
-<div class="uk-section">
+<div class="uk-section uk-background-primary">
   <div class="uk-container uk-container-medium">
     <h2 class="uk-h1 uk-text-center">Ready to let machines and teams collaborate?</h2>
-    <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://my.zira.us/contact">Get connected</a>
+    <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top uk-text-center" href="https://my.zira.us/contact">Get connected</a>
   </div>
 </div>
 
