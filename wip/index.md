@@ -37,7 +37,7 @@ Trusted by</span></h2>
 
 {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
-{% include bottom_line_value.html columns="3" %}
+{% include bottom_line_value.html columns="3" title="bottom line value" subtitle=""  %}
   
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
