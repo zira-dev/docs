@@ -38,14 +38,8 @@ Trusted by</span></h2>
 {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
 {% include bottom_line_value.html columns="3" title="" subtitle=""  %}
-  
-<div class="uk-section">
-  <div class="uk-container uk-container-medium">
-    <h2 class="uk-h1 uk-text-center">Ready to get started?</h2>
-    <a class="uk-button uk-button-default" href="https://zira.us/contact">Get connected</a>
-  </div>
-</div>
 
+{% include ready_to_get_started.html %}
 
 <!-- Because teams can use AI to do their jobs better. -->
 {% include get_connected_boxes.html columns="3" title="How can Zira help you?" subtitle="" %}
