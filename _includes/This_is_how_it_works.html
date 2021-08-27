@@ -1,23 +1,10 @@
-{% if include.columns %}
-    {% assign columns = include.columns %}
-    {% if columns == '1' %}
-        {% assign container = ' uk-container-xsmall' %}
-    {% elsif columns == '2' %}
-        {% assign container = ' uk-container-small' %}
-    {% else %}
-        {% assign container = '' %}
-    {% endif %}
-{% else %}
-    {% assign columns = 3 %}
-    {% assign container = '' %}
-{% endif %}
 <div class="uk-section uk-section-small">
-    <div class="uk-container{{container}}">
+    <div class="uk-container-medium">
         {% if include.title %}
             <h2 class="uk-h1 uk-text-center" style="padding: 60px 0 0 0;">{{ include.title }}</h2>
         {% endif %}
         {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
-        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+        <div class="uk-child-width-1-3@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
         {% for item in site.data.navigation_how_it_works %}
             {% if item.title %}
             {% assign post_url = item.doc | prepend:"" | append:"/" %}
