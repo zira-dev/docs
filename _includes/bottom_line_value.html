@@ -1,13 +1,44 @@
-<div class="uk-container">
-<div class="uk-child-width-1-3@m uk-grid-small uk-grid-match uk-text-center" data-uk-grid>
-    <div class="uk-card uk-margin-left uk-card-default uk-card-body">
-        <p> <h1 style="text-align: center;">10%</h1><h2 style="text-align: center;">Avg. reduction in machine downtime</h2></p>
+{% if include.columns %}
+    {% assign columns = include.columns %}
+    {% if columns == '1' %}
+        {% assign container = ' uk-container-xsmall' %}
+    {% elsif columns == '2' %}
+        {% assign container = ' uk-container-small' %}
+    {% else %}
+        {% assign container = '' %}
+    {% endif %}
+{% else %}
+    {% assign columns = 3 %}
+    {% assign container = '' %}
+{% endif %}
+
+<div class="uk-section">
+    <div class="uk-container{{container}}">
+
+        {% if include.title %}
+            <h2 class="uk-h1 uk-text-center">{{ include.title }}</h2>
+        {% endif %}
+        {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
+        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
+        {% for item in site.data.data_bottom_line_value.yml %}
+            {% if item.title %}
+            {% assign post_url = item.doc | prepend:"" | append:"/" %}
+            {% assign post = site.posts | where:"url", post_url | first %}
+            <div>
+                <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
+                    <a class="uk-position-cover" href="{{ post_url }}"></a>
+                    {% if item.icon %}
+                    <span data-uk-icon="icon: {{ item.icon }}; ratio: 3.4" class=""></span>
+                    {% endif %}
+                    <h3 class="uk-card-title uk-margin">{{ item.title }}</h3>
+                    {% if item.desc %}
+                    <p>{{ item.desc }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endif %}
+        {% endfor %}
+        </div>
+
     </div>
-    <div class="uk-card uk-margin-left uk-card-default uk-card-body">
-        <p> <h1 style="text-align: center;">18%</h1><h2 style="text-align: center;">Avg. reduction in energy consumption</h2></p>
-    </div>
-    <div class="uk-card uk-margin-left uk-card-default uk-card-body">
-        <p> <h1 style="text-align: center;">20%</h1><h2 style="text-align: center;">Avg. increase in production throughput</h2></p>
-    </div>
-</div>
 </div>
