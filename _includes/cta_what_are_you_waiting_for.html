@@ -1,22 +1,26 @@
 <div class="section">
     <div class="uk-card uk-card-primary uk-card-body uk-width-1-1@m uk-margin-medium-top uk-box-shadow-medium uk-inline border-radius-large border-xlight">
-        <p><h1 style="text-align: center;">Ready to let machines and teams collaborate?</h1></p>
-    
-        <form class="uk-form uk-margin-medium-top" method="POST" action="https://formspree.io/f/mdoyepll" accept-charset="UTF-8">
-            <div class="uk-margin-medium-bottom">
-                <label class="uk-form-label uk-margin-small-bottom" for="form-text">{{ site.data.translation[site.lang].contact_email | default: "Email" }}</label>
-                <div class="uk-form-controls">
-                    <input class="uk-input uk-form-small uk-border-rounded" name="_replyto" type="email" required>
-                </div>
-            </div>
+        <div class="uk-column-1-2">
             <div>
-                {% if include.redirect %}
-                <input type="hidden" name="_next" value="{{ include.redirect | absolute_url }}">
-                {% endif %}
-                <input type="text" name="_gotcha" style="display:none">
-                <input class="uk-button uk-button-primary uk-button-small uk-width-1-1" type="submit" value="{{ site.data.translation[site.lang].contact_send | default: 'Send' }}">
+                <p><h1 style="text-align: center;">Ready to let machines and teams collaborate?</h1></p>
             </div>
-        </form>    
-    
+            <div>    
+                <form class="uk-form uk-margin-medium-top" method="POST" action="https://formspree.io/f/mdoyepll" accept-charset="UTF-8">
+                    <div class="uk-margin-medium-bottom">
+                        <label class="uk-form-label uk-margin-small-bottom" for="form-text">{{ site.data.translation[site.lang].contact_email | default: "Email" }}</label>
+                        <div class="uk-form-controls">
+                          <input class="uk-input uk-form-small uk-border-rounded" name="_replyto" type="email" required>
+                        </div>
+                    </div>
+                    <div>
+                        {% if include.redirect %}
+                        <input type="hidden" name="_next" value="{{ include.redirect | absolute_url }}">
+                        {% endif %}
+                        <input type="text" name="_gotcha" style="display:none">
+                        <input class="uk-button uk-button-primary uk-button-small uk-width-1-1" type="submit" value="{{ site.data.translation[site.lang].contact_send | default: 'Send' }}">
+                    </div>  
+                </form>
+            </div>
+        </div>
     </div>
 </div>
