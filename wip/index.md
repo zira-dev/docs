@@ -39,7 +39,9 @@ Trusted by</span></h2>
 
 {% include bottom_line_value_update.html %}
 
-<h1><span class="uk-badge">Ready to let machines and teams collaborate?</span></h1>
+<div class="uk-container uk-container-medium">
+  <h1>Ready to let machines and teams collaborate?</h1>
+</div>
 
 
 <!-- Because teams can use AI to do their jobs better. -->
