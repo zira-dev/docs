@@ -41,8 +41,6 @@ Trusted by</span></h2>
 
 {% include cta_what_are_you_waiting_for.html %}
 
-{% include cta_email.html email="info@zira.us" redirect="/thanks/" %}
-
 
 <!-- Because teams can use AI to do their jobs better. -->
 {% include get_connected_boxes.html columns="3" title="How can Zira help you?" subtitle="" %}
