@@ -1,15 +1,16 @@
-# "bottom line value" include navigation
+# "how it works" include navigation
 
-- title: 10%
-  desc: Avg. reduction in machine downtime
-  icon: 
-
-- title: 18%
-  desc: Avg. reduction in energy consumption
+- title: 1 Connect
+  desc: Machine data, people interactions, and process data.
   icon: cloud-upload
   doc: 
 
-- title: 20%
-  desc: Avg. increase in production throughput
+- title: 2 Engage
+  desc: Insights and problems in real time, and what can be done to fix it.
   icon: move
+  doc: 
+
+- title: 3 Automate
+  desc: AI generated corrective actions solve problems faster and increase productivity.
+  icon: server
   doc: 
