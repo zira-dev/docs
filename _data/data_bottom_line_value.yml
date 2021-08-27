@@ -1,15 +1,15 @@
 # "bottom line value" include navigation
 
 - title: 10%
-  desc: Machine data, people interactions, and process data.
+  desc: Avg. reduction in machine downtime
   icon: 
 
 - title: 18%
-  desc: Machine data, people interactions, and process data.
+  desc: Avg. reduction in energy consumption
   icon: cloud-upload
   doc: 
 
 - title: 20%
-  desc: Insights and problems in real time, and what can be done to fix it.
+  desc: Avg. increase in production throughput
   icon: move
   doc: 
