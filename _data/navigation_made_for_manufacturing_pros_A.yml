@@ -14,21 +14,3 @@
   icon: code
   doc: 
   
-- title: Operations Manager
-  desc: You need to know how and why production is constrained so that you can work to increase throughput, reduce downtime, and lower costs that will keep you competitive.  Zira will ensure that you can help your plant meet production and efficiency goals. Providing real time access to downtime, throughput, and process data gives you visibility into the problems and solutions that will substantially increase and maintain OEE.
-  icon: users
-  target: _blank
-  doc: 
-  
-- title: Saftey Manager
-  desc: You are responsible for the well being of everyone at the plant, training new employees on proper procedures, documenting near misses and good catches, and providing re-training when necessary.  Zira will allow you to shift your time from chasing sheets and transcribing data to analyzing trends and addressing issues and processes that will enhance safety.
-  icon: users
-  target: _blank
-  doc: 
-  
-- title: Plant Manager
-  desc: Share, communicate, and collaborate with ease.  Triggers and AI engage relevant team members and launch your operations into the productivity stratosphere..
-  icon: users
-  target: _blank
-  doc: 
-  
