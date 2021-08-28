@@ -1,6 +1,7 @@
 ---
 
 ---
+<div class="uk-section">
 <div class="uk-container uk-container-medium">
 <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
 <div class="uk-first-column">
@@ -42,3 +43,4 @@ Trusted by</span></h2>
 {% include ready_to_get_started.html %}
 
 {% include Why_does_it_work.html title="Why does it work?" subtitle="Because teams can actually use data to do their jobs better." %}
+</div>
