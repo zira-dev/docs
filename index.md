@@ -45,4 +45,7 @@ Trusted by</span></h2>
 {% include Why_does_it_work.html title="Why does it work?" subtitle="Because teams can actually use data to do their jobs better." %}
   
 {% include made_for_manufacturing_pros.html columns="6" title="Made for manufacturing pros" subtitle="" %}
+  
+{% include manufacturing_just_changed.html %}
+  
 </div>
