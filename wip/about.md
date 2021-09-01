@@ -5,11 +5,10 @@
     <h3>We have developed a data driven collaboration platform to help growing businesses catch up with demand efficiently and profitably.
         <br>Our guiding principles are:
         <br>Be holistic - provide our customers solutions that solve their problems from end to end.
-        <br>Be simple - anything we build can be implemented in less than 1 day.
-        <br>Be easy - anyone in an organization should be able to use it without training.
-        <br>Be engaging -  make it interesting for everyone with personalization and machine learning.</h3>
+        <br>Be simple - anyone in an organization should be able to use it without training.
+        <br>Be easy - Leverage AI to do the heavy lifting and enable automations.
+        <br>Be engaging -  make it interesting for everyone by using machine learning to create personalization.</h3>
     <h1>How it all started?</h1>
-    Manufacturers need to get lean to stay competitive and they can save resources while they do it.
     We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
     The research aimed at understanding how data and analytics can help industrial manufacturers save resources (specificaly energy).  Zira (then called lightapp)       was deployed in more than 100 plants from all industrial verticals.
     The results were clear, we were able to save manufacturers hundreds of thousands of dollars and cut just as many tons of carbon emissions in the process.
