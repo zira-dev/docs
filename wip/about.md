@@ -8,5 +8,5 @@ We want to change that.
 That’s why we built Zira
 We believe that by providing tools to build better digital applications faster we can help organizations use data to optimize and enforce profitable and sustainable business processes.
 
-How we got started?
+# How it all started?
 We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
