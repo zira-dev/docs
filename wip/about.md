@@ -2,12 +2,12 @@
   <div class="uk-container uk-container-medium">
     <h1>About Us</h1>
     <h2>We are on a mission to help manufacturers grow faster.</h2>
-    <h3>We are building a data driven business automation platform to help growing businesses catch up with demand efficiently and profitably.
-        Our guiding principles are:
-        Be holistic - provide our customers solutions that solve their problems from end to end.
-        Be simple - anything we build can be implemented in less than 1 day.
-        Be easy - anyone in an organization should be able to use it without training.
-        Be engaging -  make it interesting for everyone with personalization and machine learning.</h3>
+    <h3>We have developed a data driven collaboration platform to help growing businesses catch up with demand efficiently and profitably.
+        <br>Our guiding principles are:
+        <br>Be holistic - provide our customers solutions that solve their problems from end to end.
+        <br>Be simple - anything we build can be implemented in less than 1 day.
+        <br>Be easy - anyone in an organization should be able to use it without training.
+        <br>Be engaging -  make it interesting for everyone with personalization and machine learning.</h3>
     <h1>How it all started?</h1>
     Manufacturers need to get lean to stay competitive and they can save resources while they do it.
     We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
