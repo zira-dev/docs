@@ -1,7 +1,5 @@
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
-    # About Us
-
     ### We’re building the leading platform that empowers companies to build digital applications for lean and sustainable manufacturing.
 
     # Our Vision
