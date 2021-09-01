@@ -15,9 +15,17 @@
     You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
 
 Moving forward, we think we can do even better.
-    <h1>Some say we're in a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
-When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.
     
+    <div class="uk-section uk-section-medium uk-section-default" style="background-image: url(images/dark.jpg)">
+      <div class="uk-container uk-container-large">
+        <h2 class="uk-h1 uk-text-center">Some say we're in a new Industrial Revolution. We just think it's a good time to get ahead.</h2>
+        <h2 class="uk-h2 uk-text-center uk-margin-remove">
+        When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.</h2>
+      <div style="text-align: center;">
+      <a class="uk-button uk-button-primary uk-button-xlarge uk-text-large uk-text-bold uk-margin-medium-top" href="https://zira.us/contact">Get connected</a>
+      </div>
+     </div>
+    </div>    
 
 Engineer, plant manager, or CFO? Lightapp can help you do your job better, make your life easier, and cut costs in the process.
   </div>
