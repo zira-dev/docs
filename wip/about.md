@@ -1,7 +1,7 @@
 <div class="uk-section">
-  <div class="uk-container uk-container-small uk-align-center">
-    <h1>Imagine a world where machines and people collaborate</h1>
-    <h3>At Zira, we are making 'enterprise data silos' a thing of the past, with a holistic collaboration platforms that automaticly connects people with machines and business processes. </h3> 
+  <div class="uk-container uk-container-small">
+    <h1 style="text-align: center;">Imagine a world where machines and people collaborate</h1>
+    <h3 style="text-align: center;">At Zira, we are making 'enterprise data silos' a thing of the past, with a holistic collaboration platforms that automaticly connects people with machines and business processes. </h3> 
         <br>Our guiding principles are:
         <br>Be holistic - provide our customers solutions that solve their problems from end to end.
         <br>Be simple - anyone in an organization should be able to use it without training.
