@@ -5,7 +5,7 @@
     </p>
     <div class="uk-text-center" uk-grid>
       <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body">How it all started?
+        <div class="uk-card uk-card-default uk-card-body"><h1>How it all started?</h1>
         </div>
       </div>
     <div class="uk-width-expand@m">
