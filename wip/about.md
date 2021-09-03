@@ -5,11 +5,11 @@
     </p>
     <div class="uk-text-center" uk-grid>
       <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body"><h1>How it all started?</h1>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>How it all started?</h1>
         </div>
       </div>
     <div class="uk-width-expand@m">
-      <div class="uk-card uk-card-default uk-card-body">We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
     The research aimed at understanding how data and analytics can help industrial manufacturers save resources (specificaly energy).  Zira (then called lightapp)       was deployed in more than 100 plants from all industrial verticals.
     The results were clear, we were able to save manufacturers hundreds of thousands of dollars and cut just as many tons of carbon emissions in the process.
     You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
