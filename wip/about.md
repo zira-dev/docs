@@ -1,9 +1,9 @@
 <div class="uk-section">
-  <div class="uk-container uk-container-small">
+  <div class="uk-container uk-container-large">
     <h1 style="text-align: center;">IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE</h1>
     <p style="text-align: center;">At Zira, we are making enterprise data silos a thing of the past, with a holistic collaboration platform that automaticly  connects people with machines and business processes.
     </p>
-    <div class="uk-text-center" uk-grid>
+    <div class="uk-grid">
       <div class="uk-width-1-3@m">
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>How it all started?</h1>
         </div>
