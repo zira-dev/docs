@@ -18,14 +18,6 @@ Moving forward, we think we can do even better.
       </div>
     </div>
   </div>
-
-    <h1>How it all started?</h1>
-    We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
-    The research aimed at understanding how data and analytics can help industrial manufacturers save resources (specificaly energy).  Zira (then called lightapp)       was deployed in more than 100 plants from all industrial verticals.
-    The results were clear, we were able to save manufacturers hundreds of thousands of dollars and cut just as many tons of carbon emissions in the process.
-    You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
-
-Moving forward, we think we can do even better.
     
     <div class="uk-section uk-section-medium uk-section-default" style="background-image: url(images/dark.jpg)">
       <div class="uk-container uk-container-large">
