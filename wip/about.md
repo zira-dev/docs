@@ -40,6 +40,7 @@ Moving forward, we think we can do even better.
         <p>Integrates with practicaly any controller, sensor or ERP environment</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <img src="/uploads/processautomationicon500500.png" style="width: 50%; height: 50%" alt="Radically Universal">
         <h3>Enterprise Ready</h3>
         <p>Built for companies of all sizes, all the way to the largest fortune 500 enterprises</p>
       </div>
