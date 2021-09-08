@@ -24,7 +24,7 @@ Moving forward, we think we can do even better.
   </div>
     
   <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
-    <h1 class="uk-card-title uk-margin">Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
+    <h1>Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
     <p>When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
   </div>
     
