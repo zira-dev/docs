@@ -6,7 +6,7 @@
    </div>
 </div>
 <div class="uk-section">
-  <div class="uk-container uk-container-small">
+  <div class="uk-container uk-container-large">
     <div class="uk-grid">
       <div class="uk-width-1-3@m">
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>How it all started?</h1>
@@ -24,7 +24,7 @@ Moving forward, we think we can do even better.
   </div>
   
  <div class="uk-section">
-  <div class="uk-container uk-container-small">
+  <div class="uk-container uk-container-large">
     <div class="uk-grid">
       <div class="uk-width-1-3@m">
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
@@ -38,7 +38,7 @@ Moving forward, we think we can do even better.
   </div>
     
  <div class="uk-section">
-  <div class="uk-container uk-container-small">
+  <div class="uk-container uk-container-large">
     <div class="uk-grid">
       <div class="uk-width-1-3@m">
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Our guiding principles</h1>
