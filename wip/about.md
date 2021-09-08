@@ -35,7 +35,7 @@ Moving forward, we think we can do even better.
     <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/sensormanagement500500.png" alt="Radically Universal">
+        <img src="/uploads/sensormanagement500500.png" style="width: 50%; height: 50%" alt="Radically Universal">
         <h3>Radically Universal</h3>
         <p>Integrates with practicaly any controller, sensor or ERP environment</p>
       </div>
