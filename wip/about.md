@@ -57,20 +57,37 @@ Moving forward, we think we can do even better.
     <h1 style="text-align: center;">Recognized by the world's leading out-thinkers</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/cec_seal.png" alt="California Energy Commission">
-        <h2>California Energy Commission</h2>
-        <p>Two times multi-million dollars ($9.2MM total) grant award recipients</p>
+        <img src="/uploads/cec_seal.png" style="width: 50%;" alt="California Energy Commission">
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/exxaro-logo-vector.png" alt="Exxaro resources">
+      </div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <img src="/uploads/bird.png" style="width: 50%;" alt="3D Visibility">
+      </div>
+    </div>
+    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <h2>California Energy Commission</h2>
+      </div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <h2>Exxaro Strategic Partnership</h2>
+      </div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <h2>The BIRD Foundation</h2>
+      </div>
+    </div>
+    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <p>Two times multi-million dollars ($9.2MM total) grant award recipients</p>
+      </div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <p>Recieved $10MM investment from Exxaro resources to partner on creating a sustainable future for our planet and people.</p>
       </div>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/bird.png" alt="3D Visibility">
-        <h2>The BIRD Foundation</h2>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <p>Awarded $1MM to create the worlds first holistic energy management platform for papermills with Pratt Industries</p>
       </div>
+    </div>
   </div>
 </div>
     
