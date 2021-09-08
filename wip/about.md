@@ -31,7 +31,7 @@ Moving forward, we think we can do even better.
  </div>
     
 <div class="uk-section">
-  <div class="uk-container uk-container-large">
+  <div class="uk-container uk-container-xlarge">
     <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
