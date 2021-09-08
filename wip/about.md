@@ -47,6 +47,7 @@ Moving forward, we think we can do even better.
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/engagementintelligence500500.png" style="width: 50%; height: 50%" alt="3D Visibility">
         <h2>3D Visibility</h2></div>
+        <p>Machines, people and processes all logged and analyzed on one AI driven platform.</p>
       </div>
   </div>
 </div>
