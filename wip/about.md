@@ -25,27 +25,11 @@ Moving forward, we think we can do even better.
     
 <div class="uk-container uk-container-large">    
   <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
-    <h1>Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
-    <p>When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
+    <h1 style="text-align: center;">Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
+    <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
   </div>
  </div>
-    
-    
-    
-  
- <div class="uk-section uk-section-muted">
-  <div class="uk-container uk-container-large">
-    <div class="uk-grid">
-      <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
-        </div>
-      </div>
-    <div class="uk-width-expand@m">
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.
-      </div>
-    </div>
-  </div>
+
     
  <div class="uk-section">
   <div class="uk-container uk-container-large">
