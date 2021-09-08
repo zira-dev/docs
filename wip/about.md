@@ -32,11 +32,11 @@ Moving forward, we think we can do even better.
     
 <div class="uk-section">
   <div class="uk-container uk-container-large">
-    <h1 style="text-align: center;">Once you're on Zira, you won't go back</h1>
+    <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Radically Universal</h1></div>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Enterprise Ready</h1></div>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>3D Visibility</h1></div>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>Radically Universal</h3></div>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>Enterprise Ready</h3></div>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>3D Visibility</h3></div>
       </div>
   </div>
 </div>
