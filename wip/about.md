@@ -34,8 +34,15 @@ Moving forward, we think we can do even better.
   <div class="uk-container uk-container-large">
     <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>Radically Universal</h3></div>
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>Enterprise Ready</h3></div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <img src="/uploads/sensormanagement500500.png" alt="Radically Universal">
+        <h3>Radically Universal</h3>
+        <p>Integrates with practicaly any controller, sensor or ERP environment</p>
+      </div>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        <h3>Enterprise Ready</h3>
+        <p>Built for companies of all sizes, all the way to the largest fortune 500 enterprises</p>
+      </div>
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h3>3D Visibility</h3></div>
       </div>
   </div>
