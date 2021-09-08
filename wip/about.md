@@ -29,7 +29,19 @@ Moving forward, we think we can do even better.
     <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
   </div>
  </div>
-
+    
+<div class="uk-section">
+  <div class="uk-container uk-container-large">
+    <h1 style="text-align: center;">Once you're on Zira, you won't go back</h1>
+    <div class="uk-grid">
+      <div class="uk-width-1-3@m">
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Radically Universal</h1></div>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Enterprise Ready</h1></div>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>3D Visibility</h1></div>
+      </div>
+  </div>
+</div>
+    
     
  <div class="uk-section">
   <div class="uk-container uk-container-large">
