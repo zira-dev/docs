@@ -22,23 +22,35 @@ Moving forward, we think we can do even better.
       </div>
     </div>
   </div>
-    
-    <div class="uk-section uk-section-medium uk-section-default" style="background-image: url(images/dark.jpg)">
-      <div class="uk-container uk-container-large">
-        <h2 class="uk-h1 uk-text-center">Some say we're in a new Industrial Revolution. We just think it's a good time to get ahead.</h2>
-        <h2 class="uk-h2 uk-text-center uk-margin-remove">
-        When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.</h2>
-      <div style="text-align: center;">
-      <a class="uk-button uk-button-primary uk-button-xlarge uk-text-large uk-text-bold uk-margin-medium-top" href="https://zira.us/contact">Get connected</a>
+  
+ <div class="uk-section">
+  <div class="uk-container uk-container-small">
+    <div class="uk-grid">
+      <div class="uk-width-1-3@m">
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
+        </div>
       </div>
-     </div>
-    </div>    
-
-Engineer, plant manager, or CFO? Lightapp can help you do your job better, make your life easier, and cut costs in the process.
+    <div class="uk-width-expand@m">
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+        When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.
+      </div>
+    </div>
   </div>
-            <br>Our guiding principles are:
+    
+ <div class="uk-section">
+  <div class="uk-container uk-container-small">
+    <div class="uk-grid">
+      <div class="uk-width-1-3@m">
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Our guiding principles</h1>
+        </div>
+      </div>
+    <div class="uk-width-expand@m">
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <br>Be holistic - provide our customers solutions that solve their problems from end to end.
         <br>Be simple - anyone in an organization should be able to use it without training.
         <br>Be easy - Leverage AI to do the heavy lifting and enable automations.
-        <br>Be engaging -  make it interesting for everyone by using machine learning to create personalization.</h3>
+        <br>Be engaging -  make it interesting for everyone by using machine learning to create personalization.
+      </div>
+    </div>
+  </div>
 </div>
