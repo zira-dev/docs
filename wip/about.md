@@ -35,17 +35,17 @@ Moving forward, we think we can do even better.
     <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/sensormanagement500500.png" style="width: 50%; height: 50%" alt="Radically Universal">
+        <img src="/uploads/sensormanagement500500.png" style="width: 50%" alt="Radically Universal">
         <h2>Radically Universal</h2>
         <p>Integrates with practicaly any controller, sensor or ERP environment</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/processautomationicon500500.png" style="width: 50%; height: 50%" alt="Enterprise Ready">
+        <img src="/uploads/processautomationicon500500.png" style="width: 50%;" alt="Enterprise Ready">
         <h2>Enterprise Ready</h2>
         <p>Built for companies of all sizes, all the way to the largest fortune 500 enterprises</p>
       </div>
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/engagementintelligence500500.png" style="width: 50%; height: 50%" alt="3D Visibility">
+        <img src="/uploads/engagementintelligence500500.png" style="width: 50%;" alt="3D Visibility">
         <h2>3D Visibility</h2></div>
         <p>Machines, people and processes all logged and analyzed on one AI driven platform.</p>
       </div>
