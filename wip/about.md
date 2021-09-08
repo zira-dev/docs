@@ -1,4 +1,4 @@
-<div class="uk-section uk-section-primary">
+<div class="uk-section uk-section-primary uk-section-xsmall">
   <div class="uk-container uk-container-large">
     <h1 style="text-align: center;">IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE</h1>
     <h3 style="text-align: center;">At Zira, we are making enterprise data silos a thing of the past, with a holistic collaboration platform that <BR> automaticly  connects people with machines and business processes.
