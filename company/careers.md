@@ -316,7 +316,6 @@ Excellent leadership, communication (written and oral, English and Hebrew) and i
             </div>
         </li>
                </dl>
-                  To Apply please send resume/CV to: careers@lightapp.com
           </div>
         </li>
     </ul>
