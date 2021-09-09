@@ -5,6 +5,7 @@
         <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
           <div class="uk-first-column">
             <div class="uk-text-left">
+              <h3><span class="uk-text-background">About us</span></h3>
               <h1>
                 IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE
               </h1>
@@ -37,13 +38,13 @@
 Moving forward, we think we can do even better.
         <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
           <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-            <img src="/uploads/ucb.png" style="width: 50%" alt="UC Berkeley">
+            <img src="/uploads/ucb.png" alt="UC Berkeley">
           </div>
           <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-            <img src="/uploads/mit.png" style="width: 50%;" alt="MIT">
+            <img src="/uploads/mit.png" alt="MIT">
           </div>
           <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-            <img src="/uploads/uchicago.png" style="width: 50%;" alt="U Chicago">
+            <img src="/uploads/uchicago.png" alt="U Chicago">
           </div>
         </div>
         
