@@ -43,7 +43,7 @@ authors:
     avatar: avatar-guy.jpeg
   Odelia:
     name: Odelia Farkash
-    title: Chief Buesiness Operations
+    title: Chief business operations officer
     avatar: avatar-odelia.jpeg
   jake:
     name: Jake Ness
@@ -67,7 +67,7 @@ authors:
     avatar: avatar-gadi.jpeg
   Haggai:
     name: Haggai Philip Zagury
-    title: Deveops and Security
+    title: DevOps and Security
     avatar: avatar-haggai.jpeg
 
 # Social icons displayed in footer
