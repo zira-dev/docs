@@ -83,22 +83,152 @@
         
         <li>
           <a class="uk-accordion-title" href="#">Customer Success Engineer</a>
-            <div class="uk-accordion-content"></div>
+            <div class="uk-accordion-content">
+                              <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>San Mateo, CA</dd>
+                  <dt class="uk-text-lead uk-text-large">The Job</dt>
+                  <dd>The customer success associate will nurture and grow client relationships by maintaining close contact with new and existing customers. In this role, you will engage with customers to help them realize the full potential of Lightapp. You should be a people person, a close listener, and a creative problem solver. Customer success associates can expect to work closely with product engineers, data analysts, and OEM partners.</dd>
+                  <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
+                  <dd>Connect with customers through calls, emails, and web demos.  Prepare weekly reports on customer health and success initiatives.  Maintain close contact with key accounts and report to the executive team as needed.  Utilize CRM tools to maintain and update contacts, leads, and activities.</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>Strong written and verbal communication skills.  Excellent people skills.  Willingness to work in a team.  Bachelor's degree (BA/BS/BEng) from College or University.  Previous software, manufacturing or energy experience a plus.</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+
+            </div>
         </li>
         
         <li>
           <a class="uk-accordion-title" href="#">Electrical/Mechanical Engineer</a>
-            <div class="uk-accordion-content"></div>
+            <div class="uk-accordion-content">
+              <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>San Mateo, CA</dd>
+                  <dt class="uk-text-lead uk-text-large">The Job</dt>
+                  <dd>We are in need of a hands-on Electronic hardware engineer with analog and digital design experience. You will be responsible for the design of custom circuit boards and devices to be deployed at industrial facilities. You will report directly to the CTO, and work in a collaborative environment, with software developers, and customer success staff.
+</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>Thorough understanding of analog & digital electronic circuits.
+
+Experience with hardware (electronics, circuit design, embedded devices).
+
+Experience with circuit board schematic capture, layout, and design for manufacture of complex multilayer surface-mount boards.
+
+Experience with embedded controller design using integrated microcontrollers
+
+Highly skilled in C/C++
+
+Excellent analytical skills and the ability to troubleshoot problems
+
+Two years of electronics design experience, industrial design a plus
+
+Effective verbal and written communication skills with ability to prepare and present technical data and engineering reports to team members and customers at all levels.
+
+Limited travel may be required</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+
+          
+          </div>
         </li>
         
         <li>
           <a class="uk-accordion-title" href="#">Product Manager</a>
-            <div class="uk-accordion-content"></div>
+            <div class="uk-accordion-content">
+              <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>San Mateo, CA</dd>
+                  <dt class="uk-text-lead uk-text-large">The Job</dt>
+                  <dd>As a Product Manager, you will have the opportunity to play an active part in building our next generation line of products. You will work closely with our sales and marketing teams, customer-facing engineers, end users, and clients to craft our next mobile product.</dd>
+                  <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
+                  <dd>Understand users needs and how they interact with our products
+
+Work closely with sales and marketing teams to learn about product needs and sales strategies and align with the product plan, transform requirements and feature request into product specifications.
+
+Define triggers, actions, and rewards.
+
+Work with the design team to finalize product specification into mockups.
+
+Coordinate with the engineering team on implementation details and timeline
+
+Analyze product usage and customer feedback to improve the product
+
+Publish new features and product release</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>3-5 years experience in product management
+
+Vast experience with mobile application development
+
+Strong UX/UI experience
+
+Experience with User engagement
+
+Experience with mobile application development
+
+Experience with industrial clients - advantage
+
+Experience with IIOT - advantage
+
+Excellent written and speaking communication skills in English
+
+Willingness to travel abroad</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+            </div>
         </li>
         
         <li>
           <a class="uk-accordion-title" href="#">Marketplace manager</a>
-            <div class="uk-accordion-content"></div>
+          <div class="uk-accordion-content">
+                                          <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>San Mateo, CA</dd>
+                  <dt class="uk-text-lead uk-text-large">The Job</dt>
+                  <dd>As a Product Manager, you will have the opportunity to play an active part in building our next generation line of products. You will work closely with our sales and marketing teams as well as partners and clients to design and create a major shift in the industrial marketplace.</dd>
+                  <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
+                  <dd>Gain a deep understanding of the industrial equipment market.
+
+Collect and organize requirements for the industrial marketplace.
+
+Investigate industrial players, their drives and needs
+
+Understand the industrial manufactures purchasing process
+
+Define triggers, actions, and rewards to drive user engagement.
+
+Write stories to define product specifications
+
+Work with designers to finalize product specifications into mockups.
+
+Coordinate with the engineering team on implementation details and timeline
+
+Analyze product usage and customer feedback to improve the product
+
+Publish new features and product releases. </dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>3-5 years experience in product management
+
+Past experience with retail / marketplace applications
+
+Experience in the manufacturing sector. 
+
+Strong UX/UI experience
+
+Excellent written and speaking communication skills in English
+
+Willingness to travel abroad</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+          </div>
         </li>
     </ul>
   </div>
