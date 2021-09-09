@@ -43,5 +43,59 @@
     </div>
   </div>
 </div>
+  
+<div class="uk-section">
+  <div class="uk-container uk-container-medium">
+    <h2>San Mateo, CA</h2>
+      <ul uk-accordion>
+        <li>
+          <a class="uk-accordion-title" href="#">Account Executive</a>
+            <div class="uk-accordion-content">
+              <dl>
+                <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                <dd>Full-time</dd>
+                <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                <dd>San Mateo, CA</dd>
+                <dt class="uk-text-lead uk-text-large">The Job</dt>
+                <dd>You will be responsible for the full sales process from lead generation to deal closure. You should be persistent, passionate and eager to thrive in a rapid growth startup environment. Sales executives can expect to work closely with our University, OEM, and other professional partners.</dd>
+                <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
+                <dd>Build and maintain strong relationships with prospects and customers.
+                  Work closely with Lightapp executive team and partners to identify strategic leads.
+                  Utilize CRM tools to maintain and update contacts, leads, and activities.
+                  Prioritize, organize, and manage time effectively to meet deadlines and goals.
+                  Contribute to the development of the sales process.</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                <dd>Strong written and verbal communication skills.
+                  Excellent people skills and willingness to work in a team.
+                  Track record of meeting and exceeding aggressive sales goals.
+                  Ability to work in a rapid-growth startup environment
+                  Bachelor's degree (BA/BS/BEng) from College or University.
+                  Previous software sales or energy management experience a plus.</dd>
+              </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+            </div>
+        </li>
+        
+        <li>
+          <a class="uk-accordion-title" href="#">Customer Success Engineer</a>
+            <div class="uk-accordion-content"></div>
+        </li>
+        
+        <li>
+          <a class="uk-accordion-title" href="#">Electrical/Mechanical Engineer</a>
+            <div class="uk-accordion-content"></div>
+        </li>
+        
+        <li>
+          <a class="uk-accordion-title" href="#">Product Manager</a>
+            <div class="uk-accordion-content"></div>
+        </li>
+        
+        <li>
+          <a class="uk-accordion-title" href="#">Marketplace manager</a>
+            <div class="uk-accordion-content"></div>
+        </li>
+    </ul>
+    <h2>Tel Aviv, Israel</h2>
 
   
