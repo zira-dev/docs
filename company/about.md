@@ -30,12 +30,7 @@
         </div>
       </div>
     <div class="uk-width-expand@m">
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago.
-    The research aimed at understanding how data and analytics can help industrial manufacturers save resources (specificaly energy).  Zira was deployed in more than 100 plants from all industrial verticals.
-    The results were clear, we were able to save manufacturers hundreds of thousands of dollars and cut just as many tons of carbon emissions in the process.
-    You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
-
-Moving forward, we think we can do even better.
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">We emerged from a large scale industrial research project by UC Berkeley, MIT, and the University of Chicago. The research aimed to understand how data and analytics can help industrial manufacturers save resources (specifically energy). Zira was deployed in more than 100 plants from all industrial verticals and the results were clear.  We were able to save manufacturers hundreds of thousands of dollars and cut just as many tons of carbon emissions in the process. You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
         <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
           <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
             <img src="/uploads/ucb.png" alt="UC Berkeley">
@@ -56,7 +51,7 @@ Moving forward, we think we can do even better.
 <div class="uk-section">  
   <div class="uk-container uk-container-large">    
     <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
-      <h1 style="text-align: center;">Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
+      <h1 style="text-align: center;">Some say we're in a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
       <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
     </div>
   </div>
@@ -69,17 +64,17 @@ Moving forward, we think we can do even better.
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/sensormanagement500500.png" style="width: 50%" alt="Radically Universal">
         <h2>Radically Universal</h2>
-        <p>Integrates with practicaly any controller, sensor or ERP environment</p>
+        <p>Integrates with virtually any controller, sensor, or ERP environment.</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/engagementintelligence500500.png" style="width: 50%;" alt="Enterprise Ready">
         <h2>Enterprise Ready</h2>
-        <p>Built for companies of all sizes, all the way to the largest fortune 500 enterprises</p>
+        <p>Built for companies of any size, from one shop mom-and-pop to Fortune 500.</p>
       </div>
         <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
           <img src="/uploads/processautomationicon500500.png" style="width: 50%;" alt="3D Visibility">
           <h2>3D Visibility</h2>
-          <p>Machines, people and processes all logged and analyzed on one AI driven platform.</p>
+          <p>Machines, people, and processes all logged and analyzed on one AI driven platform.</p>
         </div>
      </div>
   </div>
@@ -91,7 +86,7 @@ Moving forward, we think we can do even better.
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/cec_award.png" style="width: 50%;" alt="California Energy Commission">
-        <p>2 times multi-million dollars ($9.2MM total) California Energy Commission grant award recipients</p>
+        <p>2 time, multi-million dollar ($9.2MM total) California Energy Commission grant award recipients.</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/exxaro_award.png" style="width: 50%;" alt="Exxaro resources">
@@ -99,7 +94,7 @@ Moving forward, we think we can do even better.
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/bird_award.png" style="width: 50%;" alt="3D Visibility">
-        <p>The Bird Foundation awarded Zira $1MM to create the worlds first holistic energy management platform for paper mills together with Pratt Industries</p>
+        <p>Awarded $1MM by the BIRD Foundation to create the world's first holistic energy management platform for paper mills together with Pratt Industries.</p>
       </div>
     </div>
   </div>
