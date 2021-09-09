@@ -299,7 +299,4 @@ Ability to run load testing and unit testing
                   To Apply please send resume/CV to: careers@lightapp.com
             </div>
           </li>
-    </ul>
-  </div>
-</div>
   
