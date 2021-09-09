@@ -36,7 +36,7 @@ Moving forward, we think we can do even better.
     
 <div class="uk-section">
   <div class="uk-container uk-container-large">
-    <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
+    <h1 style="text-align: center;">A smart collaborative growth platform</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/sensormanagement500500.png" style="width: 50%" alt="Radically Universal">
