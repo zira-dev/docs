@@ -16,14 +16,7 @@
             </div>
           </div>
           <div class="uk-text-center">
-            <img src="/uploads/zira_frontpage_image.svg">
+            <img src="/uploads/people.png">
           </div>
         </div>
-        <h2 style="text-align: center; width: 100%;
-        border-bottom: 1px solid #dcdcdc;
-        line-height: 0.1em;
-        margin:100px 0 20px; "><span style="background:#fff;
-        padding:0 10px; ">
-        Trusted by</span>
-        </h2>
       </div>
