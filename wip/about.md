@@ -23,7 +23,7 @@ Moving forward, we think we can do even better.
     </div>
   </div>
     
-<div class="uk-container uk-container-large">    
+<div class="uk-container uk-container-xlarge">    
   <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
     <h1 style="text-align: center;">Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
     <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
@@ -54,7 +54,7 @@ Moving forward, we think we can do even better.
 </div>
   
 <div class="uk-section">
-  <div class="uk-container uk-container-xlarge">
+  <div class="uk-container uk-container-small">
     <h1 style="text-align: center;">Recognized by the world's leading thinkers and innovators</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
@@ -71,7 +71,6 @@ Moving forward, we think we can do even better.
       </div>
     </div>
   </div>
-</div>
 </div>
 </div>
 </div>
