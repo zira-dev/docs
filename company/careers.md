@@ -233,7 +233,93 @@ Willingness to travel abroad</dd>
     </ul>
   </div>
 </div>
-    
-    <h2>Tel Aviv, Israel</h2>
 
+    
+    
+    
+    
+    
+
+<div class="uk-section">
+  <div class="uk-container uk-container-medium">
+    <div class="uk-grid">
+      <div class="uk-width-1-3@m">
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;"><h1>Hiring Now In<br>TLV, Israel</h1>
+        </div>
+      </div>
+      <div class="uk-width-expand@m">
+        <ul uk-accordion>
+          <li>
+            <a class="uk-accordion-title" href="#">Full-Stack Developer</a>
+              <div class="uk-accordion-content">
+                <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>Tel Aviv, Israel</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>2+ years of demonstrated experience in building Node.JS backend applications from scratch.
+
+Strong programming skills in Backend development with NodeJS or another JavaScript framework. Frontend - React (preferred) or Angular, HTML5, CSS3.
+
+BS in computer science or equivalent work experience
+
+Extensive experience in building and deploying SaaS applications on a Linux platform.
+
+Good skills in developing REST/MQTT APIs
+
+Ability to build or connect applications in at least one of the cloud environments (AWS/Azure/Google)
+
+Strong skills in designing database applications either rational and big-data
+
+Good understanding of maintaining source code management in GitHub.
+
+Excellent communicator and able to work in a fast-paced, changing and growing startup environment.
+
+Node-Red programming experience - an advantage.
+
+Ability to run load testing and unit testing
+
+</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+            </div>
+        </li>
+        <li>
+            <a class="uk-accordion-title" href="#">React Native / React JS</a>
+              <div class="uk-accordion-content">
+                <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>Tel Aviv, Israel</dd>
+                  <dt class="uk-text-lead uk-text-large">Qualifications</dt>
+                  <dd>3+ years of Mobile Application Development experience, either iOS or Android
+
+Experience with Native and Hybrid apps (Angular/Ionic, React Native, HTML/CSS, JS, Cordova) that have contributed significantly to at least one application published to the AppStore/Google Play, and be able to describe those contributions
+
+BS degree or equivalent
+
+Experience with Server-side/Middleware (REST API services, micro-services, Node.js)
+
+Experience troubleshooting, diagnosing, prototyping, gathering requirements or supporting mobile app development as part of a team
+
+Experience working with Angular version 4 or 5 and/or Ionic version 2 or 3  - preferred
+
+Proven success in contributing to a team-oriented environment
+
+Proven ability to work creatively and analytically in a problem-solving environment
+
+Excellent leadership, communication (written and oral, English and Hebrew) and interpersonal skills</dd>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+            </div>
+        </li>
+               </dl>
+                  To Apply please send resume/CV to: careers@lightapp.com
+          </div>
+        </li>
+    </ul>
+  </div>
+</div>
   
