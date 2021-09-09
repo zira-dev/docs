@@ -316,8 +316,7 @@ Excellent leadership, communication (written and oral, English and Hebrew) and i
             </div>
         </li>
                </dl>
-          </div>
-        </li>
+          
     </ul>
   </div>
 </div>
