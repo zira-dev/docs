@@ -66,14 +66,14 @@ Moving forward, we think we can do even better.
         <img src="/uploads/bird.png" style="width: 50%;" alt="3D Visibility">
       </div>
     </div>
-    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" style="margin: 0 0 0 0; padding: 0 40px 0 0;" uk-grid>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" style="margin: 0 0 0 0;" uk-grid>
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;">
         <p>California Energy Commission 2 times multi-million dollars ($9.2MM total) grant award recipients</p>
       </div>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;">
         <p>Recieved $10MM investment from Exxaro resources to partner on creating a sustainable future for our planet and people.</p>
       </div>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;">
         <p>The Bird Foundation awarded Zira $1MM to create the worlds first holistic energy management platform for papermills together with Pratt Industries</p>
       </div>
     </div>
