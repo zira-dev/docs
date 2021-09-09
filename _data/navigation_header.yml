@@ -3,12 +3,12 @@
 left:
   - title: Home
     url: /
+  - title: About
+    url: /company/about/
   - title: Learn
     url: /docs/getting-started/introduction/
   - title: Developers
     url: /developers/getting-started/introduction/
-  - title: Partners
-    url: /partners/
   - title: Blog
     url: /blog/
         
