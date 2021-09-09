@@ -90,3 +90,5 @@ Moving forward, we think we can do even better.
     </div>
   </div>
 </div>
+   
+{% include team.html %}
