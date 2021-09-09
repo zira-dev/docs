@@ -78,3 +78,4 @@ Moving forward, we think we can do even better.
 </div>
    
 {% include ziraTeam.html title="Our Management Team" %}
+{% include manufacturing_just_changed.html %}
