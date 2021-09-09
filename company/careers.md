@@ -16,8 +16,6 @@
           </div>
           <div class="uk-text-center">
             <img class="uk-border-circle" src="/uploads/people.png">
-          </div>
-        </div>
       </div>
     </div>
 </div>
