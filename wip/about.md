@@ -1,5 +1,5 @@
 <div class="uk-section uk-section-primary uk-section-large">
-  <div class="uk-container uk-container-large">
+  <div class="uk-container uk-container-small">
     <h1 style="text-align: center;">IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE</h1>
     <h3 style="text-align: center;">At Zira, we are making enterprise data silos a thing of the past, with a holistic collaboration platform that <BR> automaticly  connects people with machines and business processes.
     </h3>
@@ -26,7 +26,7 @@ Moving forward, we think we can do even better.
 </div>
 
 <div class="uk-section">  
-  <div class="uk-container uk-container-xlarge">    
+  <div class="uk-container uk-container-large">    
     <div class="uk-card uk-card-default uk-box-shadow-medium uk-card-hover uk-card-body uk-inline border-radius-large border-xlight">
       <h1 style="text-align: center;">Some say we're creating a new Industrial Revolution. We just think it's a good time to get ahead.</h1>
       <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
@@ -35,7 +35,7 @@ Moving forward, we think we can do even better.
 </div>
     
 <div class="uk-section">
-  <div class="uk-container uk-container-xlarge">
+  <div class="uk-container uk-container-large">
     <h1 style="text-align: center;">Once you're on Zira, you never go back</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
@@ -62,15 +62,15 @@ Moving forward, we think we can do even better.
     <h1 style="text-align: center;">Recognized by the world's leading thinkers and innovators</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/cec_award.png" alt="California Energy Commission">
+        <img src="/uploads/cec_award.png" style="width: 50%;" alt="California Energy Commission">
         <p>2 times multi-million dollars ($9.2MM total) California Energy Commission grant award recipients</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/exxaro_award.png" alt="Exxaro resources">
+        <img src="/uploads/exxaro_award.png" style="width: 50%;" alt="Exxaro resources">
         <p>Recieved $10MM investment from Exxaro resources to partner on creating a sustainable future for our planet and people.</p>
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <img src="/uploads/bird_award.png" alt="3D Visibility">
+        <img src="/uploads/bird_award.png" style="width: 50%;" alt="3D Visibility">
         <p>The Bird Foundation awarded Zira $1MM to create the worlds first holistic energy management platform for paper mills together with Pratt Industries</p>
       </div>
     </div>
