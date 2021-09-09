@@ -71,24 +71,9 @@ Moving forward, we think we can do even better.
     </div>
   </div>
 </div>
-    
-    
- <div class="uk-section">
-  <div class="uk-container uk-container-large">
-    <div class="uk-grid">
-      <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Our guiding principles</h1>
-        </div>
-      </div>
-    <div class="uk-width-expand@m">
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <br>Be holistic - provide our customers solutions that solve their problems from end to end.
-        <br>Be simple - anyone in an organization should be able to use it without training.
-        <br>Be easy - Leverage AI to do the heavy lifting and enable automations.
-        <br>Be engaging -  make it interesting for everyone by using machine learning to create personalization.
       </div>
     </div>
   </div>
 </div>
    
-{% include team.html %}
+{% include team.html title="Our Management Team" %}
