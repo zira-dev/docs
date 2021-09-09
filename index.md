@@ -1,6 +1,3 @@
----
-
----
 <div class="uk-section">
   <div class="uk-container">
     <article class="uk-article">
@@ -37,6 +34,7 @@
         </h2>
       </div>
      </div>
+    </article>
   </div>
 </div>
   
