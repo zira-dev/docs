@@ -1,3 +1,28 @@
+<div class="uk-section">
+  <div class="uk-container">
+    <article class="uk-article">
+      <div class="uk-container uk-container-medium">
+        <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
+          <div class="uk-first-column">
+            <div class="uk-text-left">
+              <h1>
+                IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE
+              </h1>
+              <h3 class="uk-text-lead">
+                At Zira, we are making enterprise data silos a thing of the past, with a holistic collaboration platform that <BR> automaticly  connects people with machines and business processes.
+              </h3>
+              <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
+            </div>
+          </div>
+          <div class="uk-text-center">
+            <img class="uk-border-circle" src="people_about_us.jpg">
+      </div>
+    </div>
+</div>
+
+
+
+
 <div class="uk-section uk-section-primary uk-section-large">
   <div class="uk-container uk-container-small">
     <h1 style="text-align: center;">IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE</h1>
