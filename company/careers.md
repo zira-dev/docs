@@ -24,7 +24,7 @@
   <div class="uk-container uk-container-medium">
     <div class="uk-grid">
       <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Who we hire?</h1>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;"><h1>Who we hire?</h1>
         </div>
       </div>
     <div class="uk-width-expand@m">
@@ -48,7 +48,7 @@
   <div class="uk-container uk-container-medium">
     <div class="uk-grid">
       <div class="uk-width-1-3@m">
-        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Hiring Now In<br>San Mateo, CA</h1>
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0; padding: 0 40px 0 0;"><h1>Hiring Now In<br>San Mateo, CA</h1>
         </div>
       </div>
       <div class="uk-width-expand@m">
