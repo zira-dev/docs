@@ -35,6 +35,18 @@
     You can learn more about the project by <a href="https://www.energy.ca.gov/publications/2019/unlocking-industrial-energy-efficiency-through-optimized-energy-management">clicking here</a>.
 
 Moving forward, we think we can do even better.
+        <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
+          <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+            <img src="/uploads/ucb.png" style="width: 50%" alt="UC Berkeley">
+          </div>
+          <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+            <img src="/uploads/mit.png" style="width: 50%;" alt="MIT">
+          </div>
+          <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
+            <img src="/uploads/uchicago.png" style="width: 50%;" alt="U Chicago">
+          </div>
+        </div>
+        
       </div>
     </div>
   </div>
