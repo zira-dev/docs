@@ -31,40 +31,44 @@ author:
   title: zira product expert
   avatar: avatar-tom.png
 
-# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter 
 authors:
-  john:
-    name: John Brown
-    title: Support
-    avatar: avatar-john.png
-  evan:
-    name: Evan Wells
-    title: Support
-    avatar: avatar-evan.png
-  sara:
-    name: Sara Galen
-    title: Lead Developer
-    avatar: avatar-sara.png
-  alex:
-    name: Alex Koch
-    title: Design Engineer
-    avatar: avatar-alex.png
-  daniel:
-    name: Daniel Shultz
-    title: Developer
-    avatar: avatar-daniel.png
-  tom:
-    name: Tom Farrell
-    title: Developer
-    avatar: avatar-tom.png
   elhay:
     name: Elhay Farkash
     title: CEO
     avatar: avatar-elhay.png
+  Guy:
+    name: Guy Peer
+    title: COO
+    avatar: avatar-guy.jpeg
+  Odelia:
+    name: Odelia Farkash
+    title: Chief Buesiness Operations
+    avatar: avatar-odelia.jpeg
   jake:
     name: Jake Ness
-    title: Jake of all trades
+    title: Business Development
     avatar: avatar-jake.png
+  dana:
+    name: Dana (Reichman) Ben Ari
+    title: CFO
+    avatar: avatar-dana.jpeg
+  muli:
+    name: Muli Bachar
+    title: Head of product
+    avatar: avatar-muli.jpeg
+  Mor:
+    name: Mor Lehr
+    title: Lead Data Architect
+    avatar: avatar-mor.jpeg
+  Gadi:
+    name: Gadi Maizler
+    title: Backend Team Leader
+    avatar: avatar-Gadi.jpeg
+  Gadi:
+    name: Haggai Philip Zagury
+    title: Deveops and Security
+    avatar: avatar-haggai.jpeg
 
 # Social icons displayed in footer
 social:
