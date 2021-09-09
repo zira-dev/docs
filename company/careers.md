@@ -46,32 +46,37 @@
   
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
-    <h2>San Mateo, CA</h2>
-      <ul uk-accordion>
-        <li>
-          <a class="uk-accordion-title" href="#">Account Executive</a>
-            <div class="uk-accordion-content">
-              <dl>
-                <dt class="uk-text-lead uk-text-large">Job Type</dt>
-                <dd>Full-time</dd>
-                <dt class="uk-text-lead uk-text-large">Job Location</dt>
-                <dd>San Mateo, CA</dd>
-                <dt class="uk-text-lead uk-text-large">The Job</dt>
-                <dd>You will be responsible for the full sales process from lead generation to deal closure. You should be persistent, passionate and eager to thrive in a rapid growth startup environment. Sales executives can expect to work closely with our University, OEM, and other professional partners.</dd>
-                <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
-                <dd>Build and maintain strong relationships with prospects and customers.
+    <div class="uk-grid">
+      <div class="uk-width-1-3@m">
+        <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0"><h1>Hiring Now In<br>San Mateo, CA</h1>
+        </div>
+      </div>
+      <div class="uk-width-expand@m">
+        <ul uk-accordion>
+          <li>
+            <a class="uk-accordion-title" href="#">Account Executive</a>
+              <div class="uk-accordion-content">
+                <dl>
+                  <dt class="uk-text-lead uk-text-large">Job Type</dt>
+                  <dd>Full-time</dd>
+                  <dt class="uk-text-lead uk-text-large">Job Location</dt>
+                  <dd>San Mateo, CA</dd>
+                  <dt class="uk-text-lead uk-text-large">The Job</dt>
+                  <dd>You will be responsible for the full sales process from lead generation to deal closure. You should be persistent, passionate and eager to thrive in a rapid growth startup environment. Sales executives can expect to work closely with our University, OEM, and other professional partners.</dd>
+                  <dt class="uk-text-lead uk-text-large">Responsibilities</dt>
+                  <dd>Build and maintain strong relationships with prospects and customers.
                   Work closely with Lightapp executive team and partners to identify strategic leads.
                   Utilize CRM tools to maintain and update contacts, leads, and activities.
                   Prioritize, organize, and manage time effectively to meet deadlines and goals.
                   Contribute to the development of the sales process.</dd>
                   <dt class="uk-text-lead uk-text-large">Qualifications</dt>
-                <dd>Strong written and verbal communication skills.
+                  <dd>Strong written and verbal communication skills.
                   Excellent people skills and willingness to work in a team.
                   Track record of meeting and exceeding aggressive sales goals.
                   Ability to work in a rapid-growth startup environment
                   Bachelor's degree (BA/BS/BEng) from College or University.
                   Previous software sales or energy management experience a plus.</dd>
-              </dl>
+               </dl>
                   To Apply please send resume/CV to: careers@lightapp.com
             </div>
         </li>
@@ -96,6 +101,9 @@
             <div class="uk-accordion-content"></div>
         </li>
     </ul>
+  </div>
+</div>
+    
     <h2>Tel Aviv, Israel</h2>
 
   
