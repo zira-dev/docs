@@ -66,7 +66,7 @@ Moving forward, we think we can do even better.
         <img src="/uploads/bird.png" style="width: 50%;" alt="3D Visibility">
       </div>
     </div>
-    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
+    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" style="margin: 0 0 0 0; padding: 0 40px 0 0;" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <p>California Energy Commission 2 times multi-million dollars ($9.2MM total) grant award recipients</p>
       </div>
