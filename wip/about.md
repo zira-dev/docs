@@ -54,7 +54,7 @@ Moving forward, we think we can do even better.
   
 <div class="uk-section">
   <div class="uk-container uk-container-xlarge">
-    <h1 style="text-align: center;">Recognized by the world's leading out-thinkers</h1>
+    <h1 style="text-align: center;">Recognized by the world's leading thinkers and innovators</h1>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/cec_seal.png" style="width: 50%;" alt="California Energy Commission">
@@ -64,17 +64,6 @@ Moving forward, we think we can do even better.
       </div>
       <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
         <img src="/uploads/bird.png" style="width: 50%;" alt="3D Visibility">
-      </div>
-    </div>
-    <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <h2>California Energy Commission</h2>
-      </div>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <h2>Exxaro Strategic Partnership</h2>
-      </div>
-      <div class="uk-card uk-card-default uk-card-body" style="box-shadow: 0 0 0 0">
-        <h2>The BIRD Foundation</h2>
       </div>
     </div>
     <div class="uk-grid-match uk-child-width-expand@s uk-text-center" uk-grid>
