@@ -10,7 +10,7 @@
                 IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE
               </h1>
               <h3 class="uk-text-lead">
-                At Zira, we are making enterprise data silos a thing of the past, with a holistic collaboration platform that <BR> automaticly  connects people with machines and business processes.
+                At Zira, we are making a holistic collaboration platform that automatically connects the physical people, machines, and devices on a plant floor to automate business processes and enable higher plant productivity, compliance, and profitability.
               </h3>
               <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
             </div>
