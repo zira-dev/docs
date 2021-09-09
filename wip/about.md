@@ -76,4 +76,4 @@ Moving forward, we think we can do even better.
   </div>
 </div>
    
-{% include team.html title="Our Management Team" %}
+{% include ziraTeam.html title="Our Management Team" %}
