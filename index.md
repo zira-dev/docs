@@ -25,7 +25,6 @@
         Trusted by</span>
     </h2>
   </div>
-</div>
   
       {% include clientlogos.html %}
 
