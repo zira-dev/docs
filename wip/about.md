@@ -29,6 +29,7 @@ Moving forward, we think we can do even better.
     <p style="text-align: center;">When you can increase the lifespan of your machines, prevent downtime, and create more product with the same equipment, you manufacture smarter than the competition.  Engineer, plant manager, or CFO? Zira can help you do your job better, make your life easier, and cut costs in the process.</p>                
   </div>
  </div>
+  </div>
     
 <div class="uk-section">
   <div class="uk-container uk-container-xlarge">
