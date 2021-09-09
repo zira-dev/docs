@@ -71,9 +71,8 @@ Moving forward, we think we can do even better.
     </div>
   </div>
 </div>
-      </div>
-    </div>
-  </div>
+</div>
+</div>
 </div>
    
 {% include ziraTeam.html title="Our Management Team" %}
