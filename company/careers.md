@@ -294,29 +294,11 @@ Ability to run load testing and unit testing
                   <dt class="uk-text-lead uk-text-large">Job Location</dt>
                   <dd>Tel Aviv, Israel</dd>
                   <dt class="uk-text-lead uk-text-large">Qualifications</dt>
-                  <dd>3+ years of Mobile Application Development experience, either iOS or Android
-
-Experience with Native and Hybrid apps (Angular/Ionic, React Native, HTML/CSS, JS, Cordova) that have contributed significantly to at least one application published to the AppStore/Google Play, and be able to describe those contributions
-
-BS degree or equivalent
-
-Experience with Server-side/Middleware (REST API services, micro-services, Node.js)
-
-Experience troubleshooting, diagnosing, prototyping, gathering requirements or supporting mobile app development as part of a team
-
-Experience working with Angular version 4 or 5 and/or Ionic version 2 or 3  - preferred
-
-Proven success in contributing to a team-oriented environment
-
-Proven ability to work creatively and analytically in a problem-solving environment
-
-Excellent leadership, communication (written and oral, English and Hebrew) and interpersonal skills</dd>
+                  <dd>3+ years of Mobile Application Development experience, either iOS or Android Experience with Native and Hybrid apps (Angular/Ionic, React Native, HTML/CSS, JS, Cordova) that have contributed significantly to at least one application published to the AppStore/Google Play, and be able to describe those contributions, BS degree or equivalent, Experience with Server-side/Middleware (REST API services, micro-services, Node.js),  Experience troubleshooting, diagnosing, prototyping, gathering requirements or supporting mobile app development as part of a team, Experience working with Angular version 4 or 5 and/or Ionic version 2 or 3  - preferred, Proven success in contributing to a team-oriented environment, Proven ability to work creatively and analytically in a problem-solving environment, Excellent leadership, communication (written and oral, English and Hebrew) and interpersonal skills</dd>
                </dl>
                   To Apply please send resume/CV to: careers@lightapp.com
             </div>
-        </li>
-               </dl>
-          
+          </li>
     </ul>
   </div>
 </div>
