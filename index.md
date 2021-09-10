@@ -1,7 +1,7 @@
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
     <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-      <div class="uk-first-column uk-text-left">
+      <div class="uk-first-column">
         <h1 class="uk-text-left@m">Manufacture smarter with Zira.</h1>
         <p class="uk-text-large uk-text-left@m">Trouble meeting demand or operational goals?<br>
             Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
