@@ -1,9 +1,9 @@
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
-    <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
+    <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
       <div class="uk-first-column uk-text-left">
-        <h1>Manufacture smarter with Zira.</h1>
-        <p class="uk-text-large">Trouble meeting demand or operational goals?<br>
+        <h1 class="uk-text-left@m">Manufacture smarter with Zira.</h1>
+        <p class="uk-text-large uk-text-left@m">Trouble meeting demand or operational goals?<br>
             Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
         <div class="uk-grid uk-child-width-1-2@s">
           <div>
@@ -14,9 +14,9 @@
           </div>
         </div>
         <UL style="list-style-type:none;">
-          <li>Call to get set up by a Zira specialist</li>
-          <li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
-          <li>*Mon-Fri, 9am-9pm ET</li>
+          <li class="uk-text-left@m">Call to get set up by a Zira specialist</li>
+          <li class="uk-text-left@m"><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
+          <li class="uk-text-left@m">*Mon-Fri, 9am-9pm ET</li>
         </UL>
       </div>
       <div class="uk-text-center">
