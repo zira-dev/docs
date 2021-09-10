@@ -3,14 +3,14 @@
     <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
       <div class="uk-first-column uk-text-left">
         <h1>Manufacture smarter with Zira.</h1>
-        <h3>Trouble meeting demand or operational goals?<br>
-            Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</h3>
+        <p class="uk-margin-medium-top uk-text-large">Trouble meeting demand or operational goals?<br>
+            Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
         <div class="uk-grid">
           <div>
-            <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-small-top" href="https://zira.us/contact">Get connected</a>
+            <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top uk-margin-medium-bottom" href="https://zira.us/contact">Get connected</a>
           </div>
           <div>
-            <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-small-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+            <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top uk-margin-medium-bottom" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
           </div>
         </div>
         <UL style="list-style-type:none;">
