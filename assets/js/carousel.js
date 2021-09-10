@@ -1,7 +1,7 @@
 $(document).ready(function(){
   $('.customer-logos').slick({        
     cssEase: 'linear',
-    slidesToShow: 8,
+    slidesToShow: 7,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 0,
