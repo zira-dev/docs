@@ -5,8 +5,13 @@
         <h1>Manufacture smarter with Zira.</h1>
         <h3>Trouble meeting demand or operational goals?<br>
             Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</h3>
-        <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Get connected</a>
-        <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+        <div class="uk-grid">
+          <div>
+            <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Get connected</a>
+          </div>
+          <div>
+            <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-margin-medium-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+          </div>
         <UL style="list-style-type:none;">
           <li>Call to get set up by a Zira specialist</li>
           <li><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
