@@ -7,10 +7,10 @@
             Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
         <div class="uk-grid">
           <div>
-            <a style="color:white" class="uk-button uk-button-primary uk-button-large" href="https://zira.us/contact">Get connected</a>
+            <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-width-1-2" href="https://zira.us/contact">Get connected</a>
           </div>
           <div>
-            <a style="color:white" class="uk-button uk-button-secondary uk-button-large" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+            <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-width-1-2" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
           </div>
         </div>
         <UL style="list-style-type:none;">
