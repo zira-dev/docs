@@ -5,7 +5,7 @@
         {% endif %}
         {% if include.subtitle %}<p class="uk-text-lead uk-text-center">{{ include.subtitle | escape }}</p>{% endif %}
         
-        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 600;">
+        <div class="uk-child-width-1-{{ columns }}@m uk-grid-match uk-text-center uk-margin-medium-top" data-uk-grid>
         {% for item in site.data.navigation_made_for_manufacturing_pros_A %}
             {% if item.title %}
             {% assign post_url = item.doc | prepend:"" | append:"/" %}
