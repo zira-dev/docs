@@ -1,10 +1,11 @@
 $(document).ready(function(){
-  $('.customer-logos').slick({
+  $('.customer-logos').slick({        
+    cssEase: 'linear',
     slidesToShow: 8,
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 0,
-    speed: 2000,
+    speed: 10000,
     arrows: false,
     dots: false,
     pauseOnHover: false,
