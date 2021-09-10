@@ -5,7 +5,7 @@
         <h1>Manufacture smarter with Zira.</h1>
         <p class="uk-text-large">Trouble meeting demand or operational goals?<br>
             Leverage AI to streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
-        <div class="uk-grid">
+        <div class="uk-grid uk-child-width-1-2@s">
           <div>
             <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-width-1-1" href="https://zira.us/contact">Get connected</a>
           </div>
