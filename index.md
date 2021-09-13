@@ -1,3 +1,5 @@
+{% include GoogleTagManager_body.liquid %}
+
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
     <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
@@ -45,14 +47,4 @@
       {% include made_for_manufacturing_pros.html columns="6" title="Made for manufacturing pros" subtitle="" %}
   
       {% include manufacturing_just_changed.html %}
-  
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-148324738-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-148324738-1');
-</script>
 
