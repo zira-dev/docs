@@ -8,9 +8,6 @@ title:Grow with us!
         <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
           <div class="uk-first-column">
             <div class="uk-text-left">
-              <h1>
-                Grow with Zira!
-              </h1>
               <h3 class="uk-text-lead">
                 We are an ambitious group of highly experienced engineers, design buffs, strategists, and business visionaries building the platform and tools to help industrial manufacturers operate more profitably and sustainably. In the midst of tremendous growth, we are looking for highly qualified individuals to build out our team.
               </h3>
