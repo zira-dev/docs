@@ -1,5 +1,3 @@
-{% include GoogleTagManager_body.liquid %}
-
 <div class="uk-section">
   <div class="uk-container uk-container-medium">
     <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
