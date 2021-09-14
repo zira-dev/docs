@@ -1,5 +1,5 @@
 ---
-title: About Zira
+title: About Us
 ---
 
 <div class="uk-section">
@@ -9,7 +9,6 @@ title: About Zira
         <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
           <div class="uk-first-column">
             <div class="uk-text-left">
-              <h3><span class="uk-text-background">About us</span></h3>
               <h1>
                 IMAGINE A WORLD WHERE <BR> MACHINES AND PEOPLE COLLABORATE
               </h1>
