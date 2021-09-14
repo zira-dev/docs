@@ -24,7 +24,7 @@ title: Product Overview
     </div>
 </div>
       
-{% include productoverviewconnected.html %}
+{% include productoverviewconnected.html title="The Platform for Data-Driven Lean Manufacturers." subtitle="Zira gives business and technical teams a better way to work based on holistic and actionable insights from consolidated system, people, and process data.  <br> Make your next decision better than the last." %}
 
       # The Platform for Data-Driven Lean Manufacturers.
       ## Make your next decision better than the last.
