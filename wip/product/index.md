@@ -23,6 +23,8 @@ title: Product Overview
       </div>
     </div>
 </div>
+      
+{% include productoverviewconnected.html %}
 
       # The Platform for Data-Driven Lean Manufacturers.
       ## Make your next decision better than the last.
