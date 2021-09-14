@@ -19,7 +19,7 @@ title: Product Overview
             </div>
           </div>
           <div class="uk-text-center">
-            <img class="uk-border-circle" src="/uploads/people_about_us.jpg">
+            <img src="/uploads/productfront.png">
       </div>
     </div>
 </div>
