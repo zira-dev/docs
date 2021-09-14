@@ -10,10 +10,10 @@ title: Product Overview
           <div class="uk-first-column">
             <div class="uk-text-left">
               <h1>
-                One place to take care of all your resources.
+                One place to take care of all your teams, machines, and resources.
               </h1>
               <h3 class="uk-text-lead">
-                At Zira, we are making a holistic collaboration platform that automatically connects the physical people, machines, and devices on a manufacturing floor to automate business processes and enable higher plant productivity, compliance, and profitability.
+                Zira is a holistic collaboration platform that automatically connects the physical people, machines, and devices on a manufacturing floor to automate business processes and enable higher plant productivity, compliance, and profitability.
               </h3>
               <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
             </div>
