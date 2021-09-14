@@ -23,3 +23,15 @@ title: Product Overview
       </div>
     </div>
 </div>
+
+      # The Platform for Data-Driven Lean Manufacturers.
+      ## Make your next decision better than the last.
+      ### Zira gives business and technical teams a better way to work based on holistic and actionable insights from consolidated system, people, and process data.
+      #### Connect
+      ###### Use pre-built collectors or customize your own to connect to real-time or batch data from MES, ERP, CRM, SCADA, and more.
+      ###### Add new data sources for new insights
+      ###### Take advantage of our extensive partner network to buy or install pre-configured hardware that will communicate data to your Zira out of the box.
+      ###### Go paperless with digital forms and data entry
+      ###### Pen and paper driven processes are time consuming and silo data.  Anyone can make a digital form with our intuitive no-code builder.
+      
+      
