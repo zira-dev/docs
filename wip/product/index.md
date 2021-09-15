@@ -7,7 +7,7 @@ title: Product Overview
     <article class="uk-article">
       <div class="uk-container uk-container-medium">
         <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-          <div class="uk-first-column uk-width-1-3">
+          <div class="uk-first-column">
             <div class="uk-text-left">
               <h1>
                 One place to take care of all your teams, machines, and resources.
@@ -19,7 +19,7 @@ title: Product Overview
             </div>
           </div>
           <div class="uk-text-center">
-            <img src="/uploads/productFrontOveriewNew.png">
+            <img src="/uploads/phone_for_product.png">
       </div>
     </div>
 </div>
