@@ -1,4 +1,6 @@
 # Mobile menu navigation links
+- title: Products
+  url: /products/overview/
 - title: Developers
   url: /developers/introduction/
 - title: Partners
