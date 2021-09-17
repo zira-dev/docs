@@ -5,6 +5,8 @@ left:
     url: /
   - title: About
     url: /company/about/
+  - title: Products
+    url: /products/overview/
   - title: Learn
     url: /docs/getting-started/introduction/
   - title: Developers
