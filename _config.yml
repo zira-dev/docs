@@ -134,6 +134,8 @@ sass:
   style: compressed
 
 collections:
+  products:
+    output: true
   docs:
     output: true
   developers:
