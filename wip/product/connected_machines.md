@@ -19,7 +19,7 @@ title: Connected Machines
             </div>
           </div>
           <div class="uk-text-center">
-            <img src="/uploads/phone_for_product.png">
+          <span data-uk-icon="icon: cog; ratio: 15" class=""></span>
       </div>
     </div>
 </div>
