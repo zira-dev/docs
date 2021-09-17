@@ -33,6 +33,8 @@
   </div>
   
       {% include clientlogos.html %}
+  
+      {% include productoverviewconnected.html %}
 
       {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
