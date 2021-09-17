@@ -10,10 +10,10 @@ title: Connected Machines
           <div class="uk-first-column">
             <div class="uk-text-left">
               <h1>
-                One place to take care of all your teams, machines, and resources.
+                Machine and Operational Visibility. Anytime. Anywhere.
               </h1>
               <h3 class="uk-text-lead">
-                Zira is a holistic collaboration platform that automatically connects the physical people, machines, and devices on a manufacturing floor to automate business processes and enable higher plant productivity, compliance, and profitability.
+                Zira brings together data across your organization into a single view so you can quickly understand machine operational health and stop productivity from going down.
               </h3>
               <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
             </div>
@@ -24,14 +24,13 @@ title: Connected Machines
     </div>
 </div>
       
-{% include productoverviewconnected.html title="The Platform for Data-Driven Lean Manufacturers." subtitle="Zira gives business and technical teams a better way to work based on holistic and actionable insights from consolidated system, people, and process data.  Make your next decision better than the last!" %}
-
-      # The Platform for Data-Driven Lean Manufacturers.
-      ## Make your next decision better than the last.
-      ### Zira gives business and technical teams a better way to work based on holistic and actionable insights from consolidated system, people, and process data.
-      #### Connect
-      ###### Use pre-built collectors or customize your own to connect to real-time or batch data from MES, ERP, CRM, SCADA, and more.
-      ###### Add new data sources for new insights
-      ###### Take advantage of our extensive partner network to buy or install pre-configured hardware that will communicate data to your Zira out of the box.
-      ###### Go paperless with digital forms and data entry
-      ###### Pen and paper driven processes are time consuming and silo data.  Anyone can make a digital form with our intuitive no-code builder.
+Here’s How a Connected Machine Helps You
+COLLECTORS
+Gather time series data from any source
+Harness data from a machines embedded sensors and PLC, or from external sensors that are installed separately. Ready to go collectors are available for the most common protocols (modbus, 4-20mA, bacnet, etc) and brand (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).
+ANALYTICS
+Visualize data and generate insights on demand
+Bring together data from any source, real time or manual, to create new operational insights and business KPIs. Use prebuilt algorithms from Zira for out of the box analytics or quickly define and deploy your own.
+DASHBOARDS
+Enable data driven decision making and performance improvement
+Self service dashboards permite access any data and insights for any time period. Make any dashboard an “interactive” HMI so operators can run processes and see performance metrics in real time.
