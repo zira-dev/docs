@@ -1,0 +1,18 @@
+- title: Getting Started
+  docs:
+  - getting-started/introduction 
+  - getting-started/api-keys
+  - getting-started/api-docs
+- title: API Reference
+  docs:
+  - api-reference/add-post
+  - api-reference/add-readings
+  - api-reference/get-readings
+  - api-reference/download-csv
+  - api-reference/get-channel-analysis
+- title: Examples
+  docs:
+  - examples/rss-to-zira-feed
+  - examples/stock-collector
+  # - examples/collector
+  
