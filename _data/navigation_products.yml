@@ -1,16 +1,14 @@
-- title: Getting Started
+- title: Overview
   docs:
-  - getting-started/introduction 
-  - getting-started/api-keys
-  - getting-started/api-docs
-- title: API Reference
+  - overview/introduction 
+- title: Connected Machines
   docs:
   - api-reference/add-post
   - api-reference/add-readings
   - api-reference/get-readings
   - api-reference/download-csv
   - api-reference/get-channel-analysis
-- title: Examples
+- title: Connected Workforce
   docs:
   - examples/rss-to-zira-feed
   - examples/stock-collector
