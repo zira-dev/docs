@@ -10,28 +10,39 @@ videos:
       url: https://youtu.be/-RYkapHBVs8
 ---
 
-Welcome to zira developers do1cs! 🤓  
+---
+title: Connected Machines
+---
 
-If you are new with zira, we recommend you to start by
-
-  [reading the docs](/docs/getting-started/introduction/) or [watching the videos](https://www.youtube.com/channel/UCA4dFApA7wjJnVoWJ3u_SHA){:target="_blank" rel="noopener"} &nbsp;
-
-- It is highly recommended for developers to use our [Postman collection](https://apidocs.zira.us/) for API testing
-- If you have any question regarding zira API, you are welcome to ask our team on [GitHub Discussions](https://github.com/zira-dev/zira/discussions).
-
-## Overview
-
-**Zira API allows developers to integrate zira with other software and to create custom zira applications**
-
-### Possible Usage:
-- Create custom post on zira feed
-- Manage tasks on zira
-- Create custom collector, in order to post your data to zira data-source
-- Orchestrate business workflows that reflects on zira feed
-- Fetch aggregated data from zira channel
-- Fetch real-time, normalized data from zira data-source
-- Export CSV file on specific time range/interval
-- Import CSV file to specific data-source (for history upload or batch)
-- Connect IOT data-sources in order to manage them on zira app, visualize data and automate processes
-
-
+<div class="uk-section">
+  <div class="uk-container">
+    <article class="uk-article">
+      <div class="uk-container uk-container-medium">
+        <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
+          <div class="uk-first-column">
+            <div class="uk-text-left">
+              <h1>
+                Machine and Operational Visibility. Anytime. Anywhere.
+              </h1>
+              <h3 class="uk-text-lead">
+                Zira brings together data across your organization into a single view so you can quickly understand machine operational health and stop productivity from going down.
+              </h3>
+              <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
+            </div>
+          </div>
+          <div class="uk-text-center">
+          <span data-uk-icon="icon: cog; ratio: 15" class=""></span>
+      </div>
+    </div>
+</div>
+      
+Here’s How a Connected Machine Helps You
+COLLECTORS
+Gather time series data from any source
+Harness data from a machines embedded sensors and PLC, or from external sensors that are installed separately. Ready to go collectors are available for the most common protocols (modbus, 4-20mA, bacnet, etc) and brand (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).
+ANALYTICS
+Visualize data and generate insights on demand
+Bring together data from any source, real time or manual, to create new operational insights and business KPIs. Use prebuilt algorithms from Zira for out of the box analytics or quickly define and deploy your own.
+DASHBOARDS
+Enable data driven decision making and performance improvement
+Self service dashboards permite access any data and insights for any time period. Make any dashboard an “interactive” HMI so operators can run processes and see performance metrics in real time.
