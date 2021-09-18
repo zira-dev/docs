@@ -1,17 +1,12 @@
 ---
-title: Introduction
-subtitle: How to use zira API
-# author: sara
-tags: [introduction]
+title: Connected machines overview
+subtitle: 
+tags: [connected]
 videos: 
     - title: Generate API-Key
       url: https://youtu.be/_OhSTyVSCSM
     - title: Using Postman for API testing
       url: https://youtu.be/-RYkapHBVs8
----
-
----
-title: Connected Machines
 ---
 
 <div class="uk-section">
