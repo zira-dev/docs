@@ -10,7 +10,7 @@ videos:
       url: https://youtu.be/-RYkapHBVs8
 ---
 
-Welcome to zira developers docs! 🤓  
+Welcome to zira developers do1cs! 🤓  
 
 If you are new with zira, we recommend you to start by
 
