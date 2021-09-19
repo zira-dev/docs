@@ -19,7 +19,7 @@ title: Product Overview
             </div>
           </div>
           <div class="uk-text-center">
-            <img src="/uploads/phone_for_product.png">
+            <img src="/uploads/testersvg.svg">
       </div>
     </div>
 </div>
