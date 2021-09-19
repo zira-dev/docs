@@ -5,7 +5,7 @@ layout: default
 <div class="uk-section">
     <div class="uk-container">
         <div class="uk-grid-large" data-uk-grid>
-                <div class="sidebar-docs uk-position-fixed uk-margin-top">
+            <div class="sidebar-fixed-width uk-visible@m">
                 <div class="sidebar-docs uk-position-fixed uk-margin-top">
                     
                     {% for section in site.data.navigation_products %}
@@ -20,8 +20,7 @@ layout: default
                     </ul>
                     {% endfor %}
                 </div>
-            
-        </div>
+            </div>
 
             <div class="uk-width-1-1 uk-width-expand@m">
 
@@ -30,6 +29,10 @@ layout: default
                     <h1 class="uk-article-title">{{ page.title | escape }}</h1>
 
                     {% if page.subtitle %}<p class="uk-text-lead uk-text-muted">{{ page.subtitle }}</p>{% endif %}
+
+                    <div class="uk-article-meta uk-margin-top uk-margin-medium-bottom uk-flex uk-flex-middle">
+                        {% include post-meta.html %}
+                    </div>
 
                     <div class="article-content link-primary">
                         {{ content }}
