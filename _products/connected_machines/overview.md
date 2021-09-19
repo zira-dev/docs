@@ -9,13 +9,13 @@ videos:
       url: https://youtu.be/-RYkapHBVs8
 ---
 
-1<div class="uk-section">
- 2 <div class="uk-container">
+<div class="uk-section">
+  <div class="uk-container">
     <article class="uk-article">
-  3    <div class="uk-container uk-container-medium">
-   4     <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-    5      <div class="uk-first-column">
-     6       <div class="uk-text-left">
+      <div class="uk-container uk-container-medium">
+        <div class="uk-child-width-1-2@m uk-grid-match uk-text-left uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
+          <div class="uk-first-column">
+            <div class="uk-text-left">
               <h1>
                 Machine and Operational Visibility. Anytime. Anywhere.
               </h1>
@@ -23,13 +23,13 @@ videos:
                 Zira brings together data across your organization into a single view so you can quickly understand machine operational health and stop productivity from going down.
               </h3>
               <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-margin-medium-top" href="https://zira.us/contact">Connect now</a>
-      6      </div>
-     5     </div>
-     5     <div class="uk-text-center">
+            </div>
+          </div>
+          <div class="uk-text-center">
           <span data-uk-icon="icon: cog; ratio: 15" class=""></span>
-     5     </div>
-    4     </div>
-   3     </div>
+          </div>
+         </div>
+        </div>
         <div>
             <h1>Here’s How a Connected Machine Helps You</h1>
             <h2>Collectors:</h2>
