@@ -36,11 +36,11 @@ videos:
     
 # Here’s How a Connected Machine Helps You
 ## Collectors:
-### Gather time series data from any source
+### *Gather time series data from any source*
 Harness data from a machines embedded sensors and PLC, or from external sensors that are installed separately. Ready to go collectors are available for the most common protocols (modbus, 4-20mA, bacnet, etc) and brand (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).
 ## Analytics:
-### Visualize data and generate insights on demand
+### *Visualize data and generate insights on demand*
 Bring together data from any source, real time or manual, to create new operational insights and business KPIs. Use prebuilt algorithms from Zira for out of the box analytics or quickly define and deploy your own.
 ## Dashboards:
-### Enable data driven decision making and performance improvement
+### *Enable data driven decision making and performance improvement*
 Self service dashboards permite access any data and insights for any time period. Make any dashboard an “interactive” HMI so operators can run processes and see performance metrics in real time.
