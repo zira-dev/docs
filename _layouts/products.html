@@ -6,20 +6,7 @@ layout: default
     <div class="uk-container">
         <div class="uk-grid-large" data-uk-grid>
                 <div class="sidebar-docs uk-position-fixed uk-margin-top">
-                    
-                    {% for section in site.data.navigation_products %}
-                    <ul class="uk-nav uk-nav-default doc-nav">
-                        {% for doc in section.docs %}
-                        {% assign doc_url = doc | prepend:"/products/" | append:"/" %}
-                        {% assign p = site.products | where:"url", doc_url | first %}
-                        <li class="{% if doc_url == page.url %}uk-active{% endif %}"><a
-                                href="{{ p.url | relative_url }}">{{ section.title }}</a></li>
-                        {% endfor %}
-                    </ul>
-                    {% endfor %}
-                </div>
-            
-                <!-- div class="sidebar-docs uk-position-fixed uk-margin-top">
+                <div class="sidebar-docs uk-position-fixed uk-margin-top">
                     
                     {% for section in site.data.navigation_products %}
                     <h5>{{ section.title }}</h5>
@@ -32,9 +19,9 @@ layout: default
                         {% endfor %}
                     </ul>
                     {% endfor %}
-                </div -->
+                </div>
             
-
+        </div>
 
             <div class="uk-width-1-1 uk-width-expand@m">
 
