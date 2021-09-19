@@ -30,16 +30,16 @@ videos:
           </div>
          </div>
         </div>
+      </article>
+    </div>
+</div>
+    
         <div>
             <h1>Here’s How a Connected Machine Helps You</h1>
             <h2>Collectors:</h2>
             <h3>Gather time series data from any source</h3>
             <p>Harness data from a machines embedded sensors and PLC, or from external sensors that are installed separately. Ready to go collectors are available for the most common protocols (modbus, 4-20mA, bacnet, etc) and brand (Siemens, Mitsubishi, Schneider, ABB, OSIsoft PI, etc).</p>
         </div>
-        </div>
-    </div>
-    </div>
-    </div>
             
 
       
