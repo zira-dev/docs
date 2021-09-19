@@ -1,6 +1,6 @@
 - title: Connected Collaboration
   docs:
-  - overview/introduction 
+  - connected_collaboration/introduction 
 - title: Connected Machines
   docs:
   - connected_machines/overview
