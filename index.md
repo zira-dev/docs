@@ -3,8 +3,7 @@
     <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
       <div class="uk-first-column">
         <h1 class="uk-text-left@m">Manufacture smarter with Zira.</h1>
-        <p class="uk-text-large uk-text-left@m">Trouble meeting demand or operational goals?<br>
-            Let AI streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
+        <p class="uk-text-large uk-text-left@m">Let AI streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
         <div class="uk-grid uk-child-width-1-2@s">
           <div>
             <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a>
