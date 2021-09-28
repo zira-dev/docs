@@ -18,7 +18,7 @@
           <li class="uk-text-left@m">*Mon-Fri, 9am-9pm ET</li>
         </UL>
       </div>
-      <div class="uk-text-center">
+      <div class="uk-text-center uk-visible@m">
         <img src="/uploads/zira_frontpage_image.svg">
       </div>
     </div>
