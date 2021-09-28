@@ -13,7 +13,7 @@
           </div>
         </div>
         <UL style="list-style-type:none;">
-          <li class="uk-text-left@m">Call to get set up by a Zira specialist</li>
+          <li class="uk-text-left@m">Talk with a Zira specialist</li>
           <li class="uk-text-left@m"><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
           <li class="uk-text-left@m">*Mon-Fri, 9am-9pm ET</li>
         </UL>
