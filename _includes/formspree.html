@@ -22,12 +22,12 @@
         </div>
     </div>
     {% endif %}
-    <!-- div class="uk-margin-medium-bottom">
+    <div class="uk-margin-medium-bottom">
         <label class="uk-form-label uk-margin-small-bottom" for="form-stacked-text">{{ site.data.translation[site.lang].contact_message | default: "Message" }}</label>
         < div class="uk-form-controls">
-            <textarea class="uk-textarea uk-form-large uk-border-rounded" name="message" rows="3" minlength="0" required></textarea>
+            <textarea class="uk-textarea uk-form-large uk-border-rounded" name="message" rows="3" minlength="0"></textarea>
         </div>
-    </div -->
+    </div>
     <div>
         {% if include.redirect %}
         <input type="hidden" name="_next" value="{{ include.redirect | absolute_url }}">
