@@ -15,6 +15,15 @@ left:
     url: /blog/
   - title: Careers
     url: /company/careers
+  - title: Products test
+    dropdown:
+      - title: Collaboration
+        url: /products/connected_collaboration/introduction/
+      - title: Connected Machines
+        url: /products/connected_collaboration/introduction/
+      - title: Connected Employees
+        url: /products/connected_collaboration/introduction/
+      
         
 
 # Navbar right menu navigation links
