@@ -7,7 +7,7 @@ left:
     url: /company/about/
   - title: Products
     dropdown:
-      - title: Collaboration
+      - title: Overview
         url: /products/connected_collaboration/introduction/
       - title: Connected Machines
         url: /products/connected_machines/overview/
