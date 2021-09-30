@@ -12,7 +12,7 @@ left:
         url: /products/connected_machines/overview/
       - title: Connected Workforce
         url: /products/connected_workforce/overview/
-  - title: Company
+  - title: Company 
     dropdown:
       - title: About Us
         url: /company/about/
