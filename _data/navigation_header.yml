@@ -13,15 +13,24 @@ left:
       - title: Connected Workforce
         url: /products/connected_workforce/overview/
   - title: Company
-    url: /company/about/
+    dropdown:
+      - title: About Us
+        url: /company/about/
+      - title: Careers
+        url: /company/careers
+      - title: Careers
+        url: /company/careers
   - title: Resources
-    url: /docs/getting-started/introduction/
-  # - title: Developers
-  #  url: /developers/getting-started/introduction/
-  - title: Blog
-    url: /blog/
-  - title: Careers
-    url: /company/careers
+    dropdown:
+      - title: Learn
+        url: /docs/getting-started/introduction/
+      - title: Developers
+        url: /developers/getting-started/introduction/
+      - title: Blog
+        url: /blog/
+   - title: Free Trial
+     url: /contact/
+     button: warning-outline
       
         
 
