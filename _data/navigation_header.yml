@@ -6,7 +6,13 @@ left:
   - title: About
     url: /company/about/
   - title: Products
-    url: /products/connected_collaboration/introduction/
+    dropdown:
+      - title: Collaboration
+        url: /products/connected_collaboration/introduction/
+      - title: Connected Machines
+        url: /products/connected_machines/overview/
+      - title: Connected Workforce
+        url: /products/connected_workforce/overview/
   - title: Learn
     url: /docs/getting-started/introduction/
   - title: Developers
@@ -15,14 +21,6 @@ left:
     url: /blog/
   - title: Careers
     url: /company/careers
-  - title: Products test
-    dropdown:
-      - title: Collaboration
-        url: /products/connected_collaboration/introduction/
-      - title: Connected Machines
-        url: /products/connected_collaboration/introduction/
-      - title: Connected Employees
-        url: /products/connected_collaboration/introduction/
       
         
 
