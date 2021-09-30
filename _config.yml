@@ -167,15 +167,3 @@ defaults:
       type: developers
     values:
       layout: dev
-  # _products
-  - scope:
-      path: ""
-      type: products
-    values:
-      layout: products
-  # _connectedmachines
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: doc
