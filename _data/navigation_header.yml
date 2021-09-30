@@ -3,8 +3,7 @@
 left:
   # - title: Home
   #  url: /
-  - title: Company
-    url: /company/about/
+  
   - title: Products
     dropdown:
       - title: Overview
@@ -13,8 +12,10 @@ left:
         url: /products/connected_machines/overview/
       - title: Connected Workforce
         url: /products/connected_workforce/overview/
-  # - title: Learn
-  #  url: /docs/getting-started/introduction/
+  - title: Company
+    url: /company/about/
+  - title: Resources
+    url: /docs/getting-started/introduction/
   # - title: Developers
   #  url: /developers/getting-started/introduction/
   - title: Blog
