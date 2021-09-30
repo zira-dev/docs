@@ -1,9 +1,9 @@
 # Navbar left menu navigation links
 
 left:
-  - title: Home
-    url: /
-  - title: About
+  # - title: Home
+  #  url: /
+  - title: Company
     url: /company/about/
   - title: Products
     dropdown:
@@ -13,10 +13,10 @@ left:
         url: /products/connected_machines/overview/
       - title: Connected Workforce
         url: /products/connected_workforce/overview/
-  - title: Learn
-    url: /docs/getting-started/introduction/
-  - title: Developers
-    url: /developers/getting-started/introduction/
+  # - title: Learn
+  #  url: /docs/getting-started/introduction/
+  # - title: Developers
+  #  url: /developers/getting-started/introduction/
   - title: Blog
     url: /blog/
   - title: Careers
