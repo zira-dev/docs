@@ -18,8 +18,6 @@ left:
         url: /company/about/
       - title: Careers
         url: /company/careers
-      - title: Careers
-        url: /company/careers
   - title: Resources
     dropdown:
       - title: Learn
