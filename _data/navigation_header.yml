@@ -28,9 +28,9 @@ left:
         url: /developers/getting-started/introduction/
       - title: Blog
         url: /blog/
-   - title: Free Trial
-     url: /contact/
-     button: warning-outline
+  - title: Free Trial
+    url: /contact/
+    button: warning-outline
       
         
 
