@@ -6,10 +6,10 @@
         <p class="uk-text-large uk-text-left@m">Let AI streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
         <div class="uk-grid uk-child-width-1-2@s">
           <div>
-            <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a>
+            <a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a>
           </div>
           <div>
-            <a style="color:white; background-color: #4268ee;" class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+            <a style="color:white;" class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
           </div>
         </div>
         <UL style="list-style-type:none;">
