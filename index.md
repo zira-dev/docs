@@ -9,7 +9,7 @@
             <a style="color:white" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a>
           </div>
           <div>
-            <a style="color:white" class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
+            <a style="color:white; background-color: #4268ee;" class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
           </div>
         </div>
         <UL style="list-style-type:none;">
