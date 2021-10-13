@@ -179,8 +179,7 @@ defaults:
       type: docs
     values:
       layout: doc
-  - 
-      scope:
+  - scope:
       path: ""
       type: 
     values:
