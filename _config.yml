@@ -179,3 +179,11 @@ defaults:
       type: docs
     values:
       layout: doc
+     # _wip
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: default
+   
+      
