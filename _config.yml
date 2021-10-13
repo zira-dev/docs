@@ -179,11 +179,11 @@ defaults:
       type: docs
     values:
       layout: doc
-  # wip
-  - scope:
+  - 
+      scope:
       path: ""
       type: 
     values:
-      layout: default
+      layout: "default"
    
       
