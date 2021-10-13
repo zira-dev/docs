@@ -182,7 +182,7 @@ defaults:
   # _wip
   - scope:
       path: ""
-      type: docs
+      type: 
     values:
       layout: default
    
