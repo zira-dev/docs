@@ -3,7 +3,6 @@
 ---
 
 <div class="uk-section-default">
-    <div class="uk-section uk-light uk-background-cover" style="background-image: url(/uploads/360background.svg)">
         <div class="uk-container">
 
             <h3>Section with Images</h3>
@@ -21,5 +20,4 @@
             </div>
 
         </div>
-    </div>
 </div>
