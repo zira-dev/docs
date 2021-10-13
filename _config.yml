@@ -179,7 +179,7 @@ defaults:
       type: docs
     values:
       layout: doc
-     # _wip
+  # _wip
   - scope:
       path: ""
       type: docs
