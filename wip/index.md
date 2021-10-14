@@ -3,19 +3,16 @@ layout: page
 width: expand
 ---
 
-<div class="uk-section uk-background-top-right uk-background-cover uk-height-medium uk-panel uk-flex uk-flex-middle uk-flex-center" style="background-image: url(/uploads/zira_frontpage_image.svg);">
+<div class="uk-section">
         <div class="uk-container">
-            <div class="uk-grid-match uk-child-width-1-3@m" uk-grid>
+            <div class="uk-grid-match uk-child-width-1-2@m" uk-grid>
                 <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <h1 class="uk-text-left@m">Convert data into actions that improve operations.</h1>
+                    <p>Give your manufacturing teams 360 degree visibility into what is happening and drive action.</p>
                 </div>
                 <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
-                </div>
-                <div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+                    <img src="/uploads/zira_frontpage_image.svg">
                 </div>
             </div>
-
         </div>
 </div>
