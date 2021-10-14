@@ -8,10 +8,10 @@ width: expand
             <div class="uk-grid-match uk-child-width-1-2@m" uk-grid>
                 <div class="uk-width-1-2@m uk-margin-auto uk-margin-auto-vertical">
                     <h1>Convert data into actions.</h1>
-                    <h2 class="uk-margin-small-top uk-margin-medium-bottom">Give your teams 360 degree visibility into what is happening and the tools to take action.</h2>
-                    <a class="uk-link-heading uk-margin-medium-top uk-margin-medium-bottom" uk-icon="icon:  chevron-double-right" href="#">Increase OEE and uptime </a>
-                    <a class="uk-link-heading uk-margin-medium-top uk-margin-medium-bottom" uk-icon="icon:  chevron-double-right" href="#">Improve saftey and compliance </a>
-                    <a class="uk-link-heading uk-margin-medium-top uk-margin-medium-bottom" uk-icon="icon:  chevron-double-right" href="#">Grow sales and customer engagement </a>    
+                    <h2 class="uk-margin-small-top uk-margin-small-bottom">Give your teams 360 degree visibility into what is happening and the tools to take action.</h2>
+                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Increase OEE and uptime </a>
+                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Improve saftey and compliance </a>
+                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Grow sales and customer engagement </a>    
                 </div>
                 <div>
                     <img src="/uploads/zira_frontpage_image.svg">
