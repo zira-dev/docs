@@ -179,8 +179,9 @@ defaults:
       type: docs
     values:
       layout: doc
+  # wip
   - scope:
-      path: ""
+      path: "wip"
       type: 
     values:
       layout: "default"
