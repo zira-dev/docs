@@ -19,3 +19,5 @@ width: expand
             </div>
         </div>
 </div>
+
+ {% include clientlogos.html %}
