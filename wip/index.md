@@ -1,5 +1,6 @@
 ---
-
+layout: page
+width: expand
 ---
 
 <div class="uk-section-default">
