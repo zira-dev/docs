@@ -11,7 +11,7 @@ width: expand
                     <p>Give your manufacturing teams 360 degree visibility into what is happening and drive action.</p>
                 </div>
                 <div>
-                    <img src="/uploads/zira_frontpage_image.svg">
+                    <img src="/uploads/cogsweb.svg">
                 </div>
             </div>
         </div>
