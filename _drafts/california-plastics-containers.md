@@ -33,4 +33,10 @@ That's why California Plastics Containers turned to Zira to improve operations, 
 
 CPC manufactures injection molded plastic containers.  The raw material (plastic) is extruded from pellets and injected into a mold with multiple cavities.  Each cavity produces one molded plastic container at a time.  Once the mold cools down, the finished product unit drops from each cavity into a large bin.  Quality control measures once an hour weight and thickness of sample units from the bin.
 
-Before Zira this entire process was run manually using pen and paper forms which were then typed into xls worksheet.
+Before Zira this entire process was run manually using pen and paper forms which were then typed into xls worksheet.  It was a wasteful, time-consuming, error-prone manual process.  Furthermore, problems and wasted material due to poor quality and heavy finished goods were abundant but neither shop floor operators nor managers knew about the problems but only after they were analyzed manually by the plant manager which occurred only once a week.
+
+It took less than one day for CPC to completely transform the quality control process with Zira.  The entire process is digitized now.  From data acquisition through analytics, anomaly detection, and insights.  
+
+No more typing errors as each input is checked upon typing against specific triggers.
+
+![](/uploads/cpc_quality_control.png)
