@@ -7,7 +7,7 @@ categories: []
 hero:
   title: ''
   subtitle: ''
-  image: ''
+  image: "/uploads/cpcbackground.webp"
   search: false
 
 ---
