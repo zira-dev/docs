@@ -8,7 +8,7 @@ width: expand
             <div class="uk-grid-match uk-child-width-1-2@m" uk-grid>
                 <div class="uk-width-1-2@m uk-margin-auto uk-margin-auto-vertical">
                     <h1>"It's a business collaboration platform, like twitter, slack and smartsheets, all in one.
-We went from nothing digital to fully digitized by literally just downloading their app.
+We went from nothing digital to fully digitized by literally just downloading the app.
 It’s running our quality, maintenance, and even shipments.  
 Our performance is up 400%.
 "</h1>
