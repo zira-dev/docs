@@ -41,6 +41,12 @@ No more typing errors as each input is checked upon typing against specific trig
 
 ![](/uploads/qrcodecpc.png)
 
-Data is then immediately available and is analyzed to detect potential developing problems such as clogged cavities or miscalculated machine setpoints which waste raw materials throughout the production process.  Monitoring dashboards with links to take action are created and automatically updated accessible by anyone with the right security credentials, on their phones, tablets, and desktops.
+Data is immediately available and is analyzed to detect potential developing problems such as clogged cavities or miscalculated machine setpoints which waste raw materials throughout the production process.  Monitoring dashboards with links to take action are created and automatically updated accessible by anyone with the right security credentials, on their phones, tablets, and desktops.
 
 ![](/uploads/cpc_quality_control.png)
+
+### But it doesn't end with a dashboard.
+
+Zira self-service dashboards are dynamic by nature and continuously updated to hold the most recent data, but are also shareable and collaborative.
+
+Anyone in the facility can share a dashboard (including the view they are looking at right now) and add information, pictures, comments.  The share is done directly on a channel which is where everyone can follow and get updates about everything that is happening right now.  A channel can be also specific to a business process and across functions and resources in the facility (for example, a maintenance channel).
