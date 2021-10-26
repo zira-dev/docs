@@ -45,5 +45,3 @@
   
       {% include made_for_manufacturing_pros.html columns="6" title="Made for manufacturing pros" subtitle="" %}
   
-      {% include manufacturing_just_changed.html %}
-
