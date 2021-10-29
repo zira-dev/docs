@@ -17,9 +17,6 @@ width: expand
                     <img src="/uploads/zira_frontpage_image.svg">
                 </div>
             </div>
-                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Increase OEE and uptime </a>
-                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Improve saftey and compliance </a>
-                    <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Grow sales and customer engagement </a>  
         </div>
 </div>
 
