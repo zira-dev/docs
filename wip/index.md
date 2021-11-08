@@ -6,7 +6,7 @@ width: expand
 <div class="uk-section">
         <div class="uk-container">
             <div uk-grid>
-                <div class="uk-width-auto@m uk-margin-auto uk-margin-auto-vertical">
+                <div class="uk-width-2-3@m uk-margin-auto uk-margin-auto-vertical">
                     <h1>Agile workspace.<br>Augmented teams.</h1>
                     <div class="uk-text-large uk-margin-small-top uk-margin-medium-bottom uk-text-lead">We’re more than collaboration.  Or analytics.
 Use Zira to digitally transform your operations.</div>  
