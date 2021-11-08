@@ -46,6 +46,7 @@ Use Zira to digitally transform your operations.</div>
                 </div>
             </div>
         </div>
+   <br><br><br>
         <div class="uk-container">
                 <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Increase OEE and uptime </a>
                 <a class="uk-link-heading uk-margin-small-bottom" uk-icon="icon:  chevron-double-right" href="#">Improve saftey and compliance </a>
