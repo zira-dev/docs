@@ -15,7 +15,8 @@ width: expand
                     <h1>Agile workspace.<br>Augmented teams.</h1>
                     <div class="uk-text-large uk-margin-small-top uk-margin-medium-bottom uk-text-lead">We’re more than collaboration.  Or analytics.
 Use Zira to digitally transform your operations.</div> 
-                   <div><a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a></div>
+                   <div><a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary uk-button-large uk-width-1-2 uk-margin-top" href="https://zira.us/contact">Get connected</a>
+                   </div>
                     <div class="uk-container uk-container-medium">
                           <section class="customer-logos slider"> 
                             <div class="slide"><img src="/uploads/logos_0011_layer-1.png"></div>
