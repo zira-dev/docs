@@ -17,8 +17,7 @@ width: expand
 Use Zira to digitally transform your operations.</div> 
                    <div><a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary" href="https://zira.us/contact">Get connected</a>
                    </div>
-                   <div>
-                      <h3>trusted by</h3>
+                    <div class="uk-text-small uk-margin-small-top uk-margin-medium-bottom uk-text-lead">TRUSTED BY TEAMS AT</div> 
                     <div class="uk-container">
                           <section class="customer-logos slider"> 
                             <div class="slide"><img src="/uploads/logos_0011_layer-1.png"></div>
@@ -40,7 +39,6 @@ Use Zira to digitally transform your operations.</div>
                           </section>
                         </div> 
                    </div>
-                </div>
                 <div class="uk-width-1-3@m uk-margin-auto">
                     <img src="/uploads/zira_frontpage_image.svg">
                 </div>
