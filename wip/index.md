@@ -37,7 +37,7 @@ Use Zira to digitally transform your operations.</div>
                           </section>
                         </div>    
                 </div>
-                <div class="uk-width-1-2@m uk-margin-auto">
+                <div class="uk-width-1-3@m uk-margin-auto">
                     <img src="/uploads/zira_frontpage_image.svg">
                 </div>
             </div>
