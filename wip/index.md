@@ -7,8 +7,9 @@ width: expand
         <div class="uk-container">
             <div uk-grid>
                 <div class="uk-width-auto@m uk-margin-auto uk-margin-auto-vertical">
-                    <h1>California Plastics improved operational performance 400%, powered by Zira.</h1>
-                    <div class="uk-text-large uk-margin-small-top uk-margin-medium-bottom uk-text-lead"><a style="text-decoration: underline;" href="https://zira.us/california-plastics-containers/">Find out how </a>&nbsp; they digitaly transformed operations and increased profitability.</div>  
+                    <h1>Agile workspace.<br>Augmented teams.</h1>
+                    <div class="uk-text-large uk-margin-small-top uk-margin-medium-bottom uk-text-lead">We’re more than collaboration.  Or analytics.
+Use Zira to digitally transform your operations.</div>  
                 </div>
                 <div class="uk-width-1-3@m">
                     <img src="/uploads/zira_frontpage_image.svg">
