@@ -12,8 +12,8 @@ width: expand
         <div class="uk-container">
             <div uk-grid>
                 <div class="uk-width-1-2@m uk-margin-auto-vertical">
-                    <h1>Agile workspace.<br>Augmented teams.</h1>
-                    <div class="uk-text-large uk-margin-small-top uk-margin-medium-bottom uk-text-lead">We’re more than collaboration.  Or analytics.
+                    <div class="uk-text-xxlarge uk-margin-small-top uk-margin-medium-bottom">Agile workspace.<br>Augmented teams.</div>
+                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">We’re more than collaboration.  Or analytics.
 Use Zira to digitally transform your operations.</div> 
                    <div><a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary" href="https://zira.us/contact">Get connected</a>
                    </div>
