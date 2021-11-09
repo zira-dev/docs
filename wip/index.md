@@ -65,8 +65,8 @@ Use Zira to digitally transform your operations.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h3>Leverage analytics within the flow of business.</h3>
-                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Make data and analytics accessible right from where people collaborate so they can share knowledge and make it count.</div>
+                   <h3>Make analytics easier, faster and actionable by anyone.</h3>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
                  <img data-src="/uploads/screen-shot-2021-11-09-at-11-22-24-am.png" width="1800" height="1200" alt="" uk-img>
