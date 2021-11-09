@@ -50,12 +50,26 @@ Use Zira to digitally transform your operations.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h3>Know what’s happening right now</h3>
-                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line - productivity and efficiency.</div>
+                   <h3>Know what’s happening everywhere, right now</h3>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
                   <iframe src="https://www.youtube-nocookie.com/embed/3Y0TFFf3r7s?modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: false"></iframe>
 
+                </div>
+      </div>
+   </div>
+</div>
+
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h3>Leverage analytics within the flow of business.</h3>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Make data and analytics accessible right from where people collaborate so they can share knowledge and make it count.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-09-at-11-22-24-am.png" width="1800" height="1200" alt="" uk-img>
                 </div>
       </div>
    </div>
