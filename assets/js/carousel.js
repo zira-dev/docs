@@ -6,6 +6,7 @@ $(document).ready(function(){
     autoplay: true,
     autoplaySpeed: 0,
     speed: 3000,
+    filter: 'grayscale(100%)',
     arrows: false,
     dots: false,
     pauseOnHover: false,
