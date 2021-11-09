@@ -53,17 +53,13 @@ Use Zira to digitally transform your operations.</div>
 </div>
 
 <div class="uk-section">
-   <div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
-    <div class="uk-flex-last@s uk-card-media-right uk-cover-container">
-        <img src="images/light.jpg" alt="" uk-cover>
-        <canvas width="600" height="400"></canvas>
-    </div>
-    <div>
-        <div class="uk-card-body">
-            <h3 class="uk-card-title">Media Right</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-        </div>
-    </div>
-</div>
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h3>Know what’s happening right now</h3>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line - productivity and efficiency.</div>
+                </div>
+      </div>
+   </div>
 </div>
 
