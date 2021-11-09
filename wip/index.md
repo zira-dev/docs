@@ -54,7 +54,7 @@ Use Zira to digitally transform your operations.</div>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line - productivity and efficiency.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                  <video src="https://youtu.be/3Y0TFFf3r7s" controls playsinline uk-video></video></video>
+                  <video src="https://youtu.be/3Y0TFFf3r7s" controls playsinline uk-video></video>
                 </div>
       </div>
    </div>
