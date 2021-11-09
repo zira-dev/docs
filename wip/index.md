@@ -54,7 +54,7 @@ Use Zira to digitally transform your operations.</div>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line - productivity and efficiency.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                  <video src="https://yootheme.com/site/images/media/yootheme-pro.mp4" loop muted playsinline uk-video="autoplay: inview"></video>
+                  <iframe src="https://www.youtube.com/watch?v=3Y0TFFf3r7s&t=8s" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
                 </div>
       </div>
    </div>
