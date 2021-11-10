@@ -50,7 +50,7 @@ Use Zira to digitally transform your operations.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h3>Know what’s happening everywhere, right now</h3>
+                   <h2>Know what’s happening everywhere, right now</h2>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
@@ -65,7 +65,7 @@ Use Zira to digitally transform your operations.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h3>Make analytics easier, faster and more actionable.</h3>
+                   <h2>Make analytics easier, faster and more actionable.</h2>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
