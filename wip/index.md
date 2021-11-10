@@ -69,7 +69,7 @@ Use Zira to digitally transform your operations.</div>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                 <img data-src="/uploads/screen-shot-2021-11-09-at-11-22-24-am.png" width="1800" height="1200" alt="" uk-img>
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-00-52-am.png" width="1800" height="1200" alt="" uk-img>
                 </div>
       </div>
    </div>
