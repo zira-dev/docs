@@ -50,8 +50,8 @@ Use Zira to digitally transform your business.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h2>Know what’s happening everywhere, right now</h2>
-                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and real-time statuses of what matters most to your bottom line.</div>
+                   <h2>Zira is what’s happening everywhere, right now</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and updates of what matters most to your bottom line.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
                   <iframe src="https://www.youtube-nocookie.com/embed/3Y0TFFf3r7s?modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: false"></iframe>
