@@ -89,6 +89,20 @@ Use Zira to digitally transform your business.</div>
    </div>
 </div>
 
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>Build powerful, automated workflows & business processes</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Execute faster, effectively collaborate, and automate productivity tasks in any part of your business.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-3-01-23-pm.png" width="1800" height="1200" alt="" uk-img>
+                </div>
+      </div>
+   </div>
+</div>
+
 <!--
 
    <br><br><br>
