@@ -65,11 +65,11 @@ Use Zira to digitally transform your business.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h2>Digitize manual processes in minutes using paperless forms.</h2>
-                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Leverage mobile-ready paperless forms to accelerate the flow of business processes.</div>
+                   <h2>Make analytics easier, faster and more actionable.</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-02-02-am.png" width="1800" height="1200" alt="" uk-img>
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-00-52-am.png" width="1800" height="1200" alt="" uk-img>
                 </div>
       </div>
    </div>
@@ -79,11 +79,11 @@ Use Zira to digitally transform your business.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h2>Make analytics easier, faster and more actionable.</h2>
-                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
+                   <h2>Digitize manual processes in minutes using paperless forms.</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Leverage mobile-ready paperless forms to accelerate the flow of business processes.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-00-52-am.png" width="1800" height="1200" alt="" uk-img>
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-02-02-am.png" width="1800" height="1200" alt="" uk-img>
                 </div>
       </div>
    </div>
