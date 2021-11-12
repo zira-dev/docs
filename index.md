@@ -1,47 +1,120 @@
-<div class="uk-section">
-  <div class="uk-container uk-container-medium">
-    <div class="uk-child-width-1-2@m uk-grid-match uk-text-center uk-margin-medium-center uk-grid" data-uk-grid="" style="vertical-align: middle;">
-      <div class="uk-first-column">
-        <h1 class="uk-text-left@m">Manufacture smarter with Zira.</h1>
-        <p class="uk-text-large uk-text-left@m">Let AI streamline processes for your production, energy, quality, safety, and maintenance teams.</p>
-        <div class="uk-grid uk-child-width-1-2@s">
-          <div>
-            <a style="color:white; background-color: #4268ee;" class="uk-button uk-button-primary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/contact">Get connected</a>
-          </div>
-          <div>
-            <a style="color:white;" class="uk-button uk-button-secondary uk-button-large uk-width-1-1 uk-margin-top" href="https://zira.us/docs/getting-started/introduction/">Learn more</a>
-          </div>
+---
+layout: page
+width: expand
+---
+   
+<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="https://zira.us/assets/js/carousel.js"></script>
+
+<div class="uk-section uk-background-fixed" style="background-image: url(/uploads/textured_background.jpg);">
+        <div class="uk-container">
+            <div uk-grid>
+                <div class="uk-width-1-2@m uk-margin-auto-vertical">
+                    <h1>Making the world work better.</h1>
+                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">We’re more than collaboration.  Or analytics.
+Use Zira to digitally transform your business.</div> 
+                   <div><a style="color:white; background-color: #4a6ef6;" class="uk-button uk-button-primary" href="https://zira.us/contact">Get connected</a>
+                   </div>
+                    <div class="uk-text-small uk-text-light uk-margin-medium-top uk-margin-medium-small uk-text-meta">TRUSTED BY TEAMS AT</div> 
+                    <div class="uk-container">
+                          <section class="customer-logos slider"> 
+                            <div class="slide"><img src="/uploads/logos_0011_layer-1.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0010_layer-2.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0005_layer-8.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0006_layer-7.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0002_layer-11.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0007_layer-6.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0001_layer-12.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0004_layer-10.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0003_layer-4.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-13.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-21.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-22.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-23.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-24.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-25.png"></div>
+                            <div class="slide"><img src="/uploads/logos_0000_layer-26.png"></div>    
+                          </section>
+                        </div> 
+                   </div>
+                <div class="uk-width-1-3@m uk-margin-auto">
+                    <img src="/uploads/zira_frontpage_image.svg">
+                </div>
+            </div>
         </div>
-        <UL style="list-style-type:none;">
-          <li class="uk-text-left@m">Talk with a Zira specialist</li>
-          <li class="uk-text-left@m"><h3 style="color:#46c777">Tel 1-833-345-6123</h3></li>
-          <li class="uk-text-left@m">*Mon-Fri, 9am-9pm ET</li>
-        </UL>
+</div>
+
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>Zira is what’s happening everywhere, right now</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and updates of what matters most to your bottom line.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                  <iframe src="https://www.youtube-nocookie.com/embed/3Y0TFFf3r7s?modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: false"></iframe>
+
+                </div>
       </div>
-      <div class="uk-text-center uk-visible@m">
-        <img src="/uploads/zira_frontpage_image.svg">
+   </div>
+</div>
+
+
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>One place for people to collaborate and automate tasks.</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Channels are where people collaborate around real time data and insights while keeping knowledge orgenized and accessible.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-4-06-55-pm.png" width="1800" height="1200" alt="" uk-img>
+                </div>
       </div>
-    </div>
-    <h2 style="text-align: center; width: 100%;
-        border-bottom: 1px solid #dcdcdc;
-        line-height: 0.1em;
-        margin:60px 0 20px; "><span style="background:#fff;
-        padding:0 10px; ">
-        Trusted by</span>
-    </h2>
-  </div>
-  
-      {% include clientlogos.html %}
-  
-      {% include productoverviewconnected.html %}
+   </div>
+</div>
 
-      {% include This_is_how_it_works.html columns="3" title="How it works" subtitle="" %}
 
-      {% include bottom_line_value.html columns="3" title="" subtitle=""  %}
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>Make analytics easier, faster and more actionable.</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Include data analytics in the conversation and make it easily accessible from where people collaborate.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-00-52-am.png" width="1800" height="1200" alt="" uk-img>
+                </div>
+      </div>
+   </div>
+</div>
 
-      {% include ready_to_get_started.html %}
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>Digitize manual processes in minutes using paperless forms.</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Leverage mobile-ready paperless forms to accelerate the flow of business processes.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-9-02-02-am.png" width="1800" height="1200" alt="" uk-img>
+                </div>
+      </div>
+   </div>
+</div>
 
-      {% include Why_does_it_work.html title="Why Zira?" subtitle="Because teams can actually use data to do their jobs better." %}
-  
-      {% include made_for_manufacturing_pros.html columns="6" title="Made for manufacturing pros" subtitle="" %}
-  
+<div class="uk-section">
+   <div class="uk-container">
+       <div uk-grid>
+                <div class="uk-width-1-3@m uk-margin-auto-vertical">
+                   <h2>Build powerful, automated workflows & business processes</h2>
+                   <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Execute faster, effectively collaborate, and automate productivity tasks in any part of your business.</div>
+                </div>
+               <div class="uk-width-2-3@m uk-margin-auto">
+                 <img data-src="/uploads/screen-shot-2021-11-10-at-3-01-23-pm.png" width="1800" height="1200" alt="" uk-img>
+                </div>
+      </div>
+   </div>
+</div>
