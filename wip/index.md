@@ -66,7 +66,7 @@ Use Zira to digitally transform your business.</div>
    <div class="uk-container">
        <div uk-grid>
                 <div class="uk-width-1-3@m uk-margin-auto-vertical">
-                   <h2>One place for people to collaborate, share knowledge, and automate tasks.</h2>
+                   <h2>One place for people to collaborate and automate tasks.</h2>
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Channels are where people collaborate around real time data and insights while keeping knowledge orgenized and accessible.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
