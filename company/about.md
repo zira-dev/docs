@@ -104,4 +104,3 @@ title: About Us
 </div>
    
 {% include ziraTeam.html title="Our Management Team" %}
-{% include manufacturing_just_changed.html %}
