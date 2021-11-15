@@ -50,7 +50,7 @@ authors:
     title: Business Development
     avatar: avatar-jake.png
   dana:
-    name: Dana (Reichman) Ben Ari
+    name: Dana Ben Ari
     title: CFO
     avatar: avatar-dana.jpeg
   muli:
@@ -61,10 +61,6 @@ authors:
     name: Mor Lehr
     title: Lead Data Architect
     avatar: avatar-mor.jpeg
-  Gadi:
-    name: Gadi Maizler
-    title: Backend Team Leader
-    avatar: avatar-gadi.jpeg
   Haggai:
     name: Haggai Philip Zagury
     title: DevOps and Security
