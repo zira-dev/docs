@@ -1,8 +1,8 @@
 ---
 layout: page
 width: expand
+
 ---
-   
 <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
@@ -12,7 +12,7 @@ width: expand
         <div class="uk-container">
             <div uk-grid>
                 <div class="uk-width-1-2@m uk-margin-auto-vertical">
-                    <h1>Making the world work better.</h1>
+                    <h1>Save time make data accessible drive action.</h1>
                     <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">We’re more than collaboration.  Or analytics.
 Use Zira to digitally transform your business.</div> 
                    <div><a style="color:white; background-color: #4a6ef6;" class="uk-button uk-button-primary" href="https://zira.us/contact">Get connected</a>
