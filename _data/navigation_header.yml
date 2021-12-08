@@ -4,37 +4,42 @@ left:
   # - title: Home
   #  url: /
   
-  - title: Products
-    dropdown:
-      - title: Overview
-        url: /products/connected_collaboration/introduction/
-      - title: Connected Machines
-        url: /products/connected_machines/overview/
-      - title: Connected Workforce
-        url: /products/connected_workforce/overview/
-  - title: Company 
-    dropdown:
-      - title: About Us
-        url: /company/about/
-      - title: Careers
-        url: /company/careers
-  - title: Resources
-    dropdown:
-      - title: Learn
-        url: /docs/getting-started/introduction/
-      - title: Developers
-        url: /developers/getting-started/introduction/
-      - title: Blog
-        url: /blog/
-  - title: Free Trial
-    url: /contact/
-    button: warning-outline
+  #- title: Products
+  #  dropdown:
+  #    - title: Overview
+  #      url: /products/connected_collaboration/introduction/
+  #    - title: Connected Machines
+  #      url: /products/connected_machines/overview/
+  #    - title: Connected Workforce
+  #      url: /products/connected_workforce/overview/
+  #- title: Company 
+  #  dropdown:
+  #    - title: About Us
+  #      url: /company/about/
+  #    - title: Careers
+  #      url: /company/careers
+  #- title: Resources
+  #  dropdown:
+  #    - title: Learn
+  #      url: /docs/getting-started/introduction/
+  #    - title: Developers
+  #      url: /developers/getting-started/introduction/
+  #    - title: Blog
+  #      url: /blog/
+  #- title: Free Trial
+  #  url: /contact/
+  #  button: warning-outline
       
         
 
 # Navbar right menu navigation links
 
 right:
+
+  - title: Contact
+    url: /contact/
+  - title: Resources
+        url: /developers/getting-started/introduction/
   - title: Login
     url: https://my.zira.us
     button: success
