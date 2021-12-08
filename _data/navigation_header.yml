@@ -39,7 +39,7 @@ right:
   - title: Contact
     url: /contact/
   - title: Resources
-        url: /developers/getting-started/introduction/
+    url: /developers/getting-started/introduction/
   - title: Login
     url: https://my.zira.us
     button: success
