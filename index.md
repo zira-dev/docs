@@ -55,7 +55,7 @@ for managing businesses of all sizes.
                    <div class="uk-text-medium uk-margin-small-top uk-margin-medium-bottom">Get connected with teams, projects, activities and updates of what matters most to your bottom line.</div>
                 </div>
                <div class="uk-width-2-3@m uk-margin-auto">
-                  <iframe src="https://www.youtube-nocookie.com/embed/3Y0TFFf3r7s?modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+                  <iframe src="https://www.youtube-nocookie.com/embed/3Y0TFFf3r7s?modestbranding=1&amp;playsinline=1" width="1920" height="1080" frameborder="0" allowfullscreen uk-responsive uk-video="autoplay: false"></iframe>
 
                 </div>
       </div>
