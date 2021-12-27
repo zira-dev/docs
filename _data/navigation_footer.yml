@@ -1,14 +1,15 @@
 # Footer navigation links
 
-#- title: Home
-#  url: /
-#  
-#- title: About
-#  url: /company/about/
-#
-#- title: Blog
-#  url: /blog/
-#
-#- title: Contact
-#  url: /contact/
-#
+- title: Home
+  url: /
+- title: About
+  url: /company/about/
+- title: Blog
+  url: /blog/
+- title: Contact
+  url: /contact/
+- title: Privacy
+  url: /company/privacy-policy
+- title: Terms
+  url: /company/terms-of-use
+
