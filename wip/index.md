@@ -8,7 +8,7 @@ width: expand
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 <script src="https://zira.us/assets/js/carousel.js"></script>
 
-<div class="uk-section uk-background-fixed" style="background-image: url(/uploads/textured_background.jpg);">
+<div class="uk-section uk-background-fixed" style="background-image: url(/uploads/background-video.mp4);">
         <div class="uk-container">
             <div uk-grid>
                 <div class="uk-width-1-2@m uk-margin-auto-vertical">
